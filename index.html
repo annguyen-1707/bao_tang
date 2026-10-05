@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bảo tàng Tư tưởng Hồ Chí Minh</title>
+    <meta name="description" content="Sảnh bảo tàng 3D: đứng giữa sảnh, nhìn quanh và bước vào sáu phòng trưng bày về tư tưởng Hồ Chí Minh." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 fill=%22%237A1712%22/%3E%3Cpath d=%22M16 5l3.1 9.5H29l-8 5.8 3 9.5-8-5.8-8 5.8 3-9.5-8-5.8h9.9z%22 fill=%22%23C9A23F%22/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&subset=vietnamese&display=swap"
+    />
+    <link rel="stylesheet" href="/src/styles/base.css" />
+  </head>
+  <body class="lobby">
+    <div id="stage" class="stage" aria-hidden="true"></div>
+
+    <header class="lobby-header">
+      <h1 class="lobby-title" id="museum-title">Bảo tàng Tư tưởng Hồ Chí Minh</h1>
+      <div class="lobby-actions">
+        <button type="button" class="map-toggle ending-btn" id="ending-btn" hidden>Lời kết</button>
+        <button type="button" class="map-toggle" id="map-toggle" aria-expanded="false" aria-controls="map-panel">
+          Danh sách phòng
+        </button>
+      </div>
+    </header>
+
+    <nav class="map-panel" id="map-panel" aria-labelledby="map-heading" hidden>
+      <div class="map-panel__head">
+        <h2 id="map-heading">Danh sách phòng</h2>
+        <button type="button" class="map-close" id="map-close" aria-label="Đóng danh sách phòng">×</button>
+      </div>
+      <p class="map-notice" id="map-notice" hidden></p>
+      <ol class="map-list" id="map-list"></ol>
+      <div class="map-footer">
+        <button type="button" class="map-reset" id="map-credits">Nguồn tư liệu</button>
+      </div>
+      <div class="map-progress" id="map-progress" hidden>
+        <span id="map-progress-text"></span>
+        <button type="button" class="map-reset" id="map-reset">Tham quan lại từ đầu</button>
+      </div>
+    </nav>
+
+    <dialog class="panel-dialog" id="intro-dialog" aria-labelledby="intro-title">
+      <div class="panel-dialog__inner">
+        <h2 id="intro-title">Lời giới thiệu</h2>
+        <p class="panel-dialog__text" id="intro-text"></p>
+        <div class="panel-dialog__actions">
+          <button type="button" class="panel-btn panel-btn--primary" data-close>Bắt đầu tham quan</button>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog class="panel-dialog credits-dialog" id="credits-dialog" aria-labelledby="credits-title">
+      <div class="panel-dialog__inner">
+        <h2 id="credits-title">Nguồn tư liệu</h2>
+        <div class="credits" id="credits-body"></div>
+        <div class="panel-dialog__actions">
+          <button type="button" class="panel-btn panel-btn--primary" data-close>Đóng</button>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog class="panel-dialog ending-dialog" id="ending-dialog" aria-labelledby="ending-title">
+      <div class="panel-dialog__inner ending">
+        <figure class="ending__figure" id="ending-figure" hidden>
+          <img alt="" />
+          <figcaption></figcaption>
+        </figure>
+        <div class="ending__body">
+          <h2 id="ending-title">Lời kết</h2>
+          <blockquote class="ending__quote" id="ending-quote" hidden>
+            <p></p>
+            <footer></footer>
+            <small class="quote-pending" hidden>Trích dẫn đang được đối chiếu nguyên văn với Hồ Chí Minh Toàn tập.</small>
+          </blockquote>
+          <div class="panel-dialog__text ending__text" id="ending-text"></div>
+        <div class="panel-dialog__actions">
+          <button type="button" class="panel-btn" id="ending-reset">Tham quan lại từ đầu</button>
+          <button type="button" class="panel-btn panel-btn--primary" data-close>Đóng</button>
+        </div>
+        </div>
+      </div>
+    </dialog>
+
+    <div class="tooltip" id="tooltip" role="presentation" hidden>
+      <strong class="tooltip__name"></strong>
+      <span class="tooltip__desc"></span>
+    </div>
+
+    <p class="hint" id="hint">Kéo để nhìn quanh · Bấm vào cửa để vào phòng</p>
+
+    <div class="loading" id="loading" role="status">
+      <div class="loading__mark" aria-hidden="true"></div>
+      <p>Đang mở cửa sảnh…</p>
+    </div>
+
+    <div class="fade" id="fade" aria-hidden="true"></div>
+
+    <script type="module" src="/src/lobby/main.js"></script>
+  </body>
+</html>

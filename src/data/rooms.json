@@ -1,0 +1,953 @@
+{
+  "museum": {
+    "title": "Bảo tàng Tư tưởng Hồ Chí Minh",
+    "motto": "Không có gì quý hơn độc lập, tự do",
+    "mottoSource": "Hồ Chí Minh, Lời kêu gọi đồng bào và chiến sĩ cả nước, 17/7/1966"
+  },
+  "museumIntro": "Bảo tàng Tư tưởng Hồ Chí Minh đưa bạn đi qua sáu phòng trưng bày, ứng với sáu chương của môn học. Bắt đầu từ câu hỏi tư tưởng Hồ Chí Minh là gì, đi theo hành trình hình thành tư tưởng ấy, rồi dừng lại ở những quan điểm lớn: độc lập dân tộc và chủ nghĩa xã hội, Đảng và Nhà nước, đại đoàn kết, văn hóa, đạo đức và con người. Ở mỗi phòng, hãy lật mặt sau của từng bức tranh để thấy tư tưởng ấy còn nói gì với chúng ta hôm nay.",
+  "ending": {
+    "quote": "Điều mong muốn cuối cùng của tôi là: Toàn Đảng toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới",
+    "quoteSource": "Di chúc",
+    "quoteStatus": "pending",
+    "imageHint": "Ảnh bản thảo Di chúc",
+    "image": "images/ending.png",
+    "imageCaption": "Bản Di chúc viết tay năm 1969 (phần mở đầu)",
+    "text": [
+      "Đi qua sáu phòng trưng bày, nhóm chúng tôi mong cùng các bạn nhìn lại một hành trình: từ người thanh niên rời bến Nhà Rồng năm 1911 đến bản Di chúc viết những năm cuối đời, tư tưởng Hồ Chí Minh hình thành từ thực tiễn đấu tranh của dân tộc và luôn đặt con người ở vị trí trung tâm.",
+      "Độc lập dân tộc gắn liền với chủ nghĩa xã hội; một Đảng trong sạch, vững mạnh và một Nhà nước của dân, do dân, vì dân; khối đại đoàn kết toàn dân tộc; một nền văn hóa soi đường và đạo đức làm gốc. Đó không chỉ là những bài học trong giáo trình, mà là những giá trị vẫn còn nguyên ý nghĩa hôm nay.",
+      "Với sinh viên chúng ta, học tư tưởng của Người không dừng lại ở việc ghi nhớ. Đó là chăm chỉ học tập, trung thực trong thi cử, sống có trách nhiệm với tập thể và với đất nước. Những việc nhỏ làm mỗi ngày cũng là cách góp phần vào điều mong muốn cuối cùng mà Người để lại.",
+      "Cảm ơn bạn đã đồng hành cùng nhóm chúng tôi trong chuyến tham quan Bảo tàng Tư tưởng Hồ Chí Minh."
+    ],
+    "imageSource": "Ho Chi Minh, Public domain, qua Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh%27s_will_1969_handwriting_version_correcting_the_opening.png",
+    "artifact": {
+      "type": "Bút tích",
+      "date": "10/5/1969",
+      "place": null,
+      "description": "Trang viết tay đề ngày 10.5.69, phần Người viết lại đoạn mở đầu bản Di chúc, có nhiều chỗ sửa bằng mực đỏ. Di chúc được Người bắt đầu viết từ năm 1965 và tiếp tục sửa chữa, bổ sung trong những năm sau."
+    }
+  },
+  "credits": {
+    "team": [],
+    "teamNote": null,
+    "references": [
+      {
+        "title": "Giáo trình Tư tưởng Hồ Chí Minh",
+        "detail": "Dành cho bậc đại học hệ không chuyên lý luận chính trị. Bộ Giáo dục và Đào tạo, Nhà xuất bản Chính trị quốc gia Sự thật, 2021",
+        "url": null
+      },
+      {
+        "title": "Hồ Chí Minh Toàn tập",
+        "detail": "Bộ 15 tập, Nhà xuất bản Chính trị quốc gia Sự thật, 2011. Nguồn đối chiếu các trích dẫn",
+        "url": null
+      },
+      {
+        "title": "Đề cương bài giảng Tư tưởng Hồ Chí Minh 2021",
+        "detail": "Đại học Thái Nguyên. Tham khảo cấu trúc chương, các quan điểm chính và trích dẫn",
+        "url": "https://mysite.tnu.edu.vn/files/users/ttkthoa/TTHCM__2021.pdf"
+      }
+    ],
+    "imageNote": "Ảnh tư liệu được dùng cho mục đích học tập, phi thương mại. Ảnh từ Wikimedia Commons theo giấy phép ghi kèm; ảnh từ báo chí và cơ quan lưu trữ thuộc bản quyền của đơn vị ghi nguồn.",
+    "artwork": [
+      {
+        "title": "Hoa văn trống đồng trên sàn sảnh",
+        "detail": "Bản vẽ lại hoa văn mặt trống đồng, sưu tầm và tái dựng bởi MOGON (bản tải miễn phí)",
+        "url": null
+      }
+    ]
+  },
+  "sourcesNote": "Nơi tìm ảnh tư liệu: Bảo tàng Hồ Chí Minh; Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch; Trung tâm Lưu trữ quốc gia; Thông tấn xã Việt Nam; trang điện tử của Đảng Cộng sản Việt Nam. Không dùng ảnh phục chế màu hoặc ảnh do AI tạo cho tranh tư liệu lịch sử.",
+  "rooms": [
+    {
+      "id": "khoi-nguyen",
+      "order": 1,
+      "name": "Phòng Khởi nguyên",
+      "chapter": "Chương 1",
+      "subtitle": "Khái niệm, đối tượng và ý nghĩa học tập tư tưởng Hồ Chí Minh",
+      "intro": "Tư tưởng Hồ Chí Minh là gì, và học để làm gì.",
+      "isTimeline": false,
+      "items": [
+        {
+          "id": "p1-mot-khai-niem-duoc-dinh-hinh",
+          "title": "Một khái niệm được định hình",
+          "time": "2011",
+          "description": "Đại hội XI nêu khái niệm: tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam; là kết quả vận dụng, phát triển sáng tạo chủ nghĩa Mác - Lênin, kế thừa truyền thống dân tộc, tiếp thu tinh hoa văn hóa nhân loại.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Hiểu đúng khái niệm giúp phân biệt tư tưởng của Người với những cách hiểu xuyên tạc trên mạng.",
+          "image": "images/dhx.jpg",
+          "imageCaption": "Hội trường Đại hội XI của Đảng, Hà Nội, 1/2011",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "1/2011",
+            "place": "Hà Nội",
+            "description": "Toàn cảnh hội trường Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam. Giữa sân khấu là tượng bán thân Chủ tịch Hồ Chí Minh, phía sau là dòng chữ \"Đảng Cộng sản Việt Nam – Đại hội XI\". Hai tấm pano lớn hai bên trích Cương lĩnh xây dựng đất nước năm 1991 và Di chúc của Chủ tịch Hồ Chí Minh."
+          },
+          "imageSource": null,
+          "imageSourceUrl": null,
+          "imageHint": "Ảnh hội trường Đại hội XI của Đảng (2011)"
+        },
+        {
+          "id": "p1-nen-tang-tu-tuong-cua-dang",
+          "title": "Nền tảng tư tưởng của Đảng",
+          "time": "1991",
+          "description": "Đại hội VII (1991) lần đầu khẳng định Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Giải thích vì sao môn học này nằm trong chương trình của mọi sinh viên.",
+          "image": "images/p1-nen-tang-tu-tuong-cua-dang.jpg",
+          "imageCaption": "Đại hội đại biểu toàn quốc lần thứ VII của Đảng, 6/1991",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "6/1991",
+            "place": "Hà Nội",
+            "description": "Đoàn Chủ tịch và các đại biểu trong hội trường Đại hội VII của Đảng, họp từ ngày 24 đến 27/6/1991. Phía sau sân khấu là tượng bán thân Chủ tịch Hồ Chí Minh trên nền cờ Đảng, bên cạnh chân dung C. Mác, V.I. Lênin và dòng chữ \"Đảng Cộng sản Việt Nam – Đại hội VII\". Đại hội này lần đầu khẳng định tư tưởng Hồ Chí Minh là nền tảng tư tưởng của Đảng."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Hà Tĩnh",
+          "imageSourceUrl": "https://baohatinh.vn/dang-cong-san-viet-nam-qua-cac-ky-dai-hoi-dai-hoi-lan-thu-vii-cua-dang-post277198.html",
+          "imageHint": "Ảnh Đại hội VII của Đảng (1991)"
+        },
+        {
+          "id": "p1-doi-tuong-nghien-cuu",
+          "title": "Đối tượng nghiên cứu",
+          "time": null,
+          "description": "Môn học nghiên cứu hệ thống quan điểm, lý luận trong toàn bộ di sản của Hồ Chí Minh, và quá trình các quan điểm ấy được hiện thực hóa trong cách mạng Việt Nam.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Di sản không chỉ nằm trong sách, mà trong cách nó được vận dụng vào đời sống.",
+          "image": "images/p1-doi-tuong-nghien-cuu.jpg",
+          "imageCaption": "Bộ sách Hồ Chí Minh Toàn tập gồm 15 tập",
+          "artifact": {
+            "type": "Sách",
+            "date": "Xuất bản lần thứ ba, 2011",
+            "place": "Nhà xuất bản Chính trị quốc gia Sự thật",
+            "description": "Bộ Hồ Chí Minh Toàn tập gồm 15 tập, tập hợp khoảng 3.300 tác phẩm của Chủ tịch Hồ Chí Minh từ năm 1912 đến năm 1969; tập 15 ghi giai đoạn 1966–1969. Bộ sách in lần đầu năm 1990 (10 tập), tái bản năm 1995 (12 tập) và năm 2011 được bổ sung thành 15 tập. Đây là nguồn chính thức để đối chiếu các trích dẫn của Người."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://nhandan.vn/ocop/tai-ban-cac-an-pham-dac-biet-ve-chu-tich-ho-chi-minh-post936714.html",
+          "imageHint": "Ảnh bộ sách Hồ Chí Minh Toàn tập"
+        },
+        {
+          "id": "p1-the-gioi-ghi-nhan",
+          "title": "Thế giới ghi nhận",
+          "time": "1987",
+          "description": "Năm 1987, UNESCO thông qua nghị quyết kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh, ghi nhận Người là Anh hùng giải phóng dân tộc, Nhà văn hóa kiệt xuất của Việt Nam.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Giá trị tư tưởng vượt ra ngoài biên giới một quốc gia.",
+          "image": "images/p1-the-gioi-ghi-nhan.jpg",
+          "imageCaption": "Phái đoàn Việt Nam tại Đại hội đồng UNESCO khóa 24, Paris, 1987",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "1987",
+            "place": "Paris, Pháp",
+            "description": "Các thành viên phái đoàn Việt Nam ngồi sau biển tên \"VIET NAM\" tại phiên họp Đại hội đồng UNESCO khóa 24. Tại kỳ họp này, UNESCO thông qua Nghị quyết 24C/18.65 kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh (1990), tôn vinh Người là Anh hùng giải phóng dân tộc, Nhà văn hóa kiệt xuất của Việt Nam."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://nhandan.vn/nghi-quyet-cua-unesco-ton-vinh-chu-tich-ho-chi-minh-post714978.html",
+          "imageHint": "Ảnh lễ kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh (1990)"
+        },
+        {
+          "id": "p1-hoc-de-lam-gi",
+          "title": "Học để làm gì",
+          "time": null,
+          "description": "Học tập môn này giúp nâng cao năng lực tư duy lý luận, bồi dưỡng lòng yêu nước, phẩm chất đạo đức và bản lĩnh chính trị của sinh viên.",
+          "quote": "Non sông Việt Nam có trở nên tươi đẹp hay không... chính là nhờ một phần lớn ở công học tập của các em",
+          "quoteSource": "Thư gửi các học sinh, 9/1945",
+          "today": "Câu hỏi dành cho chính người xem: việc học hôm nay góp gì cho đất nước?",
+          "image": "images/p1-hoc-de-lam-gi.jpg",
+          "imageCaption": "Trích Thư gửi các học sinh (9/1945) trên pano tại một trường học",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "27/4/2025",
+            "place": "Một trường tiểu học ở Ninh Bình",
+            "description": "Tấm pano trên mặt tiền dãy lớp học in hình Bác Hồ với thiếu nhi và đoạn trích thư Bác gửi học sinh nhân ngày khai trường đầu tiên của nước Việt Nam độc lập, tháng 9/1945. Hơn tám mươi năm sau, lời dặn về \"công học tập của các em\" vẫn hiện diện giữa sân trường."
+          },
+          "imageSource": "CVQT, CC BY 4.0, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tr%C3%ADch_%C4%91o%E1%BA%A1n_Th%C6%B0_Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh_g%E1%BB%ADi_h%E1%BB%8Dc_sinh_trong_pano_t%E1%BA%A1i_m%E1%BB%99t_tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc.jpg",
+          "imageHint": "Ảnh tư liệu Bác với học sinh, hoặc bản Thư gửi các học sinh (9/1945)"
+        }
+      ]
+    },
+    {
+      "id": "hanh-trinh",
+      "order": 2,
+      "name": "Phòng Hành trình",
+      "chapter": "Chương 2",
+      "subtitle": "Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh",
+      "intro": "Tư tưởng Hồ Chí Minh ra đời tất yếu từ hoàn cảnh dân tộc và thời đại, qua năm thời kỳ.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p2-dat-nuoc-lam-than",
+          "title": "Đất nước lầm than",
+          "time": "Cuối thế kỷ XIX",
+          "description": "Cuối thế kỷ XIX, Việt Nam thành xã hội thuộc địa nửa phong kiến. Các phong trào yêu nước theo hệ tư tưởng phong kiến rồi tư sản đều thất bại: đất nước khủng hoảng về đường lối cứu nước.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Mỗi thế hệ đều phải tự trả lời câu hỏi của thời mình.",
+          "image": "images/p2-dat-nuoc-lam-than.jpg",
+          "imageCaption": "Chiếu Cần vương của vua Hàm Nghi, 1885",
+          "artifact": {
+            "type": "Văn bản chữ Hán",
+            "date": "Khoảng năm 1885",
+            "place": null,
+            "description": "Chiếu Cần vương ban hành dưới danh nghĩa vua Hàm Nghi, tố cáo tội ác của thực dân Pháp và kêu gọi sĩ phu, nhân dân giúp vua đánh Pháp, mở đầu phong trào Cần vương cuối thế kỷ XIX. Bản chiếu không có dấu ấn triện; nhiều nhà nghiên cứu coi là văn bản đáng tin cậy, một số khác còn đặt vấn đề về văn bản học."
+          },
+          "imageSource": "Nguyen Dynasty in 19th century, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Chieu_Can_Vuong.jpg",
+          "imageHint": "Ảnh phong trào Cần Vương; chân dung Phan Bội Châu, Phan Châu Trinh"
+        },
+        {
+          "id": "p2-thoi-dai-chuyen-minh",
+          "title": "Thời đại chuyển mình",
+          "time": "1917–1919",
+          "description": "Chủ nghĩa tư bản chuyển sang đế quốc; Cách mạng Tháng Mười Nga (1917) thắng lợi; Quốc tế Cộng sản ra đời (1919), mở ra con đường mới cho các dân tộc thuộc địa.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Nhìn vấn đề trong nước phải đặt trong bối cảnh thế giới.",
+          "image": "images/p2-thoi-dai-chuyen-minh.jpg",
+          "imageCaption": "Cung điện Mùa Đông ở Petrograd sau khi bị chiếm, 10/1917",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Sáng 26/10 (7/11 theo lịch mới) năm 1917",
+            "place": "Petrograd (nay là Sankt-Peterburg), Nga",
+            "description": "Mặt tiền Cung điện Mùa Đông buổi sáng sau khi bị lực lượng cách mạng chiếm, nhiều ô cửa kính bị vỡ. Sự kiện đánh dấu thắng lợi của Cách mạng Tháng Mười Nga, mở ra con đường mới cho các dân tộc thuộc địa. Ảnh của nhiếp ảnh gia P. Novitsky."
+          },
+          "imageSource": "Pyotr Novitsky, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:After_the_capture_of_the_Winter_Palace._Petrograd._Morning_on_26_October_1917.jpg",
+          "imageHint": "Ảnh Cách mạng Tháng Mười Nga (1917)"
+        },
+        {
+          "id": "p2-hanh-trang-truoc-luc-ra-di",
+          "title": "Hành trang trước lúc ra đi",
+          "time": null,
+          "description": "Cơ sở lý luận gồm: truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc; tinh hoa văn hóa phương Đông (Nho, Phật) và phương Tây (tư tưởng tự do, bình đẳng, bác ái); về sau là chủ nghĩa Mác - Lênin, nền tảng quyết định.",
+          "quote": "Dân ta có một lòng nồng nàn yêu nước. Đó là một truyền thống quý báu của ta",
+          "quoteSource": "Báo cáo chính trị tại Đại hội II của Đảng, 1951",
+          "today": "Tiếp thu cái mới mà không đánh mất gốc rễ.",
+          "image": "images/p2-hanh-trang-truoc-luc-ra-di.jpg",
+          "imageCaption": "Khu di tích Kim Liên, Nam Đàn, Nghệ An",
+          "artifact": {
+            "type": "Ảnh chụp (di tích ngày nay)",
+            "date": "Trước năm 2009",
+            "place": "Kim Liên, Nam Đàn, Nghệ An",
+            "description": "Một góc Khu di tích lịch sử Kim Liên, quê hương của Chủ tịch Hồ Chí Minh, với các công trình mái ngói kiểu truyền thống và cây cổ thụ trước sân. Nơi đây gắn với những năm tháng thơ ấu của Nguyễn Sinh Cung trong gia đình nhà nho yêu nước."
+          },
+          "imageSource": "Liftold at Vietnamese Wikipedia, CC BY-SA 3.0, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Lien_Monuments_Park.JPG",
+          "imageHint": "Ảnh quê nội Kim Liên (Nghệ An); Trường Dục Thanh (Phan Thiết)"
+        },
+        {
+          "id": "p2-thoi-ky-truoc-1911",
+          "title": "Thời kỳ trước 1911",
+          "time": "Trước 1911",
+          "description": "Hình thành tư tưởng yêu nước và chí hướng tìm con đường cứu nước mới. Ngày 5/6/1911, Nguyễn Tất Thành rời Bến Nhà Rồng ra đi.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Dám đi xa để học điều chưa biết.",
+          "image": "images/p2-thoi-ky-truoc-1911.jpg",
+          "imageCaption": "Tượng Nguyễn Tất Thành tại Bến Nhà Rồng, Thành phố Hồ Chí Minh",
+          "artifact": {
+            "type": "Ảnh chụp (di tích ngày nay)",
+            "date": "13/5/2010",
+            "place": "Bến Nhà Rồng, Thành phố Hồ Chí Minh",
+            "description": "Tượng đồng Nguyễn Tất Thành trước tòa nhà Bến Nhà Rồng, nay là Bảo tàng Hồ Chí Minh – Chi nhánh Thành phố Hồ Chí Minh. Biển đồng dưới chân tượng ghi: \"Nguyễn Tất Thành ra đi tìm đường cứu nước ngày 5 tháng 6 năm 1911\". Ảnh chụp trong dịp kỷ niệm 120 năm ngày sinh Chủ tịch Hồ Chí Minh."
+          },
+          "imageSource": "TDA (Wikipedia tiếng Việt), Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:T%C6%B0%E1%BB%A3ng_Nguy%E1%BB%85n_%C3%81i_Qu%E1%BB%91c_-_Nguy%E1%BB%85n_T%E1%BA%A5t_Th%C3%A0nh_-_Nh%C3%A0_t%C6%B0%E1%BB%9Fng_ni%E1%BB%87m_B%E1%BA%BFn_Nh%C3%A0_R%E1%BB%93ng.JPG",
+          "imageHint": "Ảnh Bến Nhà Rồng"
+        },
+        {
+          "id": "p2-tim-thay-con-duong",
+          "title": "Tìm thấy con đường",
+          "time": "1911–1920",
+          "description": "Người khảo sát nhiều nước, gửi Bản yêu sách tới Hội nghị Versailles (1919). Tháng 7/1920, đọc Sơ thảo luận cương của Lênin về vấn đề dân tộc và thuộc địa; tháng 12/1920, tán thành Quốc tế Cộng sản tại Đại hội Tours.",
+          "quote": "Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản",
+          "quoteSource": "Con đường dẫn tôi đến chủ nghĩa Lênin, 1960",
+          "today": "Lựa chọn đúng cần trải nghiệm, so sánh và tư duy độc lập.",
+          "image": "images/p2-tim-thay-con-duong.jpg",
+          "imageCaption": "Nguyễn Ái Quốc tại Đại hội Tours, Pháp, 12/1920",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "12/1920",
+            "place": "Tours, Pháp",
+            "description": "Nguyễn Ái Quốc đứng phát biểu giữa các đại biểu tại Đại hội lần thứ XVIII Đảng Xã hội Pháp ở thành phố Tours. Tại đại hội, Người bỏ phiếu tán thành gia nhập Quốc tế Cộng sản và trở thành một trong những người tham gia sáng lập Đảng Cộng sản Pháp. Góc trên bên trái ảnh có dấu \"TTXVN\"."
+          },
+          "imageSource": "Ảnh: TTXVN (Commons ghi Public domain), qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Comrade_Nguyen_Ai_Quoc_at_the_national_congress_of_the_Socialist_Party_of_France_in_the_city_of_Tous,_France_in_December_1920.jpg",
+          "imageHint": "Ảnh Nguyễn Ái Quốc tại Đại hội Tours (12/1920); bản Yêu sách của nhân dân An Nam (6/1919)"
+        },
+        {
+          "id": "p2-hinh-thanh-co-ban",
+          "title": "Hình thành cơ bản",
+          "time": "1921–1930",
+          "description": "Hoạt động ở Pháp, Liên Xô, Trung Quốc; lập Hội Việt Nam Cách mạng Thanh niên (1925); viết Đường Kách mệnh (1927). Đầu năm 1930 chủ trì hợp nhất các tổ chức cộng sản, thông qua Cương lĩnh chính trị đầu tiên.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Ý tưởng lớn cần được viết ra, truyền bá và tổ chức thành hành động.",
+          "image": "images/p2-hinh-thanh-co-ban.jpg",
+          "imageCaption": "Bìa cuốn Bản án chế độ thực dân Pháp",
+          "artifact": {
+            "type": "Sách in",
+            "date": "Xuất bản lần đầu năm 1925",
+            "place": "Paris, Pháp",
+            "description": "Bìa cuốn \"Le Procès de la Colonisation Française\" (Bản án chế độ thực dân Pháp), tên tác giả ghi Nguyễn Ái Quốc, tựa sách in bằng tiếng Pháp, tiếng Ả Rập và chữ Hán. Dòng cuối bìa ghi nhà xuất bản Librairie du Travail, số 96 Quai de Jemmapes, Paris. Tác phẩm tố cáo tội ác của chủ nghĩa thực dân và kêu gọi các dân tộc thuộc địa đứng lên."
+          },
+          "imageSource": "Hồ Chí Minh., Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Proc%C3%A8s_de_la_Colonisation_Fran%C3%A7aise_-_Nguy%E1%BB%85n_%C3%81i_Qu%E1%BB%91c.jpg",
+          "imageHint": "Ảnh báo Le Paria, báo Thanh Niên, bìa Bản án chế độ thực dân Pháp, Đường Kách mệnh"
+        },
+        {
+          "id": "p2-vuot-qua-thu-thach",
+          "title": "Vượt qua thử thách",
+          "time": "1930–1941",
+          "description": "Người bị bắt ở Hồng Kông (1931), có lúc quan điểm của Người không được hiểu đúng, nhưng Người vẫn kiên định con đường giải phóng dân tộc đã chọn.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Kiên định đúng đắn khi bị nghi ngờ là một phẩm chất.",
+          "image": "images/p2-vuot-qua-thu-thach.jpg",
+          "imageCaption": "Nguyễn Ái Quốc (tên Tống Văn Sơ) khi bị bắt ở Hồng Kông, 6/1931",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "6/1931",
+            "place": "Hồng Kông",
+            "description": "Ảnh chân dung Nguyễn Ái Quốc, khi ấy mang tên Tống Văn Sơ, chụp lúc Người bị nhà cầm quyền Anh bắt giữ tại Hồng Kông. Đây là quãng thời gian thử thách nặng nề trong cuộc đời hoạt động cách mạng của Người."
+          },
+          "imageSource": "Không rõ tác giả, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sung_Man_Cho_(Ho_Chi_Minh)_1931.jpg",
+          "imageHint": "Ảnh tư liệu giai đoạn Người hoạt động ở nước ngoài những năm 1930"
+        },
+        {
+          "id": "p2-phat-trien-va-hoan-thien",
+          "title": "Phát triển và hoàn thiện",
+          "time": "1941–1969",
+          "description": "Ngày 28/1/1941 về nước, lãnh đạo Cách mạng Tháng Tám, lập nước Việt Nam Dân chủ Cộng hòa; tư tưởng tiếp tục phát triển qua kháng chiến và xây dựng chủ nghĩa xã hội, kết tinh trong Di chúc (1965–1969).",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Lý luận trưởng thành cùng thực tiễn.",
+          "image": "images/p2-phat-trien-va-hoan-thien.jpg",
+          "imageCaption": "Hang Cốc Bó, Pác Bó, Cao Bằng",
+          "artifact": {
+            "type": "Ảnh chụp (di tích ngày nay)",
+            "date": "8/1/2016",
+            "place": "Pác Bó, Cao Bằng",
+            "description": "Bên trong hang Cốc Bó: chiếc bàn đá kê sát vách và khối nhũ đá được đặt tên \"Tượng Các Mác\". Sau 30 năm hoạt động ở nước ngoài, Nguyễn Ái Quốc về nước ngày 28/1/1941 và sống, làm việc tại hang này trong những tuần đầu năm 1941."
+          },
+          "imageSource": "[Tycho] talk , http://shansov.net, CC BY-SA 3.0, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:C%E1%BB%91c_B%C3%B3.jpg",
+          "imageHint": "Ảnh hang Cốc Bó (Pác Bó); Quảng trường Ba Đình 2/9/1945; bản thảo Di chúc"
+        },
+        {
+          "id": "p2-gia-tri-cua-tu-tuong",
+          "title": "Giá trị của tư tưởng",
+          "time": null,
+          "description": "Tư tưởng Hồ Chí Minh soi đường cho cách mạng Việt Nam, đồng thời đóng góp vào phong trào giải phóng dân tộc và tiến bộ của nhân loại.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Liên hệ: những giá trị nào còn nguyên tính thời sự?",
+          "image": "images/p2-gia-tri-cua-tu-tuong.jpg",
+          "imageCaption": "Tem Ấn Độ kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh, 1990",
+          "artifact": {
+            "type": "Tem bưu chính",
+            "date": "1990",
+            "place": "Ấn Độ",
+            "description": "Con tem mệnh giá 2,00 rupee do Bưu chính Ấn Độ phát hành năm 1990, in chân dung Chủ tịch Hồ Chí Minh bên cạnh một ngôi nhà giữa vườn cây, tên Người ghi bằng chữ Hindi và chữ Latinh. Năm 1990, nhiều nước phát hành tem kỷ niệm 100 năm ngày sinh của Người."
+          },
+          "imageSource": "Post of India, GODL-India, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_1990_-_Colnect_164136_-_Ho_Chi_Minh_Vietnamese_Leader_-_Birth_Centenary.jpeg",
+          "imageHint": "Ảnh tư liệu về sự ghi nhận quốc tế"
+        }
+      ]
+    },
+    {
+      "id": "doc-lap-cnxh",
+      "order": 3,
+      "name": "Phòng Độc lập dân tộc và Chủ nghĩa xã hội",
+      "chapter": "Chương 3",
+      "subtitle": "Tư tưởng về độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+      "intro": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+      "isTimeline": false,
+      "items": [
+        {
+          "id": "p3-quyen-thieng-lieng",
+          "title": "Quyền thiêng liêng",
+          "time": "2/9/1945",
+          "description": "Độc lập, tự do là quyền tự nhiên, thiêng liêng, bất khả xâm phạm của mọi dân tộc. Tuyên ngôn Độc lập khẳng định quyền ấy trước quốc dân và thế giới.",
+          "quote": "Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do, độc lập",
+          "quoteSource": "Tuyên ngôn Độc lập, 2/9/1945",
+          "today": "Chủ quyền là điều không thể đánh đổi.",
+          "image": "images/p3-quyen-thieng-lieng.jpg",
+          "imageCaption": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình, 2/9/1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "2/9/1945",
+            "place": "Quảng trường Ba Đình, Hà Nội",
+            "description": "Lễ đài tại Quảng trường Ba Đình chiều 2/9/1945, nơi Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa. Mặt trước lễ đài là ngôi sao vàng lớn trên nền vải, phía dưới là các chiến sĩ đứng gác. Ảnh lưu tại Cục Văn thư và Lưu trữ nhà nước."
+          },
+          "imageSource": "Front pour l'indépendance du Việt-Nam, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9sident_Ho-chi-Minh_lit_la_Proclamation-d%27ind%C3%A9pendance_sur_la_place_Ba-dinh_le_2nd_Sep_1945.jpg",
+          "imageHint": "Ảnh Quảng trường Ba Đình, 2/9/1945"
+        },
+        {
+          "id": "p3-doc-lap-gan-voi-hanh-phuc",
+          "title": "Độc lập gắn với hạnh phúc",
+          "time": null,
+          "description": "Độc lập phải đem lại cơm no, áo ấm, học hành cho nhân dân; nếu không thì độc lập chẳng có ý nghĩa.",
+          "quote": "Tôi chỉ có một sự ham muốn, ham muốn tột bậc, là làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành",
+          "quoteSource": "Trả lời các nhà báo nước ngoài, 1/1946",
+          "today": "Phát triển kinh tế và an sinh là cách giữ độc lập bền vững.",
+          "image": "images/p3-doc-lap-gan-voi-hanh-phuc.jpg",
+          "imageCaption": "Sắc lệnh số 7 về buôn bán và chuyên chở thóc gạo, 5/9/1945",
+          "artifact": {
+            "type": "Văn bản đánh máy",
+            "date": "5/9/1945",
+            "place": "Hà Nội",
+            "description": "Sắc lệnh số 7 của Chính phủ lâm thời Việt Nam Dân chủ Cộng hòa: cho phép buôn bán, chuyên chở thóc gạo hoàn toàn tự do trong toàn Bắc Bộ, Chính phủ mua thẳng thóc gạo của tư gia, kẻ đầu cơ tích trữ sẽ bị nghiêm phạt. Văn bản ra đời ba ngày sau Tuyên ngôn Độc lập, giữa lúc nạn đói đang đe dọa miền Bắc. Bản gốc lưu tại Trung tâm Lưu trữ quốc gia III."
+          },
+          "imageSource": "The Provisional Revolutionary Government of the Democratic Republic of Vietnam., Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:S%E1%BA%AFc_l%E1%BB%87nh_s%E1%BB%91_7_ng%C3%A0y_05-09-1945_v%E1%BB%81_vi%E1%BB%87c_bu%C3%B4n_b%C3%A1n_v%C3%A0_chuy%C3%AAn_ch%E1%BB%9F_th%C3%B3c_g%E1%BA%A1o.jpg",
+          "imageHint": "Ảnh tư liệu nhân dân những ngày đầu độc lập; phong trào diệt giặc đói"
+        },
+        {
+          "id": "p3-doc-lap-that-su-toan-ven",
+          "title": "Độc lập thật sự, toàn vẹn",
+          "time": null,
+          "description": "Độc lập phải hoàn toàn, thật sự trên mọi mặt chính trị, kinh tế, quân sự, ngoại giao, và gắn với thống nhất, toàn vẹn lãnh thổ.",
+          "quote": "Nước Việt Nam là một, dân tộc Việt Nam là một",
+          "quoteSource": "Thư gửi đồng bào Nam Bộ, 1946",
+          "today": "Ý thức về biển đảo và chủ quyền lãnh thổ.",
+          "image": "images/p3-doc-lap-that-su-toan-ven.jpg",
+          "imageCaption": "Bút tích Thư gửi đồng bào Nam Bộ của Chủ tịch Hồ Chí Minh, 1946",
+          "artifact": {
+            "type": "Bút tích",
+            "date": "31/5/1946",
+            "place": null,
+            "description": "Bản viết tay mở đầu bằng dòng \"Cùng đồng bào yêu quý Nam Bộ\", viết trước khi Chủ tịch Hồ Chí Minh lên đường sang Pháp đàm phán. Trên bản thảo còn rõ những chỗ Người gạch xóa, viết thêm. Cuối thư là câu khẳng định: \"Đồng bào Nam Bộ là dân nước Việt Nam. Sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi!\"."
+          },
+          "imageSource": null,
+          "imageSourceUrl": null,
+          "imageHint": "Ảnh Thư gửi đồng bào Nam Bộ (1946)"
+        },
+        {
+          "id": "p3-con-duong-cach-mang-vo-san",
+          "title": "Con đường cách mạng vô sản",
+          "time": null,
+          "description": "Rút bài học từ thất bại của các con đường trước, Người khẳng định cách mạng giải phóng dân tộc phải đi theo con đường cách mạng vô sản và do Đảng Cộng sản lãnh đạo.",
+          "quote": "Đảng có vững cách mệnh mới thành công, cũng như người cầm lái có vững thuyền mới chạy",
+          "quoteSource": "Đường Kách mệnh, 1927",
+          "today": "Lựa chọn con đường phải dựa trên tổng kết thực tiễn.",
+          "image": "images/p3-con-duong-cach-mang-vo-san.jpg",
+          "imageCaption": "Bìa sách Đường Kách mệnh, 1927",
+          "artifact": {
+            "type": "Sách in",
+            "date": "1927",
+            "place": "Quảng Châu, Trung Quốc",
+            "description": "Bìa cuốn Đường Kách mệnh, tập hợp các bài giảng của Nguyễn Ái Quốc tại lớp huấn luyện cán bộ Hội Việt Nam Cách mạng Thanh niên, do Bộ Tuyên truyền Hội Liên hiệp các dân tộc bị áp bức ấn hành. Trên bìa in câu của Lênin: \"Không có lý luận cách mệnh, thì không có cách mệnh vận động...\". Dấu đỏ \"Nguyễn Văn Hoan sưu tầm – 1958\" cho biết lai lịch của bản sách này."
+          },
+          "imageSource": "Ho Chi Minh, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Duongkachmenh.jpg",
+          "imageHint": "Bìa Đường Kách mệnh (1927)"
+        },
+        {
+          "id": "p3-luc-luong-toan-dan-tu-luc-tu-cuong",
+          "title": "Lực lượng toàn dân, tự lực tự cường",
+          "time": null,
+          "description": "Cách mạng là sự nghiệp của toàn dân, nòng cốt là công nông; cần chủ động, sáng tạo, có thể thắng lợi trước cách mạng vô sản ở chính quốc; tiến hành bằng bạo lực cách mạng của quần chúng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tự lực trước, rồi mới tranh thủ giúp đỡ bên ngoài.",
+          "image": "images/p3-luc-luong-toan-dan-tu-luc-tu-cuong.jpg",
+          "imageCaption": "Tranh cổ động của Việt Minh, 8/1945",
+          "artifact": {
+            "type": "Tranh cổ động",
+            "date": "8/1945",
+            "place": null,
+            "description": "Áp phích của Mặt trận Việt Minh với các khẩu hiệu: \"Đồng bào! Dịp tốt sắp đến! Mau đoàn kết lại! Gia nhập Việt Minh! Việt Nam độc lập đồng minh đánh đuổi Nhật Pháp! Tiêu trừ Việt gian! Việt Nam độc lập!\". Tranh cổ động là phương tiện tập hợp toàn dân trong những ngày chuẩn bị Tổng khởi nghĩa."
+          },
+          "imageSource": "Viet Minh's poster, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Viet_Minh_poster.jpg",
+          "imageHint": "Ảnh tranh cổ động hoặc hình minh họa \"con đỉa hai vòi\" tự vẽ"
+        },
+        {
+          "id": "p3-thoi-ky-qua-do",
+          "title": "Thời kỳ quá độ",
+          "time": null,
+          "description": "Đặc điểm lớn nhất: từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không trải qua chế độ tư bản chủ nghĩa. Đây là thời kỳ lâu dài, khó khăn; xây phải đi đôi với chống.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đổi mới hôm nay là tiếp tục giải bài toán của thời kỳ quá độ.",
+          "image": "images/p3-thoi-ky-qua-do.jpg",
+          "imageCaption": "Bác Hồ tát nước chống hạn cùng nông dân Tả Thanh Oai, 1/1958",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "12/1/1958",
+            "place": "Xã Tả Thanh Oai (nay thuộc Hà Nội)",
+            "description": "Chủ tịch Hồ Chí Minh cùng nông dân tát nước chống hạn trên cánh đồng Quai Chảo, xung quanh là đông đảo bà con và cán bộ. Hình ảnh vị Chủ tịch nước xắn quần lội ruộng cùng người nông dân trở thành biểu tượng của tinh thần gắn bó với nhân dân trong những năm đầu xây dựng chủ nghĩa xã hội ở miền Bắc."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Văn Hóa",
+          "imageSourceUrl": "https://baovanhoa.vn/doi-song/bac-ho-tat-nuoc-chong-han-cung-nong-dan-me-tri-ta-thanh-oai-196614.html",
+          "imageHint": "Ảnh Bác tát nước chống hạn cùng nông dân (1958)"
+        }
+      ]
+    },
+    {
+      "id": "dang-nha-nuoc",
+      "order": 4,
+      "name": "Phòng Đảng và Nhà nước",
+      "chapter": "Chương 4",
+      "subtitle": "Đảng Cộng sản Việt Nam; Nhà nước của dân, do dân, vì dân",
+      "intro": "Đảng trong sạch, vững mạnh; Nhà nước của dân, do dân, vì dân.",
+      "isTimeline": false,
+      "items": [
+        {
+          "id": "p4-su-ra-doi-tat-yeu",
+          "title": "Sự ra đời tất yếu",
+          "time": "Đầu năm 1930",
+          "description": "Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam ra đời từ sự kết hợp chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước. Yếu tố phong trào yêu nước là điểm sáng tạo so với lý luận chung.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Sức mạnh của Đảng bắt rễ từ lòng yêu nước của dân tộc.",
+          "image": "images/p4-su-ra-doi-tat-yeu.jpg",
+          "imageCaption": "Hội nghị thành lập Đảng, tranh của họa sĩ Phi Hoanh",
+          "artifact": {
+            "type": "Tranh vẽ",
+            "date": "Sự kiện đầu năm 1930",
+            "place": "Cửu Long, Hồng Kông",
+            "description": "Tranh của họa sĩ Phi Hoanh tái hiện Hội nghị hợp nhất các tổ chức cộng sản: Nguyễn Ái Quốc đứng, quàng khăn, trao đổi với các đại biểu ngồi quanh bàn. Hội nghị thống nhất các tổ chức cộng sản trong nước thành Đảng Cộng sản Việt Nam. Do không có ảnh chụp sự kiện, tranh vẽ là tư liệu thường được dùng để minh họa."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Văn Hóa; tác phẩm của họa sĩ Phi Hoanh",
+          "imageSourceUrl": "https://baovanhoa.vn/chinh-tri/chan-dung-7-dong-chi-tham-gia-hoi-nghi-thanh-lap-dang-cong-san-viet-nam-202103.html",
+          "imageHint": "Ảnh tư liệu Hội nghị hợp nhất các tổ chức cộng sản (đầu năm 1930)"
+        },
+        {
+          "id": "p4-nguoi-cam-lai",
+          "title": "Người cầm lái",
+          "time": null,
+          "description": "Đảng là nhân tố hàng đầu quyết định thắng lợi của cách mạng: trong thì vận động, tổ chức dân chúng; ngoài thì liên lạc với các dân tộc bị áp bức.",
+          "quote": "Đảng có vững cách mệnh mới thành công, cũng như người cầm lái có vững thuyền mới chạy",
+          "quoteSource": "Đường Kách mệnh, 1927",
+          "today": "Vai trò lãnh đạo đi kèm trách nhiệm.",
+          "image": "images/p4-nguoi-cam-lai.png",
+          "imageCaption": "Hình minh họa trên bìa sách Đường Kách mệnh, 1927",
+          "artifact": {
+            "type": "Hình in trên bìa sách",
+            "date": "1927",
+            "place": null,
+            "description": "Hình minh họa đóng khung tròn in trên bìa cuốn Đường Kách mệnh, vẽ bằng nét mực đen theo lối tranh khắc: một người đàn ông cởi trần, hai tay ôm trước ngực. Đường Kách mệnh là tài liệu đầu tiên trình bày có hệ thống quan điểm của Nguyễn Ái Quốc về đảng cách mạng."
+          },
+          "imageSource": "Ho Chi Minh, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Illustration_on_the_cover_of_Duong_Kach_Menh.png",
+          "imageHint": "Bìa Đường Kách mệnh"
+        },
+        {
+          "id": "p4-ban-chat-cua-dang",
+          "title": "Bản chất của Đảng",
+          "time": null,
+          "description": "Đảng mang bản chất giai cấp công nhân, đồng thời là Đảng của nhân dân lao động và của dân tộc Việt Nam.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đảng gắn bó máu thịt với nhân dân.",
+          "image": "images/p4-ban-chat-cua-dang.gif",
+          "imageCaption": "Quang cảnh Đại hội đại biểu toàn quốc lần thứ II của Đảng, 2/1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "2/1951",
+            "place": "Xã Vinh Quang, huyện Chiêm Hóa, Tuyên Quang",
+            "description": "Quang cảnh hội trường Đại hội đại biểu toàn quốc lần thứ II: phía trên bàn Đoàn Chủ tịch là ảnh Chủ tịch Hồ Chí Minh, hai bên là cờ và chân dung các lãnh tụ phong trào cộng sản quốc tế; khẩu hiệu \"Đảng Cộng sản Đông Dương muôn năm\" chạy ngang tường. Đại hội họp từ 11 đến 19/2/1951 và quyết định đưa Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam."
+          },
+          "imageSource": "Ảnh tư liệu, dangcongsan.vn, qua Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://www.qdnd.vn/chinh-tri/cac-van-de/cac-ky-dai-hoi-cua-dang-va-nhung-dau-an-lich-su-dai-hoi-lan-thu-ii-hoan-chinh-duong-loi-cach-mang-dan-toc-dan-chu-nhan-dan-813515",
+          "imageHint": "Ảnh Đại hội II của Đảng (1951, Tuyên Quang)"
+        },
+        {
+          "id": "p4-dang-la-dao-duc-la-van-minh",
+          "title": "Đảng là đạo đức, là văn minh",
+          "time": null,
+          "description": "Đảng phải trong sạch, vững mạnh, hoạt động theo các nguyên tắc: tập trung dân chủ; tập thể lãnh đạo, cá nhân phụ trách; tự phê bình và phê bình; kỷ luật nghiêm minh, tự giác; đoàn kết thống nhất; liên hệ mật thiết với nhân dân.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tự phê bình là cách một tổ chức tự làm mới mình.",
+          "image": "images/p4-dang-la-dao-duc-la-van-minh.jpg",
+          "imageCaption": "Bìa sách Sửa đổi lối làm việc",
+          "artifact": {
+            "type": "Sách in",
+            "date": "Tác phẩm viết năm 1947",
+            "place": "Nhà xuất bản Sự Thật",
+            "description": "Bìa cuốn Sửa đổi lối làm việc, in lần thứ tư, Nhà xuất bản Sự Thật; tên tác giả ghi bằng bút danh X.Y.Z. Tác phẩm bàn về tư cách người đảng viên, cán bộ, về tự phê bình và phê bình, về cách lãnh đạo và chống bệnh quan liêu."
+          },
+          "imageSource": "Ho Chi Minh, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bia_Sua_doi_loi_lam_viec.jpg",
+          "imageHint": "Bìa Sửa đổi lối làm việc (1947)"
+        },
+        {
+          "id": "p4-nha-nuoc-cua-dan",
+          "title": "Nhà nước của dân",
+          "time": null,
+          "description": "Mọi quyền lực trong nhà nước và xã hội đều thuộc về nhân dân. Nhân dân thực hiện quyền lực qua dân chủ trực tiếp và dân chủ đại diện.",
+          "quote": "Bao nhiêu lợi ích đều vì dân. Bao nhiêu quyền hạn đều của dân",
+          "quoteSource": "Dân vận, 1949",
+          "today": "Đi bầu cử là thực hiện quyền làm chủ.",
+          "image": "images/p4-nha-nuoc-cua-dan.jpg",
+          "imageCaption": "Khu vực bỏ phiếu ngày Tổng tuyển cử đầu tiên, 6/1/1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "6/1/1946",
+            "place": null,
+            "description": "Cử tri vây quanh bàn bầu cử đặt ngay giữa phố trong ngày Tổng tuyển cử bầu Quốc hội đầu tiên của nước Việt Nam Dân chủ Cộng hòa; các thành viên tổ bầu cử ngồi làm việc trên ghế dài. Hơn 89% cử tri cả nước đã đi bỏ phiếu. Ảnh có dấu của Thông tấn xã Việt Nam."
+          },
+          "imageSource": "Ảnh: TTXVN. Ảnh tư liệu, Cổng thông tin Nghệ An",
+          "imageSourceUrl": "https://hcc.nghean.gov.vn/tin-tong-hop/75-nam-quoc-hoi-viet-nam-chu-tich-ho-chi-minh-va-cuoc-tong-tuyen-cu-dau-tien-67.html",
+          "imageHint": "Ảnh Chủ tịch Hồ Chí Minh bỏ phiếu trong cuộc Tổng tuyển cử 6/1/1946"
+        },
+        {
+          "id": "p4-nha-nuoc-do-dan-vi-dan",
+          "title": "Nhà nước do dân, vì dân",
+          "time": null,
+          "description": "Nhà nước do nhân dân lập nên, nhân dân có quyền kiểm soát, phê bình, bãi miễn đại biểu. Nhà nước vì dân phục vụ lợi ích nhân dân; cán bộ vừa là đày tớ, vừa là người lãnh đạo nhân dân.",
+          "quote": "Việc gì lợi cho dân, ta phải hết sức làm. Việc gì hại đến dân, ta phải hết sức tránh",
+          "quoteSource": "Thư gửi Ủy ban nhân dân các kỳ, tỉnh, huyện và làng, 10/1945",
+          "quoteStatus": "pending",
+          "today": "Dịch vụ công trực tuyến là một cách \"vì dân\" thời nay.",
+          "image": "images/p4-nha-nuoc-do-dan-vi-dan.jpg",
+          "imageCaption": "Kỳ họp thứ nhất Quốc hội khóa I, 2/3/1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "2/3/1946",
+            "place": "Nhà hát Lớn, Hà Nội",
+            "description": "Kỳ họp thứ nhất của Quốc hội khóa I: các đại biểu kín khán phòng và các tầng ban công. Trên lan can treo băng chữ \"Ủng hộ kháng chiến – Toàn dân đoàn kết – Thực hành dân chủ\" và \"Việt Nam độc lập muôn năm\". Quốc hội do toàn dân bầu ra trở thành cơ quan quyền lực cao nhất của Nhà nước."
+          },
+          "imageSource": "Ảnh: TTXVN. Không rõ tác giả, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:H%E1%BB%8Dp_l%E1%BA%A7n_th%E1%BB%A9_nh%E1%BA%A5t,_QH_VNDCCH.jpg",
+          "imageHint": "Ảnh bản Hiến pháp 1946"
+        },
+        {
+          "id": "p4-nha-nuoc-phap-quyen",
+          "title": "Nhà nước pháp quyền",
+          "time": null,
+          "description": "Nhà nước hợp hiến, hợp pháp, thượng tôn pháp luật; pháp quyền gắn với nhân nghĩa, kết hợp đức trị và pháp trị.",
+          "quote": "Trăm điều phải có thần linh pháp quyền",
+          "quoteSource": "Việt Nam yêu cầu ca, 1922",
+          "today": "Sống và làm việc theo pháp luật bắt đầu từ việc nhỏ.",
+          "image": "images/p4-nha-nuoc-phap-quyen.jpg",
+          "imageCaption": "Bản Hiến pháp năm 1946",
+          "artifact": {
+            "type": "Văn bản in",
+            "date": "1946",
+            "place": null,
+            "description": "Bản in của Quốc hội Việt Nam: \"Hiến pháp nước Việt Nam Dân chủ Cộng hòa. Đã được toàn quốc Đại biểu Đại hội nghị họp tại thủ đô Hà Nội thông qua ngày 8 tháng 11 năm 1946 và công nhận là chính thức ngày 9 tháng 11 năm 1946\". Bên phải là các trang nội dung. Tài liệu lưu tại Trung tâm Lưu trữ quốc gia III."
+          },
+          "imageSource": "The government of the Democratic Republic of Vietnam (North Vietnam)., Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hi%E1%BA%BFn_ph%C3%A1p_Vi%E1%BB%87t_Nam_D%C3%A2n_ch%E1%BB%A7_C%E1%BB%99ng_h%C3%B2a_n%C4%83m_1946_-_C%E1%BB%A5c_V%C4%83n_th%C6%B0_v%C3%A0_L%C6%B0u_tr%E1%BB%AF_nh%C3%A0_n%C6%B0%E1%BB%9Bc.jpg",
+          "imageHint": "Ảnh Việt Nam yêu cầu ca hoặc Hiến pháp 1946"
+        }
+      ]
+    },
+    {
+      "id": "dai-doan-ket",
+      "order": 5,
+      "name": "Phòng Đại đoàn kết",
+      "chapter": "Chương 5",
+      "subtitle": "Đoàn kết dân tộc và đoàn kết quốc tế",
+      "intro": "Đoàn kết là sức mạnh, từ trong nước ra quốc tế.",
+      "isTimeline": false,
+      "items": [
+        {
+          "id": "p5-van-de-chien-luoc",
+          "title": "Vấn đề chiến lược",
+          "time": null,
+          "description": "Đại đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, cơ bản, nhất quán, lâu dài, quyết định thành công của cách mạng.",
+          "quote": "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công",
+          "quoteSource": null,
+          "quoteStatus": "pending",
+          "today": "Làm việc nhóm hiệu quả cũng là đoàn kết.",
+          "image": "images/p5-van-de-chien-luoc.jpg",
+          "imageCaption": "Bác Hồ nói chuyện với kiều bào tại Paris, 15/7/1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "15/7/1946",
+            "place": "Palais de la Mutualité, Paris, Pháp",
+            "description": "Chủ tịch Hồ Chí Minh đứng trước micro nói chuyện với kiều bào tại cuộc mít tinh ở Paris, phía sau là hai lá cờ đỏ sao vàng. Trong chuyến thăm Pháp năm 1946, Người nhiều lần gặp gỡ, kêu gọi kiều bào đoàn kết, hướng về Tổ quốc. Ảnh do Bảo tàng Lịch sử Quốc gia công bố."
+          },
+          "imageSource": "Không rõ tác giả, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh_n%C3%B3i_chuy%E1%BB%87n_v%E1%BB%9Bi_ki%E1%BB%81u_b%C3%A0o_ta_t%E1%BA%A1i_cu%E1%BB%99c_m%C3%ADt_tinh_t%E1%BB%95_ch%E1%BB%A9c_t%E1%BA%A1i_Palais_des_Mutualites_ng%C3%A0y_15_th%C3%A1ng_7_n%C4%83m_1946.jpg",
+          "imageHint": "Ảnh Chủ tịch Hồ Chí Minh nói chuyện trước đông đảo đồng bào"
+        },
+        {
+          "id": "p5-muc-tieu-nhiem-vu-hang-dau",
+          "title": "Mục tiêu, nhiệm vụ hàng đầu",
+          "time": "1951",
+          "description": "Đại đoàn kết không chỉ là phương pháp tập hợp lực lượng, mà là mục tiêu, nhiệm vụ hàng đầu của Đảng và của cả dân tộc. Năm 1951, Người nêu mục đích của Đảng Lao động Việt Nam trong tám chữ.",
+          "quote": "Đoàn kết toàn dân, phụng sự Tổ quốc",
+          "quoteSource": "1951",
+          "today": "Đoàn kết là việc của mỗi người, không chỉ của tổ chức.",
+          "image": "images/p5-muc-tieu-nhiem-vu-hang-dau.gif",
+          "imageCaption": "Chủ tịch Hồ Chí Minh đọc Báo cáo chính trị tại Đại hội II của Đảng, 2/1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "2/1951",
+            "place": "Xã Vinh Quang, huyện Chiêm Hóa, Tuyên Quang",
+            "description": "Chủ tịch Hồ Chí Minh đứng đọc Báo cáo chính trị tại Đại hội II của Đảng, phía sau là chân dung và băng khẩu hiệu. Báo cáo tổng kết kinh nghiệm lãnh đạo của Đảng và nêu mục đích của Đảng Lao động Việt Nam trong tám chữ \"Đoàn kết toàn dân, phụng sự Tổ quốc\"."
+          },
+          "imageSource": "Ảnh tư liệu, dangcongsan.vn, qua Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://www.qdnd.vn/chinh-tri/cac-van-de/cac-ky-dai-hoi-cua-dang-va-nhung-dau-an-lich-su-dai-hoi-lan-thu-ii-hoan-chinh-duong-loi-cach-mang-dan-toc-dan-chu-nhan-dan-813515",
+          "imageHint": "Ảnh Đại hội II của Đảng (1951)"
+        },
+        {
+          "id": "p5-khoan-dung-tin-dan",
+          "title": "Khoan dung, tin dân",
+          "time": null,
+          "description": "Muốn đoàn kết phải kế thừa truyền thống yêu nước, nhân nghĩa của dân tộc; có lòng khoan dung, độ lượng, tin vào nhân dân, tin vào con người.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đối thoại thay vì loại trừ.",
+          "image": "images/p5-khoan-dung-tin-dan.jpg",
+          "imageCaption": "Bác Hồ với đại biểu nữ thanh, thiếu niên các dân tộc Lào Cai, 9/1958",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "9/1958",
+            "place": "Lào Cai",
+            "description": "Chủ tịch Hồ Chí Minh chụp ảnh lưu niệm với đại biểu nữ thanh niên, thiếu niên các dân tộc tỉnh Lào Cai; nhiều người mặc trang phục truyền thống, các em quàng khăn đỏ, cầm hoa. Trong chuyến thăm ngày 23–24/9/1958, Người gặp gỡ, nói chuyện với cán bộ và đồng bào các dân tộc trong tỉnh."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Lào Cai",
+          "imageSourceUrl": "https://baolaocai.vn/lao-cai-trong-trai-tim-bac-ho-post373932.html",
+          "imageHint": "Ảnh tư liệu Bác với đồng bào các dân tộc, các tôn giáo"
+        },
+        {
+          "id": "p5-mat-tran-dan-toc-thong-nhat",
+          "title": "Mặt trận dân tộc thống nhất",
+          "time": null,
+          "description": "Hình thức tổ chức của khối đại đoàn kết là Mặt trận dân tộc thống nhất, qua các tên gọi: Hội Phản đế Đồng minh, Mặt trận Việt Minh (1941), Liên Việt, Mặt trận Tổ quốc Việt Nam (1955).",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đoàn kết cần có tổ chức mới bền vững.",
+          "image": "images/p5-mat-tran-dan-toc-thong-nhat.jpg",
+          "imageCaption": "Đại hội thống nhất Việt Minh – Liên Việt, 3/1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "3/1951",
+            "place": "Chiến khu Việt Bắc",
+            "description": "Các đại biểu chụp ảnh lưu niệm trước cửa hội trường dựng bằng tre gỗ; tấm biển phía trên ghi \"Đại hội toàn quốc thống nhất Việt Minh – Liên Việt\". Đại hội họp từ ngày 3 đến 7/3/1951, thành lập Mặt trận Liên hiệp quốc dân Việt Nam (Mặt trận Liên Việt). Theo chú thích của nguồn, trong ảnh có Chủ tịch Hồ Chí Minh và đồng chí Tôn Đức Thắng."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Văn Hóa",
+          "imageSourceUrl": "https://baovanhoa.vn/chinh-tri/ra-doi-mat-tran-lien-viet-208194.html",
+          "imageHint": "Ảnh Đại hội thống nhất Việt Minh – Liên Việt (3/1951); Mặt trận Tổ quốc Việt Nam (1955)"
+        },
+        {
+          "id": "p5-doan-ket-quoc-te",
+          "title": "Đoàn kết quốc tế",
+          "time": null,
+          "description": "Đoàn kết quốc tế kết hợp sức mạnh dân tộc với sức mạnh thời đại. Lực lượng: phong trào cộng sản và công nhân quốc tế, phong trào giải phóng dân tộc, các lực lượng tiến bộ yêu chuộng hòa bình.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Việt Nam là bạn, là đối tác tin cậy của các nước.",
+          "image": "images/p5-doan-ket-quoc-te.jpg",
+          "imageCaption": "Nguyễn Ái Quốc tại Đại hội Đảng Cộng sản Pháp ở Marseille, 12/1921",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "26/12/1921",
+            "place": "Marseille, Pháp",
+            "description": "Ảnh chân dung Nguyễn Ái Quốc, đại biểu Đông Dương tại Đại hội Đảng Cộng sản Pháp ở Marseille, do hãng ảnh Meurisse chụp. Cùng năm 1921, Người cùng những người yêu nước ở các thuộc địa của Pháp lập Hội Liên hiệp thuộc địa; năm 1922 hội ra báo Le Paria (Người cùng khổ). Ảnh lưu tại Thư viện Quốc gia Pháp."
+          },
+          "imageSource": "Agence de presse Meurisse, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nguyen_A%C3%AFn_Nu%C3%A4%27C_(Ho-Chi-Minh),_d%C3%A9l%C3%A9gu%C3%A9_indochinois,_Congr%C3%A8s_communiste_de_Marseille,_1921,_Meurisse,_BNF_Gallica.jpg",
+          "imageHint": "Ảnh báo Le Paria (1922); Hội Liên hiệp thuộc địa (1921)"
+        },
+        {
+          "id": "p5-co-ly-co-tinh-tu-luc-tu-cuong",
+          "title": "Có lý, có tình, tự lực tự cường",
+          "time": null,
+          "description": "Đoàn kết quốc tế trên cơ sở thống nhất mục tiêu, lợi ích, có lý có tình; độc lập, tự chủ, tự lực, tự cường.",
+          "quote": "Thực lực là cái chiêng mà ngoại giao là cái tiếng. Chiêng có to tiếng mới lớn",
+          "quoteSource": "1945",
+          "quoteStatus": "pending",
+          "today": "Nội lực quyết định vị thế quốc tế.",
+          "image": "images/p5-co-ly-co-tinh-tu-luc-tu-cuong.jpg",
+          "imageCaption": "Lễ ký Hiệp định Sơ bộ Việt – Pháp, 6/3/1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "6/3/1946",
+            "place": "Hà Nội",
+            "description": "Lễ ký Hiệp định Sơ bộ Việt – Pháp. Theo chú thích của nguồn, từ trái sang: Chủ tịch Hồ Chí Minh, Thứ trưởng Bộ Nội vụ Hoàng Minh Giám, Ủy viên Cộng hòa Pháp ở Bắc Việt Nam Jean Sainteny, cố vấn chính trị Léon Pignon và Louis Caput. Hiệp định tạo thời gian hòa hoãn quý báu để chuẩn bị lực lượng cho cuộc kháng chiến lâu dài."
+          },
+          "imageSource": "Không rõ tác giả, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ho%E2%80%93Sainteny_agreement,_March_6,_1946.jpg",
+          "imageHint": "Ảnh tư liệu hoạt động ngoại giao những năm 1945–1946"
+        }
+      ]
+    },
+    {
+      "id": "van-hoa-dao-duc",
+      "order": 6,
+      "name": "Phòng Văn hóa, Đạo đức, Con người",
+      "chapter": "Chương 6",
+      "subtitle": "Tư tưởng về văn hóa, đạo đức và con người",
+      "intro": "Văn hóa soi đường, đạo đức là gốc, con người vừa là mục tiêu vừa là động lực.",
+      "isTimeline": false,
+      "items": [
+        {
+          "id": "p6-van-hoa-la-gi",
+          "title": "Văn hóa là gì",
+          "time": "8/1943",
+          "description": "Tháng 8/1943, trong nhà tù, Người nêu định nghĩa văn hóa: toàn bộ những sáng tạo, phát minh của loài người vì lẽ sinh tồn và mục đích cuộc sống, từ ngôn ngữ, đạo đức, pháp luật đến ăn, mặc, ở.",
+          "quote": "Vì lẽ sinh tồn cũng như mục đích của cuộc sống, loài người mới sáng tạo và phát minh ra...",
+          "quoteSource": "Ghi chép cuối tập Nhật ký trong tù, 1943",
+          "today": "Văn hóa có mặt trong cả những thói quen hằng ngày.",
+          "image": "images/p6-van-hoa-la-gi.jpg",
+          "imageCaption": "Tờ cuối bản thảo Nhật ký trong tù",
+          "artifact": {
+            "type": "Bút tích",
+            "date": "1942–1943",
+            "place": null,
+            "description": "Tờ số 53, tờ cuối của tập Nhật ký trong tù, chép hai bài thơ cuối bằng chữ Hán. Hai dòng số 29-8-1942 và 10-9-1943 ghi thời gian Người bị giam, bên dưới là chữ \"Hoàn\" (hết). Ở những trang ghi chép cuối của cuốn sổ này, tháng 8/1943, Người viết định nghĩa về văn hóa."
+          },
+          "imageSource": "7ieulong, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:T%E1%BB%9D_cu%E1%BB%91i_t%E1%BA%ADp_th%C6%A1_Nh%E1%BA%ADt_k%C3%BD_trong_t%C3%B9.jpg",
+          "imageHint": "Ảnh trang ghi chép cuối tập Nhật ký trong tù"
+        },
+        {
+          "id": "p6-van-hoa-soi-duong",
+          "title": "Văn hóa soi đường",
+          "time": null,
+          "description": "Văn hóa là đời sống tinh thần của xã hội, quan trọng ngang chính trị, kinh tế, xã hội; văn hóa không đứng ngoài mà ở trong kinh tế và chính trị.",
+          "quote": "Văn hóa phải soi đường cho quốc dân đi",
+          "quoteSource": "Hội nghị Văn hóa toàn quốc, 1946",
+          "quoteStatus": "pending",
+          "today": "Văn hóa là sức mạnh mềm của quốc gia.",
+          "image": "images/p6-van-hoa-soi-duong.jpg",
+          "imageCaption": "Đại biểu dự Hội nghị Văn hóa toàn quốc lần thứ nhất, 11/1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "11/1946",
+            "place": "Hà Nội",
+            "description": "Các đại biểu dự Hội nghị Văn hóa toàn quốc lần thứ nhất chụp ảnh chung trước một tòa nhà trang trí cờ, hoa và băng chữ. Hội nghị khai mạc ngày 24/11/1946 tại Nhà hát Lớn Hà Nội với hơn 200 nhà hoạt động văn hóa; Chủ tịch Hồ Chí Minh dự và phát biểu."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Văn Hóa",
+          "imageSourceUrl": "https://baovanhoa.vn/van-hoa/vi-sao-ngay-2411-duoc-chon-la-ngay-van-hoa-viet-nam-197152.html",
+          "imageHint": "Ảnh Hội nghị Văn hóa toàn quốc lần thứ nhất (24/11/1946)"
+        },
+        {
+          "id": "p6-dan-toc-khoa-hoc-dai-chung",
+          "title": "Dân tộc, khoa học, đại chúng",
+          "time": null,
+          "description": "Nền văn hóa mới mang ba tính chất: dân tộc, khoa học, đại chúng; phục vụ nhân dân và do nhân dân xây dựng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Giữ bản sắc khi hội nhập và chuyển đổi số.",
+          "image": "images/p6-dan-toc-khoa-hoc-dai-chung.jpg",
+          "imageCaption": "Bác Hồ thăm một lớp Bình dân học vụ",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": null,
+            "place": null,
+            "description": "Chủ tịch Hồ Chí Minh đứng xem một học viên nhỏ tuổi cầm thước chỉ lên bảng đọc bài trong một lớp Bình dân học vụ. Phong trào \"diệt giặc dốt\" được phát động ngày 8/9/1945; chỉ sau một năm, hơn 2,5 triệu người đã biết đọc, biết viết."
+          },
+          "imageSource": "Ảnh tư liệu, Bộ Công Thương",
+          "imageSourceUrl": "https://moit.gov.vn/bao-ve-nen-tang-tu-tuong-cua-dang/gia-tri-truong-ton-cua-tu-tuong-ho-chi-minh-tu-binh-dan-hoc-vu-den-binh-dan-hoc-vu-so.html",
+          "imageHint": "Ảnh lớp Bình dân học vụ (phong trào diệt giặc dốt)"
+        },
+        {
+          "id": "p6-dao-duc-la-goc",
+          "title": "Đạo đức là gốc",
+          "time": null,
+          "description": "Đạo đức là gốc, là nền tảng của người cách mạng, như gốc của cây, nguồn của sông.",
+          "quote": "Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân",
+          "quoteSource": "Sửa đổi lối làm việc, 1947",
+          "today": "Có tài phải đi cùng có đức.",
+          "image": "images/p6-dao-duc-la-goc.jpg",
+          "imageCaption": "Bìa sách Sửa đổi lối làm việc",
+          "artifact": {
+            "type": "Sách in",
+            "date": "Tác phẩm viết năm 1947",
+            "place": "Nhà xuất bản Sự Thật",
+            "description": "Bìa cuốn Sửa đổi lối làm việc (in lần thứ tư), tác giả ký bút danh X.Y.Z. Trong tác phẩm, Người khẳng định đạo đức là gốc của người cách mạng và nêu những yêu cầu về tư cách, đạo đức của người đảng viên, cán bộ."
+          },
+          "imageSource": "Ho Chi Minh, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bia_Sua_doi_loi_lam_viec.jpg",
+          "imageHint": "Bìa Sửa đổi lối làm việc (1947)"
+        },
+        {
+          "id": "p6-can-kiem-liem-chinh",
+          "title": "Cần, kiệm, liêm, chính",
+          "time": "1949",
+          "description": "Các chuẩn mực đạo đức: trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chí công vô tư; thương yêu con người, sống có tình nghĩa; tinh thần quốc tế trong sáng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Liên hệ: chăm học, tiết kiệm, trung thực trong thi cử.",
+          "image": "images/p6-can-kiem-liem-chinh.jpg",
+          "imageCaption": "Bút tích của Bác tại Trường Nguyễn Ái Quốc Trung ương, 9/1949",
+          "artifact": {
+            "type": "Bút tích",
+            "date": "9/1949",
+            "place": "Trường Nguyễn Ái Quốc Trung ương",
+            "description": "Lời Bác ghi vào sổ của Trường Nguyễn Ái Quốc Trung ương: \"Học để làm việc, làm người, làm cán bộ. Học để phụng sự Đoàn thể, giai cấp và nhân dân, Tổ quốc và nhân loại. Muốn đạt mục đích, thì phải cần, kiệm, liêm, chính, chí công, vô tư\". Cuối trang là chữ ký \"Hồ Chí Minh\", ghi tháng \"9.49\" và dấu son."
+          },
+          "imageSource": "Hồ Chí Minh, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:But_tich_cua_Chu_tich_Ho_Chi_Minh,_th%C3%A1ng_9_nam_1949.jpg",
+          "imageHint": "Bìa tác phẩm Cần, kiệm, liêm, chính (1949)"
+        },
+        {
+          "id": "p6-hien-vat-cua-mot-loi-song",
+          "title": "Hiện vật của một lối sống",
+          "time": null,
+          "description": "Cuộc sống giản dị của Người là minh chứng sống cho đạo đức cách mạng: nói đi đôi với làm, nêu gương về đạo đức.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Nêu gương bằng việc làm, không chỉ bằng lời nói.",
+          "image": "images/p6-hien-vat-cua-mot-loi-song.jpg",
+          "imageCaption": "Đôi dép cao su của Bác, Bảo tàng Hồ Chí Minh",
+          "artifact": {
+            "type": "Hiện vật",
+            "date": null,
+            "place": "Bảo tàng Hồ Chí Minh, Hà Nội",
+            "description": "Đôi dép cao su quai chéo trưng bày trong tủ kính, nhãn ghi \"Đôi dép cao su của Chủ tịch Hồ Chí Minh\". Đế và quai dép đã mòn vẹt sau nhiều năm sử dụng. Hiện vật giản dị này là minh chứng cho lối sống cần kiệm của Người."
+          },
+          "imageSource": "Gary Todd from Xinzheng, China, CC0, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh%27s_Sandals_Made_from_Tires_of_Shot-Down_American_Aircraft_(9753799822).jpg",
+          "imageHint": "Ảnh đôi dép cao su, bộ quần áo kaki, nhà sàn trong Khu di tích Phủ Chủ tịch"
+        },
+        {
+          "id": "p6-tu-duong-suot-doi",
+          "title": "Tu dưỡng suốt đời",
+          "time": null,
+          "description": "Nguyên tắc xây dựng đạo đức: nói đi đôi với làm; xây đi đôi với chống; tu dưỡng đạo đức suốt đời.",
+          "quote": "Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hằng ngày mà phát triển và củng cố",
+          "quoteSource": "Đạo đức cách mạng, 1958",
+          "quoteStatus": "pending",
+          "today": "Rèn luyện là việc của mỗi ngày.",
+          "image": "images/p6-tu-duong-suot-doi.jpg",
+          "imageCaption": "Bác Hồ trong phòng làm việc ở Paris, 6/1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "6/1946",
+            "place": "Khách sạn Royal Monceau, Paris, Pháp",
+            "description": "Chủ tịch Hồ Chí Minh ngồi bên bàn làm việc đầy giấy tờ trong phòng ở khách sạn Royal Monceau, một tay đặt lên trán, gương mặt tươi cười. Dù ở đâu, Người vẫn giữ thói quen làm việc, đọc và viết đều đặn mỗi ngày. Ảnh do Bảo tàng Lịch sử Quốc gia công bố."
+          },
+          "imageSource": "Không rõ tác giả, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh_trong_ph%C3%B2ng_l%C3%A0m_vi%E1%BB%87c_%E1%BB%9F_kh%C3%A1ch_s%E1%BA%A1n_Royal_Monceau,_th%C3%A1ng_6_n%C4%83m_1946.jpg",
+          "imageHint": "Ảnh tư liệu Bác đọc sách, làm việc"
+        },
+        {
+          "id": "p6-trong-nguoi",
+          "title": "Trồng người",
+          "time": null,
+          "description": "Con người là mục tiêu và động lực của cách mạng; xây dựng con người mới là nhiệm vụ chiến lược lâu dài, gắn với giáo dục.",
+          "quote": "Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người",
+          "quoteSource": "1958",
+          "today": "Đầu tư cho giáo dục là đầu tư cho tương lai.",
+          "image": "images/p6-trong-nguoi.jpg",
+          "imageCaption": "Bác Hồ với thiếu nhi, thập niên 1950",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Thập niên 1950 (chưa xác định)",
+            "place": null,
+            "description": "Chủ tịch Hồ Chí Minh đi giữa đông đảo thiếu nhi và người dân; các em quàng khăn đỏ, cầm hoa, một em bé đội nón đi sát bên Người. Nguồn ảnh không ghi rõ thời gian, địa điểm, chỉ xác định ảnh chụp trước năm 1969, nhiều khả năng vào thập niên 1950."
+          },
+          "imageSource": "Musée Annam, Public domain, qua Wikimedia Commons",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ho-chi-Minh_with_children_(5).jpg",
+          "imageHint": "Ảnh Bác với thiếu nhi, học sinh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Phòng trưng bày · Bảo tàng Tư tưởng Hồ Chí Minh</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 fill=%22%237A1712%22/%3E%3Cpath d=%22M16 5l3.1 9.5H29l-8 5.8 3 9.5-8-5.8-8 5.8 3-9.5-8-5.8h9.9z%22 fill=%22%23C9A23F%22/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&subset=vietnamese&display=swap"
+    />
+    <link rel="stylesheet" href="/src/styles/base.css" />
+    <link rel="stylesheet" href="/src/styles/room.css" />
+  </head>
+  <body class="room">
+    <header class="room-header">
+      <a class="back-link" href="./index.html"><span aria-hidden="true">←</span> Về sảnh</a>
+      <div class="room-heading">
+        <h1 class="room-name" id="room-name">Đang tải…</h1>
+        <p class="room-intro" id="room-intro"></p>
+      </div>
+    </header>
+
+    <main id="room-main"></main>
+
+    <dialog class="lightbox" id="lightbox" aria-labelledby="lb-title">
+      <div class="lightbox__inner">
+        <div class="lightbox__art">
+          <div class="flip-stage">
+          <div class="flip" id="lb-flip">
+            <div class="flip__inner">
+              <figure class="flip__face flip__front" id="lb-art"></figure>
+              <section class="flip__face flip__back" id="lb-back" aria-label="Mặt sau bức tranh: ý nghĩa và trích dẫn" aria-hidden="true" inert>
+                <p class="flip__today" id="lb-today"></p>
+                <blockquote class="flip__quote" id="lb-quote"></blockquote>
+              </section>
+            </div>
+          </div>
+          </div>
+          <button type="button" class="lb-flip-btn" id="lb-flip-btn" aria-pressed="false" aria-controls="lb-flip">
+            <span aria-hidden="true">↻</span> Lật tranh
+          </button>
+        </div>
+        <article class="lightbox__text">
+          <p class="lightbox__time" id="lb-time"></p>
+          <h2 class="lightbox__title" id="lb-title"></h2>
+          <p class="lightbox__desc" id="lb-desc"></p>
+          <section class="artifact" id="lb-artifact" aria-labelledby="lb-artifact-title">
+            <h3 class="artifact__title" id="lb-artifact-title">Thông tin tư liệu</h3>
+            <dl class="artifact__meta" id="lb-artifact-meta"></dl>
+            <p class="artifact__desc" id="lb-artifact-desc"></p>
+            <p class="lightbox__credit" id="lb-credit"></p>
+          </section>
+        </article>
+        <div class="lightbox__nav">
+          <button type="button" class="lb-btn" id="lb-prev" aria-label="Tranh trước">←</button>
+          <span class="lightbox__count" id="lb-count" aria-live="polite"></span>
+          <button type="button" class="lb-btn" id="lb-next" aria-label="Tranh sau">→</button>
+        </div>
+        <button type="button" class="lb-close" id="lb-close" aria-label="Đóng">×</button>
+      </div>
+    </dialog>
+
+    <script type="module" src="/src/room/main.js"></script>
+  </body>
+</html>
