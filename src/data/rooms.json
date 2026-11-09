@@ -1,0 +1,1626 @@
+{
+  "museum": {
+    "title": "Bảo tàng Lịch sử Đảng Cộng sản Việt Nam (1945 - 1951)",
+    "motto": "Dân tộc trên hết, Tổ quốc trên hết",
+    "mottoSource": "Chỉ thị Kháng chiến kiến quốc, Ban Thường vụ Trung ương Đảng, 25/11/1945",
+    "music": {
+      "src": "audio/sanh.mp3"
+    },
+    "roomMusic": {
+      "src": "audio/nhac-nen-phong.mp3"
+    }
+  },
+  "museumIntro": "Bảo tàng Lịch sử Đảng Cộng sản Việt Nam (1945 - 1951) tái hiện giai đoạn lịch sử hào hùng từ sau Cách mạng Tháng Tám năm 1945 đến Đại hội đại biểu toàn quốc lần thứ II của Đảng năm 1951. Hệ thống tư liệu ảnh được tuyển chọn theo 6 phần tương ứng với các tiểu mục trong Giáo trình Lịch sử Đảng Cộng sản Việt Nam (trang 60 - 76), giúp người xem nắm vững hoàn cảnh lịch sử, đường lối kháng chiến kiến quốc và những mốc son chói lọi của dân tộc dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh.",
+  "ending": {
+    "quote": "Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy",
+    "quoteSource": "Tuyên ngôn Độc lập, 2/9/1945",
+    "imageHint": "Chủ tịch Hồ Chí Minh tại Đại hội II (1951)",
+    "image": "images/p6/E6A2.jpg",
+    "imageCaption": "Chủ tịch Hồ Chí Minh đọc Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng (2-1951)",
+    "text": [
+      "Trải qua 6 không gian trưng bày, chúng ta đã cùng nhìn lại chặng đường lịch sử đầy gian khổ nhưng vô cùng vẻ vang của dân tộc giai đoạn 1945 - 1951.",
+      "Từ tình thế \"ngàn cân treo sợi tóc\" sau Cách mạng Tháng Tám, dưới sự lãnh đạo sáng suốt của Đảng và Chủ tịch Hồ Chí Minh, nhân dân ta đã vừa kháng chiến vừa kiến quốc, bảo vệ và xây dựng chế độ mới, tiến hành cuộc kháng chiến toàn dân, toàn diện, trường kỳ và tự lực cánh sinh.",
+      "Đại hội đại biểu toàn quốc lần thứ II (1951) đã đánh dấu bước trưởng thành vượt bậc về tư tưởng, lý luận và tổ chức của Đảng ta, đưa cuộc kháng chiến chống thực dân Pháp tiến lên giai đoạn phát triển mới giành thắng lợi hoàn toàn.",
+      "Cảm ơn bạn đã đồng hành trong chuyến tham quan Bảo tàng Lịch sử Đảng Cộng sản Việt Nam (1945 - 1951)."
+    ],
+    "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+    "artifact": {
+      "type": "Ảnh chụp",
+      "date": "Tháng 2/1951",
+      "place": "Chiêm Hóa, Tuyên Quang",
+      "description": "Chủ tịch Hồ Chí Minh đọc Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng tại căn cứ Kim Bình, Chiêm Hóa, Tuyên Quang."
+    }
+  },
+  "credits": {
+    "team": [],
+    "teamNote": null,
+    "references": [
+      {
+        "title": "Giáo trình Lịch sử Đảng Cộng sản Việt Nam",
+        "detail": "Dành cho bậc đại học hệ không chuyên lý luận chính trị. Ban Tuyên giáo Trung ương, Nhà xuất bản Chính trị quốc gia Sự thật (trang 60 - 76)",
+        "url": "https://www.iuv.edu.vn/cms/plugin_upload/preview/news/1468/1113/gt-lich-su-dang-csvn-ban-tuyen-giao-tw.pdf"
+      },
+      {
+        "title": "Văn kiện Đảng Toàn tập",
+        "detail": "Bộ Văn kiện Đảng giai đoạn 1945 - 1951, Nhà xuất bản Chính trị quốc gia Sự thật",
+        "url": null
+      },
+      {
+        "title": "Hồ Chí Minh Toàn tập",
+        "detail": "Bộ 15 tập, Nhà xuất bản Chính trị quốc gia Sự thật, 2011. Nguồn đối chiếu các trích dẫn và chỉ thị lịch sử",
+        "url": null
+      }
+    ],
+    "imageNote": "Ảnh tư liệu lịch sử được tổng hợp từ Bảo tàng Lịch sử Quốc gia, Báo Nhân Dân, Báo Quân đội nhân dân, Cổng Thông tin điện tử Chính phủ, Báo Điện tử Đảng Cộng sản Việt Nam và Wikimedia Commons theo các giấy phép tư liệu lịch sử.",
+    "artwork": [
+      {
+        "title": "Hoa văn trống đồng trên sàn sảnh",
+        "detail": "Bản vẽ lại hoa văn mặt trống đồng Đông Sơn, sưu tầm và tái dựng",
+        "url": null
+      }
+    ]
+  },
+  "sourcesNote": "Nơi tìm ảnh tư liệu: Bảo tàng Lịch sử Quốc gia; Bảo tàng Hồ Chí Minh; Trung tâm Lưu trữ quốc gia; Thông tấn xã Việt Nam; Báo Nhân Dân; Báo Quân đội nhân dân; Cổng Thông tin điện tử Chính phủ.",
+  "rooms": [
+    {
+      "id": "tinh-hinh-sau-cmn8",
+      "order": 1,
+      "icon": "star",
+      "audio": null,
+      "name": "Tình hình sau Cách mạng Tháng Tám (1945)",
+      "chapter": "Phần 1",
+      "subtitle": "Xây dựng và bảo vệ chính quyền cách mạng 1945 - 1946 (Trang 60 - 62)",
+      "intro": "Sau thắng lợi của Cách mạng Tháng Tám năm 1945, nước Việt Nam Dân chủ Cộng hòa non trẻ phải đối mặt với tình thế hiểm nghèo \"ngàn cân treo sợi tóc\": giặc đói, giặc dốt, tài chính kiệt quệ và thù trong giặc ngoài.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p1-item-1-1",
+          "code": "1.1",
+          "title": "Khai sinh nước Việt Nam Dân chủ Cộng hòa",
+          "time": "02/9/1945",
+          "description": "Ngày 2-9-1945, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình, mở ra kỷ nguyên độc lập, tự do cho dân tộc Việt Nam.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tuyên ngôn Độc lập là văn kiện lịch sử bất hủ, khẳng định quyền thiêng liêng được sống trong độc lập, tự do và mưu cầu hạnh phúc của nhân dân Việt Nam.",
+          "image": "images/p1/d1a1.jpg",
+          "images": [
+            "images/p1/d1a1.jpg",
+            "images/p1/d1a2.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình, Hà Nội, ngày 2-9-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "02/9/1945",
+            "place": "Quảng trường Ba Đình, Hà Nội, Việt Nam",
+            "description": "Trên lễ đài Độc lập tại Quảng trường Ba Đình lịch sử, Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời trang trọng đọc bản Tuyên ngôn Độc lập trước hàng chục vạn đồng bào, tuyên bố trước toàn thế giới sự ra đời của Nhà nước Việt Nam Dân chủ Cộng hòa. Nhân dân Việt Nam từ thân phận nô lệ trở thành người làm chủ đất nước, Đảng Cộng sản trở thành Đảng cầm quyền lãnh đạo cách mạng trong cả nước."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://nhandan.vn/special/tuyenngondoclap_ynghia/index.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ba_Dinh_Square_September_2nd,_1945.jpg",
+          "video": {
+            "youtube": "xRKUB3fUTJM",
+            "title": "Toàn văn: Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập",
+            "kind": "Thước phim tư liệu gốc",
+            "date": "02/9/1945",
+            "place": "Quảng trường Ba Đình, Hà Nội, Việt Nam",
+            "duration": "8:23",
+            "description": "Thước phim tư liệu và bản thu âm lịch sử ngày 2-9-1945: Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời trang trọng đọc bản Tuyên ngôn Độc lập trước quốc dân đồng bào, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+            "source": "Trung tâm Tin tức VTV24 (Đài Truyền hình Việt Nam)"
+          }
+        },
+        {
+          "id": "p1-item-1-2",
+          "code": "1.2",
+          "title": "Khối đại đoàn kết trong Ngày Độc lập",
+          "time": "02/9/1945",
+          "description": "Hàng chục vạn nhân dân Thủ đô và các vùng lân cận tập trung tại Quảng trường Ba Đình, biểu thị quyết tâm bảo vệ nền độc lập vừa giành được.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Khối đại đoàn kết toàn dân tộc luôn là nhân tố quyết định đưa đất nước vượt qua mọi phong ba bão táp.",
+          "image": "images/p1/d2a1.jpg",
+          "images": [
+            "images/p1/d2a1.jpg",
+            "images/p1/d2a2.jpg"
+          ],
+          "imageCaption": "Toàn cảnh mít tinh mừng Ngày Độc lập tại Quảng trường Ba Đình, ngày 2-9-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "02/9/1945",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Biển người mang theo cờ đỏ sao vàng và biểu ngữ xếp hàng trang nghiêm dưới lễ đài Ba Đình để lắng nghe lời Tuyên ngôn Độc lập và tuyên thệ ủng hộ Chính phủ lâm thời do Chủ tịch Hồ Chí Minh đứng đầu. Bức ảnh phản ánh thuận lợi căn bản nhất của Việt Nam sau Cách mạng Tháng Tám: hệ thống chính quyền cách mạng được thiết lập thống nhất từ Trung ương đến cơ sở và nhận được sự tin tưởng, ủng hộ tuyệt đối của toàn dân."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3098/71689/nguoi-truc-tiep-bao-ve-le-djai-djoc-lap-tai-quang-truong-ba-djinh-trong-ngay-2-9-1945.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9sident_Ho-chi-Minh_lit_la_Proclamation-d%27ind%C3%A9pendance_sur_la_place_Ba-dinh_le_2nd_Sep_1945.jpg"
+        },
+        {
+          "id": "p1-item-1-3",
+          "code": "1.3",
+          "title": "Thảm cảnh nạn đói năm Ất Dậu",
+          "time": "1944 - 1945",
+          "description": "Hậu quả chính sách vơ vét, bóc lột của thực dân Pháp và phát xít Nhật cùng thiên tai lũ lụt đã gây ra nạn đói làm 2 triệu người dân Việt Nam thiệt mạng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Nạn đói năm 1945 là lời nhắc nhở sâu sắc về cái giá của độc lập tự chủ và nghĩa vụ xây dựng đất nước phồn vinh, ấm no.",
+          "image": "images/p1/d3a1.jpg",
+          "images": [
+            "images/p1/d3a1.jpg"
+          ],
+          "imageCaption": "Đồng bào miền Bắc kiệt quệ trong nạn đói lịch sử cuối năm 1944 đầu năm 1945 (Ảnh của nghệ sĩ Võ An Ninh)",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Đầu năm 1945",
+            "place": "Bắc Bộ, Việt Nam",
+            "description": "Những người nông dân gầy guộc, rách rưới bồng bế nhau rời quê hương lên các đô thị tìm kiếm cái ăn trong tuyệt vọng giữa lúc nền kinh tế xơ xác, 50% ruộng đất bị bỏ hoang và ngân khố quốc gia kiệt quệ. Đây là một trong những khó khăn trong nước nặng nề nhất mà chính quyền cách mạng non trẻ phải tiếp quản và giải quyết ngay sau ngày tuyên bố độc lập."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://nhandan.vn/nan-doi-nam-1945-va-su-that-lich-su-ky-1-post281628.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Famine_in_Vietnam,_1945_(2).jpg"
+        },
+        {
+          "id": "p1-item-1-4",
+          "code": "1.4",
+          "title": "Nỗi đau thương từ di sản chế độ cũ",
+          "time": "09/1945",
+          "description": "Nạn đói, nạn mù chữ (95% dân số thất học) và ngân khố trống rỗng đặt nước Việt Nam Dân chủ Cộng hòa trước muôn vàn thử thách sinh tử.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Ý thức tự lực tự cường và nỗ lực khắc phục những tàn dư, lạc hậu của chế độ thực dân phong kiến.",
+          "image": "images/p1/d4a1.jpg",
+          "images": [
+            "images/p1/d4a1.jpg"
+          ],
+          "imageCaption": "Chứng tích nạn đói năm 1945 tại miền Bắc Việt Nam",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Năm 1945",
+            "place": "Thái Bình - Nam Định - Hà Nội, Việt Nam",
+            "description": "Hình ảnh những nạn nhân thiệt mạng vì đói trên đường phố và các vùng quê Bắc Bộ là minh chứng đau xót cho tội ác của chế độ thực dân - phát xít. Bên cạnh nền công nghiệp đình đốn và tài chính kiệt quệ, thảm họa này đòi hỏi Đảng và Chính phủ phải phát động cuộc chiến chống \"giặc đói\" như một nhiệm vụ cấp bách hàng đầu để cứu dân."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3129/19421/nan-djoi-nam-1945-o-viet-nam-nhung-chung-tich-lich-su.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Famine_in_Vietnam,_1945_(6).jpg"
+        },
+        {
+          "id": "p1-item-1-5",
+          "code": "1.5",
+          "title": "Quân Tưởng Giới Thạch tràn vào miền Bắc",
+          "time": "09/1945",
+          "description": "Từ cuối tháng 8 và tháng 9-1945, hơn 20 vạn quân đội Tưởng Giới Thạch kéo vào miền Bắc Việt Nam từ vĩ tuyến 16 trở ra dưới danh nghĩa Đồng minh giải giáp quân Nhật.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Bài học kiên định nguyên tắc độc lập chủ quyền, linh hoạt trong sách lược để giữ vững thế chủ động trước muôn trùng áp lực.",
+          "image": "images/p1/d5a1.png",
+          "images": [
+            "images/p1/d5a1.png"
+          ],
+          "imageCaption": "Quân đội Trung Hoa Dân quốc (quân Tưởng) tiến vào Hà Nội giải giáp quân Nhật năm 1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 9/1945",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Đoàn quân của Tưởng Giới Thạch tiến vào các đường phố miền Bắc dưới sự bảo trợ của Mỹ, kéo theo các tổ chức phản động tay sai Việt Quốc, Việt Cách với âm mưu \"diệt Cộng, cầm Hồ, phá Việt Minh\". Cùng thời điểm đó, trên lãnh thổ Việt Nam vẫn còn 6 vạn quân Nhật chờ giải giáp, đẩy vận mệnh dân tộc vào tình thế \"ngàn cân treo sợi tóc\"."
+          },
+          "imageSource": "Ảnh tư liệu, Hoàng thành Thăng Long",
+          "imageSourceUrl": "https://trungbayonline.hoangthanhthanglong.vn/ToanQuocKhangChien2021",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh,_Bao_Dai,_Siphanouvong_1945.png"
+        },
+        {
+          "id": "p1-item-1-6",
+          "code": "1.6",
+          "title": "Thực dân Pháp gây hấn ở Sài Gòn - Chợ Lớn",
+          "time": "23/9/1945",
+          "description": "Được sự bảo trợ của 2 vạn quân Anh - Ấn và sự tiếp tay của quân Nhật, thực dân Pháp nổ súng đánh chiếm Sài Gòn - Chợ Lớn rạng sáng 23-9-1945.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tinh thần cảnh giác cách mạng và ý chí quật cường của nhân dân miền Nam - Thành đồng Tổ quốc.",
+          "image": "images/p1/1.6 Mega/1.jpg",
+          "images": [
+            "images/p1/1.6 Mega/1.jpg",
+            "images/p1/1.6 Mega/2.jpg",
+            "images/p1/1.6 Mega/3.jpg",
+            "images/p1/1.6 Mega/4.jpg",
+            "images/p1/1.6 Mega/5.jpg"
+          ],
+          "imageCaption": "Quân đội viễn chinh Pháp và quân Anh - Ấn tại đường phố Sài Gòn tháng 9-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 9/1945",
+            "place": "Sài Gòn - Chợ Lớn, Việt Nam",
+            "description": "Sau vụ nổ súng khiêu khích vào cuộc mít tinh mừng Độc lập ngày 2-9-1945 tại Sài Gòn, quân đội Pháp được quân Anh che chở đã ngang nhiên tấn công trụ sở Ủy ban nhân dân Nam Bộ vào đêm 22 rạng sáng 23-9-1945, chính thức mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/2002/68067/ky-niem-68-nam-ngay-nam-bo-khang-chien-23-9-1945-23-9-2013.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
+        },
+        {
+          "id": "p1-item-1-7",
+          "code": "1.7",
+          "title": "Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ra mắt nhân dân",
+          "time": "09/1945",
+          "description": "Chính phủ lâm thời do Chủ tịch Hồ Chí Minh đứng đầu gồm 15 vị bộ trưởng đại diện cho các tầng lớp yêu nước ra mắt trước quốc dân.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Chính phủ thực sự của dân, do dân, vì dân; tập hợp nhân tài và phụng sự Tổ quốc không phân biệt giai cấp hay tôn giáo.",
+          "image": "images/p1/d7a1.jpg",
+          "images": [
+            "images/p1/d7a1.jpg",
+            "images/p1/d7a2.jpg"
+          ],
+          "imageCaption": "Lễ ra mắt Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa tại Quảng trường Ba Đình, ngày 2-9-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "02/9/1945",
+            "place": "Quảng trường Ba Đình, Hà Nội, Việt Nam",
+            "description": "Thành phần Chính phủ lâm thời là sự kết tinh của khối đại đoàn kết toàn dân tộc, bao gồm các hội viên Việt Minh cùng nhiều nhân sĩ, trí thức tiến bộ không thuộc đảng phái. Sự ra mắt của Chính phủ khẳng định quyết tâm xây dựng một thể chế dân chủ cộng hòa đại diện cho nguyện vọng của nhân dân."
+          },
+          "imageSource": "Ảnh tư liệu, Cổng Thông tin điện tử Chính phủ",
+          "imageSourceUrl": "https://chinhphu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_and_Vo_Nguyen_Giap_(1945).jpg"
+        },
+        {
+          "id": "p1-item-1-8",
+          "code": "1.8",
+          "title": "Quân đội Anh - Ấn tràn vào miền Nam Việt Nam",
+          "time": "10/1945",
+          "description": "Quân đội Anh dưới sự chỉ đạo của Tướng Gracey tiến vào Sài Gòn làm nhiệm vụ giải giáp quân Nhật nhưng thực chất tước vũ khí của Việt Minh và dung dưỡng cho Pháp.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tỉnh táo nhận diện bản chất của các thế lực đế quốc và luôn dựa vào sức mạnh chính nghĩa của dân tộc.",
+          "image": "images/p1/d8a1.jpg",
+          "images": [
+            "images/p1/d8a1.jpg"
+          ],
+          "imageCaption": "Binh lính Anh - Ấn thuộc Sư đoàn 20 làm nhiệm vụ giải giáp quân Nhật tại Sài Gòn, tháng 10-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 10/1945",
+            "place": "Sài Gòn, Việt Nam",
+            "description": "Sự hiện diện của quân Anh ở miền Nam cùng quân Tưởng ở miền Bắc đã tạo nên tình thế vô cùng phức tạp khi nhiều lực lượng đế quốc đồng loạt có mặt trên lãnh thổ Việt Nam. Quân Anh đã trắng trợn ban hành lệnh cấm giới nghiêm, mở cửa nhà tù thả binh lính Pháp và hỗ trợ Pháp đánh chiếm trụ sở cách mạng."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
+        },
+        {
+          "id": "p1-item-1-9",
+          "code": "1.9",
+          "title": "Lực lượng Tự vệ và Vệ quốc đoàn bảo vệ Thủ đô Hà Nội",
+          "time": "10/1945",
+          "description": "Các đơn vị Vệ quốc đoàn non trẻ cùng Tự vệ Hà Nội tổ chức canh gác, duy trì trật tự an ninh trước sự khiêu khích của các lực lượng phản động.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Lực lượng vũ trang nhân dân luôn trung thành vô hạn với Tổ quốc, gắn bó máu thịt với nhân dân để bảo vệ bình yên đất nước.",
+          "image": "images/p1/d9a1.jpg",
+          "images": [
+            "images/p1/d9a1.jpg"
+          ],
+          "imageCaption": "Chiến sĩ Vệ quốc đoàn gác tại Bắc Bộ phủ, Hà Nội, thu 1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 10/1945",
+            "place": "Bắc Bộ phủ, Hà Nội, Việt Nam",
+            "description": "Sau Cách mạng Tháng Tám, việc bảo vệ an toàn cho các cơ quan đầu não của Chính phủ lâm thời là nhiệm vụ vô cùng sống còn. Lực lượng Vệ quốc đoàn dù trang bị còn rất thô sơ nhưng với ý chí kiên cường đã đứng vững trước mọi âm mưu quấy phá của quân Tưởng và tay sai."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quân sự Việt Nam",
+          "imageSourceUrl": "https://btlsqsvn.org.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Minh_during_August_Revolution.jpg"
+        },
+        {
+          "id": "p1-item-1-10",
+          "code": "1.10",
+          "title": "Đảng Cộng sản Đông Dương Tuyên bố tự giải tán (rút vào hoạt động bí mật)",
+          "time": "11/1945",
+          "description": "Ngày 11-11-1945, Ban Chấp hành Trung ương Đảng ra Tuyên bố tự giải tán, thực chất là rút vào hoạt động bí mật dưới tên gọi \"Hội Nghiên cứu Chủ nghĩa Mác ở Đông Dương\".",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Quyết sách linh hoạt, sáng suốt của Đảng nhằm bảo toàn lực lượng nòng cốt trong tình thế ngàn cân treo sợi tóc.",
+          "image": "images/p1/d10a1.jpg",
+          "images": [
+            "images/p1/d10a1.jpg"
+          ],
+          "imageCaption": "Bản Tuyên bố tự giải tán của Đảng Cộng sản Đông Dương đăng trên báo Quyết Thắng tháng 11-1945",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu gốc",
+            "date": "11/11/1945",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Đây là một quyết định sách lược vô cùng khôn khéo của Chủ tịch Hồ Chí Minh và Trung ương Đảng nhằm làm thất bại âm mưu \"diệt Cộng, cầm Hồ\" của quân Tưởng Giới Thạch và các lực lượng tay sai phản động, tránh mũi nhọn tiến công của kẻ thù để bảo vệ chính quyền cách mạng non trẻ."
+          },
+          "imageSource": "Ảnh tư liệu, Tạp chí Cộng sản",
+          "imageSourceUrl": "https://tapchicongsan.org.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_1946.jpg"
+        }
+      ]
+    },
+    {
+      "id": "xay-dung-che-do-moi",
+      "order": 2,
+      "icon": "ballot",
+      "audio": null,
+      "name": "Xây dựng chế độ mới và chính quyền cách mạng (1945 - 1946)",
+      "chapter": "Phần 2",
+      "subtitle": "Xây dựng và bảo vệ chính quyền cách mạng 1945 - 1946 (Trang 62 - 64)",
+      "intro": "Đảng và Chính phủ lâm thời tập trung lãnh đạo giải quyết các nhiệm vụ cấp bách: diệt giặc đói, diệt giặc dốt, quyên góp Tuần lễ Vàng, tổ chức Tổng tuyển cử đầu tiên bầu Quốc hội và thông qua bản Hiến pháp 1946 lịch sử.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p2-item-2-1",
+          "code": "2.1",
+          "title": "Chính phủ lâm thời xác định 3 nhiệm vụ cấp bách",
+          "time": "03/9/1945",
+          "description": "Chủ tịch Hồ Chí Minh chủ trì phiên họp đầu tiên của Chính phủ lâm thời ngày 3-9-1945, đề ra nhiệm vụ diệt giặc đói, diệt giặc dốt và diệt giặc ngoại xâm.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Xác định đúng ba nhiệm vụ trọng tâm: diệt giặc đói, diệt giặc dốt và diệt giặc ngoại xâm để củng cố sức mạnh dân tộc từ gốc.",
+          "image": "images/p2/kien-quoc-la-gi-2.jpg",
+          "images": [
+            "images/p2/kien-quoc-la-gi-2.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh và các thành viên Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa năm 1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 9/1945",
+            "place": "Bắc Bộ phủ, Hà Nội, Việt Nam",
+            "description": "Chủ tịch Hồ Chí Minh cùng các vị bộ trưởng trong Chính phủ lâm thời sau phiên họp lịch sử tại Bắc Bộ phủ. Tiếp nối tinh thần này, ngày 25-11-1945, Ban Chấp hành Trung ương Đảng ban hành Chỉ thị Kháng chiến kiến quốc, xác định kẻ thù chính là thực dân Pháp xâm lược và đề ra khẩu hiệu \"Dân tộc trên hết, Tổ quốc trên hết\"."
+          },
+          "imageSource": "Ảnh tư liệu, Cổng Thông tin điện tử Chính phủ",
+          "imageSourceUrl": "https://xaydungchinhsach.chinhphu.vn/toan-van-dien-van-ky-niem-80-nam-thanh-lap-chinh-phu-do-thu-tuong-pham-minh-chinh-trinh-bay-119250820113816336.htm",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_and_Vo_Nguyen_Giap_(1945).jpg"
+        },
+        {
+          "id": "p2-item-2-2",
+          "code": "2.2",
+          "title": "Phong trào \"Hũ gạo cứu đói\" và tăng gia sản xuất",
+          "time": "09/1945",
+          "description": "Đảng, Chính phủ và Chủ tịch Hồ Chí Minh phát động toàn dân nhường cơm sẻ áo, lập \"Hũ gạo tiết kiệm\" và đẩy mạnh tăng gia sản xuất để đẩy lùi nạn đói.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tinh thần nhường cơm sẻ áo, thực hành tiết kiệm và đẩy mạnh sản xuất - bài học cốt lõi bảo đảm an sinh xã hội.",
+          "image": "images/p2/p2a2 (1).jpg",
+          "images": [
+            "images/p2/p2a2 (1).jpg",
+            "images/p2/p2a2 (2).jpg"
+          ],
+          "imageCaption": "Nhân dân hưởng ứng phong trào quyên góp gạo cứu đói và tăng gia sản xuất năm 1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Cuối năm 1945",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Đông đảo các tầng lớp nhân dân mang gạo đến các điểm quyên góp hưởng ứng lời kêu gọi cứ 10 ngày nhịn ăn một bữa của Chủ tịch Hồ Chí Minh, kết hợp với khẩu hiệu \"Tăng gia sản xuất! Tăng gia sản xuất ngay! Tăng gia sản xuất nữa!\". Nhờ bãi bỏ thuế thân, giảm tô 25% và khôi phục nông nghiệp, đến đầu năm 1946 nạn đói cơ bản được đẩy lùi."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3096/18562/suc-manh-cua-long-dan-tu-hu-gao-cuu-djoi-djen-tuan-le-vang-va-bai-hoc-cua-lich-su.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Rob_the_rice_warehouse_at_Vietnam_1945.jpg"
+        },
+        {
+          "id": "p2-item-2-3",
+          "code": "2.3",
+          "title": "\"Tuần lễ Vàng\" xây dựng ngân khố và quốc phòng",
+          "time": "17/9/1945",
+          "description": "Nhân dân cả nước nô nức quyên góp vàng bạc, tài sản trong \"Tuần lễ Vàng\" (17 đến 24-9-1945) để gây Quỹ Độc lập và Quỹ Đảm phụ quốc phòng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Sức mạnh lòng dân và tinh thần đóng góp tự nguyện của mọi tầng lớp khi niềm tin vào chính quyền được củng cố vững chắc.",
+          "image": "images/p2/tuyentruyen.png",
+          "images": [
+            "images/p2/tuyentruyen.png"
+          ],
+          "imageCaption": "Lễ khai mạc và nhân dân quyên góp tại \"Tuần lễ Vàng\" trước Nhà hát Lớn Hà Nội, tháng 9-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 9/1945",
+            "place": "Nhà hát Lớn, Hà Nội, Việt Nam",
+            "description": "Các tầng lớp nhân dân, giới công thương và phụ nữ Thủ đô xếp hàng tại điểm quyên góp \"Tuần lễ Vàng\" để ủng hộ nền tài chính non trẻ và mua sắm vũ khí cho quân đội. Chỉ trong một tuần lễ, nhân dân đã đóng góp hàng chục vạn lạng vàng và hàng chục triệu đồng vào ngân khố quốc gia, tạo cơ sở phát hành đồng giấy bạc Việt Nam."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3097/73357/quy-djoc-lap-tuan-le-vang-bai-hoc-ve-phat-huy-suc-manh-long-dan.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/Tu%E1%BA%A7n_l%E1%BB%85_V%C3%A0ng_(n%C4%83m_1945)"
+        },
+        {
+          "id": "p2-item-2-4",
+          "code": "2.4",
+          "title": "Phong trào \"Bình dân học vụ\" diệt giặc dốt",
+          "time": "1945 - 1946",
+          "description": "Đảng và Chủ tịch Hồ Chí Minh phát động phong trào toàn dân học chữ Quốc ngữ, coi việc xóa nạn mù chữ là nhiệm vụ cấp thiết để xây dựng chế độ dân chủ mới.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Nâng cao dân trí và xóa nạn mù chữ là tiền đề căn bản để người dân làm chủ đất nước và phát triển kinh tế - xã hội.",
+          "image": "images/p2/p2a4.jpg",
+          "images": [
+            "images/p2/p2a4.jpg",
+            "images/p2/p2a4 (2).jpg",
+            "images/p2/p2a4 (3).jpg"
+          ],
+          "imageCaption": "Lớp học Bình dân học vụ xóa nạn mù chữ cho nhân dân lao động giai đoạn 1945 - 1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Năm 1945 - 1946",
+            "place": "Miền Bắc, Việt Nam",
+            "description": "Từ cụ già đến phụ nữ, thanh niên hăng hái tham gia các lớp học Bình dân học vụ được mở ở khắp đình làng, khu phố với tinh thần người biết chữ dạy cho người chưa biết chữ. Đến cuối năm 1946, cả nước đã có hơn 2,5 triệu người dân biết đọc, biết viết chữ Quốc ngữ, nâng cao rõ rệt đời sống tinh thần và ý thức làm chủ của nhân dân."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3096/76024/binh-dan-hoc-vu-thap-sang-tuong-lai.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Lop_Binh_dan_hoc_vu.jpg"
+        },
+        {
+          "id": "p2-item-2-5",
+          "code": "2.5",
+          "title": "Tổng tuyển cử đầu tiên bầu Quốc hội khóa I",
+          "time": "06/01/1946",
+          "description": "Ngày 6-1-1946, hơn 89% cử tri cả nước đi bỏ phiếu theo nguyên tắc phổ thông đầu phiếu để bầu ra 333 đại biểu Quốc hội đầu tiên của nước Việt Nam Dân chủ Cộng hòa.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Giá trị lịch sử của phổ thông đầu phiếu, trao cho mỗi công dân quyền lựa chọn và tham gia xây dựng bộ máy nhà nước pháp quyền.",
+          "image": "images/p2/p2a5 (3).png",
+          "images": [
+            "images/p2/p2a5 (3).png",
+            "images/p2/p2a5 (4).jpg"
+          ],
+          "imageCaption": "Cử tri Thủ đô Hà Nội bỏ phiếu bầu cử Quốc hội khóa I ngày 6-1-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "06/01/1946",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Cử tri phấn khởi cầm lá phiếu thực hiện quyền công dân tự do lần đầu tiên trong lịch sử dân tộc. Tại Nam Bộ và nhiều vùng chiến sự, đồng bào đi bỏ phiếu dưới làn đạn của giặc Pháp với tinh thần \"mỗi lá phiếu là một viên đạn bắn vào quân thù\", khẳng định địa vị pháp lý chính thống của Nhà nước Việt Nam Dân chủ Cộng hòa."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3096/18900/cuoc-tong-tuyen-cu-6-1-1946-va-hien-phap-djau-tien-cua-nuoc-viet-nam-dan-chu-cong-hoa.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:1946_Vietnam_Election.svg",
+          "video": {
+            "youtube": "vXIydQnLYPg",
+            "title": "Ngày Tổng tuyển cử đầu tiên năm 1946",
+            "kind": "Thước phim tư liệu gốc",
+            "date": "06/01/1946",
+            "place": "Hà Nội, Việt Nam",
+            "duration": "0:36",
+            "description": "Thước phim tư liệu quý giá ghi lại ngày hội non sông 6-1-1946: cử tri cả nước nô nức đi bỏ phiếu thực hiện quyền công dân tự do đầu tiên, Bác Hồ đi bỏ phiếu tại hòm phiếu số 10 phố Hàng Vôi.",
+            "source": "Trung tâm Tin tức VTV24 (Đài Truyền hình Việt Nam)"
+          }
+        },
+        {
+          "id": "p2-item-2-6",
+          "code": "2.6",
+          "title": "Quốc hội khóa I họp phiên đầu tiên và thông qua Hiến pháp 1946",
+          "time": "02/3/1946 - 09/11/1946",
+          "description": "Quốc hội khóa I họp kỳ thứ nhất lập Chính phủ chính thức (2-3-1946) và tại kỳ họp thứ hai (9-11-1946) thông qua bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Hiến pháp 1946 đặt nền móng vững chắc cho nền tư pháp dân chủ, bảo đảm quyền tự do dân chủ và chủ quyền nhân dân.",
+          "image": "images/p2/p2a6 (1).jpg",
+          "images": [
+            "images/p2/p2a6 (1).jpg",
+            "images/p2/p2a6 (2).jpg"
+          ],
+          "imageCaption": "Kỳ họp Quốc hội khóa I tại Nhà hát Lớn Hà Nội năm 1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Năm 1946",
+            "place": "Nhà hát Lớn, Hà Nội, Việt Nam",
+            "description": "Các đại biểu Quốc hội khóa I đại diện cho mọi tầng lớp nhân dân, dân tộc, tôn giáo và đảng phái họp tại Nhà hát Lớn Hà Nội, bầu Chính phủ chính thức gồm 10 bộ do Chủ tịch Hồ Chí Minh đứng đầu và Ban Thường trực Quốc hội do cụ Nguyễn Văn Tố làm Chủ tịch. Cùng với sự ra đời của Hiến pháp 1946 và Mặt trận Liên Việt (5-1946), khối đại đoàn kết và bộ máy nhà nước pháp quyền dân chủ được củng cố vững chắc."
+          },
+          "imageSource": "Ảnh tư liệu, Cổng Thông tin điện tử Quốc hội",
+          "imageSourceUrl": "https://quochoi.vn/tintuc/Pages/80-nam-tong-tuyen-cu.aspx?ItemID=92067",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Hi%E1%BA%BFn_ph%C3%A1p_Vi%E1%BB%87t_Nam_D%C3%A2n_ch%E1%BB%A7_C%E1%BB%99ng_h%C3%B2a_n%C4%83m_1946_-_C%E1%BB%A5c_V%C4%83n_th%C6%B0_v%C3%A0_L%C6%B0u_tr%E1%BB%AF_nh%C3%A0_n%C6%B0%E1%BB%9Bc.jpg"
+        },
+        {
+          "id": "p2-item-2-7",
+          "code": "2.7",
+          "title": "Nhân dân ủng hộ Quỹ Đảm phụ quốc phòng",
+          "time": "01/1946",
+          "description": "Đồng bào cả nước hăng hái đóng góp tiền của, hiện vật vào Quỹ Đảm phụ quốc phòng để trang bị vũ khí cho lực lượng vũ trang cách mạng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Xây dựng nền quốc phòng toàn dân vững mạnh, động viên sức người sức của cho nhiệm vụ bảo vệ Tổ quốc.",
+          "image": "images/p2/p2a7 (1).jpg",
+          "images": [
+            "images/p2/p2a7 (1).jpg",
+            "images/p2/p2a7 (2).jpg"
+          ],
+          "imageCaption": "Nhân dân Thủ đô đóng góp quỹ mua sắm vũ khí bảo vệ Tổ quốc, đầu năm 1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Đầu năm 1946",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Song song với phong trào diệt giặc đói, giặc dốt, Đảng và Chính phủ phát động Quỹ Đảm phụ quốc phòng nhằm huy động nguồn lực tài chính mua sắm vũ khí, trang thiết bị cho Vệ quốc đoàn. Tinh thần yêu nước và lòng tin tuyệt đối của nhân dân vào Chính phủ đã giúp giải quyết khủng hoảng ngân khố."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn",
+          "directUrl": "https://vi.wikipedia.org/wiki/Tu%E1%BA%A7n_l%E1%BB%85_V%C3%A0ng_(n%C4%83m_1945)"
+        },
+        {
+          "id": "p2-item-2-8",
+          "code": "2.8",
+          "title": "Chủ tịch Hồ Chí Minh thăm các lớp Bình dân học vụ",
+          "time": "01/1946",
+          "description": "Chủ tịch Hồ Chí Minh trực tiếp đến thăm, động viên thầy và trò tại các lớp học xóa nạn mù chữ ban đêm ở Thủ đô Hà Nội.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Sự gắn bó mật thiết giữa lãnh tụ và nhân dân, khẳng định học tập là con đường giải phóng và nâng cao phẩm giá con người.",
+          "image": "images/p2/p2a8.jpg",
+          "images": [
+            "images/p2/p2a8.jpg"
+          ],
+          "imageCaption": "Bác Hồ kiểm tra việc học chữ Quốc ngữ của nhân dân lao động Hà Nội năm 1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Đầu năm 1946",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Coi \"giặc dốt\" nguy hiểm như \"giặc đói\" và \"giặc ngoại xâm\", Người luôn dành sự quan tâm đặc biệt đến công tác giáo dục đại chúng. Sự động viên kịp thời của Chủ tịch Hồ Chí Minh đã thổi bùng phong trào học tập sôi nổi trong cả nước, biến việc học chữ thành một phong trào thi đua ái quốc."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Hồ Chí Minh",
+          "imageSourceUrl": "https://baotanghochiminh.vn",
+          "directUrl": "https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Lop_Binh_dan_hoc_vu.jpg"
+        },
+        {
+          "id": "p2-item-2-9",
+          "code": "2.9",
+          "title": "Thành lập Trường Vệ quốc đoàn (Trường Võ bị Trần Quốc Tuấn)",
+          "time": "05/1946",
+          "description": "Ngày 26-5-1946, Trường Võ bị Trần Quốc Tuấn khai giảng khóa I tại Sơn Tây để đào tạo cán bộ quân sự chính quy cho quân đội cách mạng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đào tạo cán bộ quân sự chính quy, tuyệt đối trung thành với lý tưởng cách mạng: \"Trung với nước, hiếu với dân\".",
+          "image": "images/p2/p2a91.png",
+          "images": [
+            "images/p2/p2a91.png",
+            "images/p2/p2a92.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh dự lễ khai giảng Trường Võ bị Trần Quốc Tuấn tại Sơn Tây, ngày 26-5-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "26/5/1946",
+            "place": "Tông, Sơn Tây, Việt Nam",
+            "description": "Tại lễ khai giảng, Chủ tịch Hồ Chí Minh trao cho nhà trường lá cờ thêu sáu chữ vàng \"Trung với nước, hiếu với dân\". Việc đào tạo bài bản đội ngũ cán bộ sĩ quan quân sự đầu tiên có ý nghĩa chiến lược đối với việc xây dựng lực lượng vũ trang chính quy đáp ứng yêu cầu cuộc kháng chiến bùng nổ sau đó."
+          },
+          "imageSource": "Ảnh tư liệu, Trường Sĩ quan Bộ binh 1",
+          "imageSourceUrl": "https://sqbh1.edu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_and_Vo_Nguyen_Giap_(1945).jpg"
+        },
+        {
+          "id": "p2-item-2-10",
+          "code": "2.10",
+          "title": "Phát hành Đồng tiền Tài chính (Đồng tiền Cụ Hồ) đầu tiên",
+          "time": "11/1946",
+          "description": "Ngày 23-11-1946, Quốc hội quyết định cho phép phát hành đồng tiền Việt Nam (Đồng tiền Cụ Hồ) trong cả nước để khẳng định chủ quyền tiền tệ.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Chủ quyền tiền tệ và độc lập tài chính là trụ cột bảo đảm sức mạnh kinh tế và chủ quyền quốc gia độc lập.",
+          "image": "images/p2/p1a10.jpg",
+          "images": [
+            "images/p2/p1a10.jpg"
+          ],
+          "imageCaption": "Mẫu giấy bạc 100 đồng (Giấy bạc con rồng) do Chính phủ Việt Nam Dân chủ Cộng hòa phát hành năm 1946",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu gốc",
+            "date": "Tháng 11/1946",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Việc ra đời đồng tiền Việt Nam thay thế đồng tiền Đông Dương của Ngân hàng Đông Dương là một bước ngoặt quan trọng khẳng định nền độc lập tài chính của Nhà nước Việt Nam Dân chủ Cộng hòa, đồng thời phục vụ đắc lực cho giao thương và đời sống nhân dân."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Nam_Banknote_1946.jpg"
+        }
+      ]
+    },
+    {
+      "id": "khang-chien-nam-bo",
+      "order": 3,
+      "icon": "ship",
+      "audio": null,
+      "name": "Kháng chiến ở Nam Bộ và bảo vệ chính quyền (1945 - 1946)",
+      "chapter": "Phần 3",
+      "subtitle": "Xây dựng và bảo vệ chính quyền cách mạng 1945 - 1946 (Trang 64 - 69)",
+      "intro": "Thực dân Pháp nổ súng tại Sài Gòn, quân dân Nam Bộ anh dũng đứng lên kháng chiến; Trung ương Đảng và Bác Hồ chỉ đạo \"Hòa để tiến\" qua Hiệp định Sơ bộ 6-3 và Tạm ước 14-9, tranh thủ thời gian hòa hoãn chuẩn bị kháng chiến lâu dài.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p3-item-3-1",
+          "code": "3.1",
+          "title": "Nam Bộ đứng lên kháng chiến chống thực dân Pháp",
+          "time": "23/9/1945",
+          "description": "Với tinh thần \"thà chết tự do còn hơn sống nô lệ\", quân và dân Sài Gòn - Chợ Lớn cùng các tỉnh Nam Bộ nhất loạt dựng chiến lũy, cầm vũ khí thô sơ chống quân Pháp xâm lược.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Ý chí quật cường của nhân dân Nam Bộ: quyết hy sinh tất cả chứ không chịu làm nô lệ một lần nữa.",
+          "image": "images/p3/T3A1 (2).jpg",
+          "images": [
+            "images/p3/T3A1 (2).jpg"
+          ],
+          "imageCaption": "Thanh niên, tự vệ Sài Gòn - Nam Bộ dùng gậy tầm vông, vũ khí thô sơ kháng chiến chống Pháp mùa thu năm 1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 9/1945",
+            "place": "Sài Gòn - Nam Bộ, Việt Nam",
+            "description": "Các chiến sĩ tự vệ và thanh niên Nam Bộ trang bị tầm vông vạt nhọn, giáo mác và súng trường tập hợp chiến đấu, dựng chướng ngại vật bao vây quân Pháp trong nội đô Sài Gòn - Chợ Lớn, lập chiến công tại cầu Thị Nghè, Khánh Hội, Phú Lâm, Tham Luông. Trước sự chiến đấu kiên cường ấy, Chủ tịch Hồ Chí Minh đã trao tặng đồng bào miền Nam danh hiệu vẻ vang \"Thành đồng Tổ quốc\"."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/2002/68067/ky-niem-68-nam-ngay-nam-bo-khang-chien-23-9-1945-23-9-2013.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
+        },
+        {
+          "id": "p3-item-3-2",
+          "code": "3.2",
+          "title": "Những đoàn quân Nam tiến chi viện cho miền Nam",
+          "time": "26/9/1945",
+          "description": "Hưởng ứng lời kêu gọi của Đảng và Chủ tịch Hồ Chí Minh, từ ngày 26-9-1945, những chi đội Vệ quốc đoàn ưu tú đầu tiên từ miền Bắc đã lên tàu vào Nam chia lửa cùng đồng bào Nam Bộ.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tình ruột thịt Bắc - Nam một nhà, tinh thần đoàn kết toàn dân tộc sẵn sàng sẻ chia gian lao vì độc lập toàn vẹn.",
+          "image": "images/p3/T3A2.jpg",
+          "images": [
+            "images/p3/T3A2.jpg"
+          ],
+          "imageCaption": "Một đơn vị bộ đội Nam tiến tại ga Hàng Cỏ (Hà Nội) trước giờ lên đường vào Nam chiến đấu, tháng 9-1945",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 9/1945",
+            "place": "Ga Hàng Cỏ, Hà Nội, Việt Nam",
+            "description": "Các chiến sĩ Giải phóng quân được trang bị vũ khí tốt nhất xếp hàng tại ga Hàng Cỏ trong sự tiễn đưa nồng nhiệt của nhân dân Thủ đô để lên tàu hỏa vào chi viện cho mặt trận Nam Bộ, Nam Trung Bộ và Tây Nguyên. Phong trào Nam tiến thể hiện sinh động ý chí thống nhất non sông và sức mạnh đoàn kết Bắc - Trung - Nam ngay từ những ngày đầu giữ nước."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://www.qdnd.vn/quoc-phong-an-ninh/nghe-thuat-quan-su-vn/nhieu-bai-hoc-tu-thuc-tien-nam-bo-khang-chien-705732",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Minh_during_August_Revolution.jpg"
+        },
+        {
+          "id": "p3-item-3-3",
+          "code": "3.3",
+          "title": "Ký kết Hiệp định Sơ bộ Việt - Pháp (\"Hòa để tiến\")",
+          "time": "06/3/1946",
+          "description": "Ngày 6-3-1946, Chủ tịch Hồ Chí Minh thay mặt Chính phủ Việt Nam Dân chủ Cộng hòa ký với đại diện Chính phủ Pháp Jean Sainteny bản Hiệp định Sơ bộ tại Hà Nội.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Nghệ thuật ngoại giao \"Dĩ bất biến, ứng vạn biến\" - kiên định mục tiêu độc lập nhưng linh hoạt về biện pháp sách lược.",
+          "image": "images/p3/T3A3 (1).jpg",
+          "images": [
+            "images/p3/T3A3 (1).jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh và Jean Sainteny cùng các đại diện tại lễ ký Hiệp định Sơ bộ ngày 6-3-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "06/3/1946",
+            "place": "Số 38 phố Lý Thái Tổ, Hà Nội, Việt Nam",
+            "description": "Chủ tịch Hồ Chí Minh, Vũ Hồng Khanh cùng đại diện Pháp Jean Sainteny và các quan chức Đồng minh sau lễ ký Hiệp định Sơ bộ 6-3-1946. Thực hiện chủ trương Hòa để tiến (Chỉ thị ngày 9-3-1946), việc ký Hiệp định buộc Pháp công nhận Việt Nam là một quốc gia tự do, đồng thời đẩy nhanh 20 vạn quân Tưởng về nước, bớt đi một kẻ thù nguy hiểm để ta có thêm thời gian củng cố thực lực."
+          },
+          "imageSource": "Ảnh tư liệu, Hoàng thành Thăng Long",
+          "imageSourceUrl": "https://trungbayonline.hoangthanhthanglong.vn/ToanQuocKhangChien2021",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:La_signature_de_la_Convention_pr%C3%A9liminaire_%C3%A0_Hanoi_en_mars_1946.png"
+        },
+        {
+          "id": "p3-item-3-4",
+          "code": "3.4",
+          "title": "Đập tan vụ án phản cách mạng ở phố Ôn Như Hầu",
+          "time": "12/7/1946",
+          "description": "Rạng sáng 12-7-1946, lực lượng Công an nhân dân dưới sự chỉ đạo của Đảng và Quyền Chủ tịch nước Huỳnh Thúc Kháng đã đột kích trụ sở Quốc dân đảng, đập tan âm mưu đảo chính lật đổ chính quyền.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Giữ vững an ninh trật tự, tinh thần cảnh giác cách mạng và kiên quyết đập tan mọi âm mưu chia rẽ, phá hoại chính quyền.",
+          "image": "images/p3/T3A4.png",
+          "images": [
+            "images/p3/T3A4.png"
+          ],
+          "imageCaption": "Lực lượng Công an khám xét trụ sở bọn phản động Đại Việt - Quốc dân đảng tại phố Ôn Như Hầu, Hà Nội, ngày 12-7-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "12/7/1946",
+            "place": "Số 7 phố Ôn Như Hầu (nay là phố Nguyễn Gia Thiều) và số 132 Duvigneau (nay là phố Bùi Thị Xuân), Hà Nội, Việt Nam",
+            "description": "Các chiến sĩ Công an thu giữ tang vật, vũ khí và bản kế hoạch đảo chính dự định thực hiện vào ngày 14-7-1946 do bọn phản động Đại Việt - Quốc dân đảng câu kết với thực dân Pháp chuẩn bị. Chiến công ở phố Ôn Như Hầu đã làm phá sản hoàn toàn mưu đồ lật đổ Chính phủ từ bên trong, bảo vệ vững chắc cơ quan đầu não cách mạng."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://nhandan.vn/vai-tro-va-nhung-dong-gop-cua-luc-luong-cong-an-nhan-dan-trong-nhung-ngay-toan-quoc-khang-chien-post280672.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:House_7th_On_Nhu_Hau.png"
+        },
+        {
+          "id": "p3-item-3-5",
+          "code": "3.5",
+          "title": "Đấu tranh ngoại giao tại Pháp và Tạm ước 14-9",
+          "time": "14/9/1946",
+          "description": "Trong chuyến thăm Pháp hơn 4 tháng và song hành cùng Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã ký với đại diện Chính phủ Pháp Marius Moutet bản Tạm ước ngày 14-9-1946.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Biết tranh thủ từng ngày từng giờ hòa hoãn để chuẩn bị thế và lực cho cuộc đọ sức sinh tử với kẻ thù.",
+          "image": "images/p3/T3A5.jpg",
+          "images": [
+            "images/p3/T3A5.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh trong chuyến thăm chính thức Cộng hòa Pháp và ký Tạm ước 14-9-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 6 - Tháng 9/1946",
+            "place": "Paris, Cộng hòa Pháp",
+            "description": "Chủ tịch Hồ Chí Minh tiếp xúc với giới chính trị, báo chí và nhân dân Pháp trong chuyến hoạt động đối ngoại mùa hè năm 1946. Khi Hội nghị Fontainebleau tan vỡ do lập trường hiếu chiến của Pháp, Người đã chủ động ký bản Tạm ước 14-9 nhằm bày tỏ thiện chí hòa bình, bảo đảm an toàn cho phái đoàn ta về nước và tranh thủ thêm thời gian quý báu chuẩn bị kháng chiến."
+          },
+          "imageSource": "Ảnh tư liệu, Tạp chí Lý luận chính trị",
+          "imageSourceUrl": "https://lyluanchinhtri.vn/phuong-phap-ngoai-giao-di-bat-bien-ung-van-bien-cua-ho-chi-minh-trong-chuyen-tham-phap-nam-1946-2022.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:1946_Ho_Chi_Minh_Leclerc_Sainteny_2.png"
+        },
+        {
+          "id": "p3-item-3-6",
+          "code": "3.6",
+          "title": "Chủ tịch Hồ Chí Minh trở về Tổ quốc tại cảng Hải Phòng",
+          "time": "20/10/1946",
+          "description": "Ngày 20-10-1946, Chủ tịch Hồ Chí Minh về đến cảng Hải Phòng trong sự đón chào nồng nhiệt của nhân dân và ra văn kiện Công việc khẩn cấp bây giờ chỉ đạo chuẩn bị kháng chiến lâu dài.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Niềm tin tuyệt đối của đồng bào, chiến sĩ cả nước vào sự lãnh đạo của Chủ tịch Hồ Chí Minh và Trung ương Đảng.",
+          "image": "images/p3/T3A6.jpg",
+          "images": [
+            "images/p3/T3A6.jpg"
+          ],
+          "imageCaption": "Đồng bào Hải Phòng nồng nhiệt đón Chủ tịch Hồ Chí Minh từ Pháp trở về tại bến Ngự, cảng Hải Phòng, ngày 20-10-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "20/10/1946",
+            "place": "Cảng Hải Phòng, Việt Nam",
+            "description": "Hàng vạn nhân dân đất Cảng giơ cao cờ hoa đón mừng Chủ tịch Hồ Chí Minh rời chiến hạm Dumont d'Urville trở về Tổ quốc an toàn. Ngay sau đó, Người viết bài Công việc khẩn cấp bây giờ, chỉ đạo tổng di chuyển cơ quan, máy móc, vật tư lên các chiến khu, ATK (Thái Nguyên, Tuyên Quang, Chiến khu D, Đồng Tháp Mười) và thực hiện \"tiêu thổ kháng chiến\" sẵn sàng đối phó với chiến tranh."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Công an nhân dân",
+          "imageSourceUrl": "https://cand.vn/chu-tich-ho-chi-minh-ba-thang-tren-dat-phap-post390829.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:1946_Ho_Chi-Minh_Troops_Paraded_Through_Hanoi.jpg"
+        },
+        {
+          "id": "p3-item-3-7",
+          "code": "3.7",
+          "title": "Thành lập Ủy ban Kháng chiến Nam Bộ và phát động kháng chiến",
+          "time": "10/1945",
+          "description": "Ủy ban Kháng chiến Nam Bộ được thành lập do đồng chí Trần Văn Giàu làm Chủ tịch, ra Lời kêu gọi nhân dân Nam Bộ đứng lên kháng chiến bảo vệ độc lập.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tổ chức kháng chiến chủ động, linh hoạt tại chỗ, kết hợp chặt chẽ giữa quân sự và phong trào quần chúng nhân dân.",
+          "image": "images/p3/T3A7 (2).jpg",
+          "images": [
+            "images/p3/T3A7 (2).jpg"
+          ],
+          "imageCaption": "Lời kêu gọi kháng chiến của Ủy ban Kháng chiến Nam Bộ thu 1945",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu",
+            "date": "Tháng 10/1945",
+            "place": "Nam Bộ, Việt Nam",
+            "description": "Ngay sau khi quân Pháp nổ súng đánh chiếm Sài Gòn, Ủy ban Kháng chiến Nam Bộ đã kịp thời thành lập và ra hiệu lệnh tổng đình công, phong tỏa quân địch, biến Sài Gòn thành chiến trường du kích. Tinh thần chủ động đánh địch ngay từ những ngày đầu đã tạo tiền đề cho chiến tranh nhân dân phát triển sâu rộng ở miền Nam."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Sài Gòn Giải Phóng",
+          "imageSourceUrl": "https://www.sggp.org.vn/nam-bo-khang-chien-post512341.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RE-OCCUPATION_OF_FRENCH_INDO-CHINA.jpg"
+        },
+        {
+          "id": "p3-item-3-8",
+          "code": "3.8",
+          "title": "Xây dựng Chiến khu D và các căn cứ địa kháng chiến ở Nam Bộ",
+          "time": "11/1945",
+          "description": "Các lực lượng vũ trang cách mạng Nam Bộ rút về xây dựng các căn cứ địa kháng chiến lâu dài như Chiến khu D, Đồng Tháp Mười, U Minh.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tầm nhìn chiến lược xây dựng căn cứ địa kháng chiến vững chắc, làm bàn đạp nuôi dưỡng lực lượng cách mạng.",
+          "image": "images/p3/T3A8 (1).jpg",
+          "images": [
+            "images/p3/T3A8 (1).jpg",
+            "images/p3/T3A8 (2).jpg"
+          ],
+          "imageCaption": "Chiến sĩ Vệ quốc đoàn tại Chiến khu D trong những ngày đầu chống Pháp",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Cuối năm 1945",
+            "place": "Chiến khu D, Đồng Nai, Việt Nam",
+            "description": "Nhằm bảo toàn lực lượng và chuẩn bị cho cuộc kháng chiến lâu dài, Xứ ủy và Ủy ban Kháng chiến Nam Bộ đã quyết định thành lập Chiến khu D cùng các căn cứ lớn ở miền Đông và miền Tây Nam Bộ. Các căn cứ này trở thành chỗ dựa vững chắc cho bộ đội và chính quyền cách mạng trong suốt hai cuộc kháng chiến."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Đồng Nai",
+          "imageSourceUrl": "https://baotangdongnai.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Minh_during_August_Revolution.jpg"
+        },
+        {
+          "id": "p3-item-3-9",
+          "code": "3.9",
+          "title": "Đấu tranh ngoại giao bảo vệ chủ quyền quốc gia giai đoạn đầu",
+          "time": "01/1946",
+          "description": "Chính phủ Việt Nam Dân chủ Cộng hòa gửi các thông điệp ngoại giao tới LHQ và các nước lớn khẳng định nền độc lập và chủ quyền hợp pháp của Việt Nam.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Khẳng định vị thế pháp lý của nhà nước độc lập trên trường quốc tế bằng đối thoại hòa bình và chính nghĩa.",
+          "image": "images/p3/T3A9.jpg",
+          "images": [
+            "images/p3/T3A9.jpg"
+          ],
+          "imageCaption": "Thư của Chủ tịch Hồ Chí Minh gửi Đại hội đồng Liên Hợp Quốc năm 1946",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu",
+            "date": "Tháng 1/1946",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Trong bối cảnh thực dân Pháp tìm cách khôi phục ách thống trị và các nước đế quốc chưa công nhận Việt Nam, Chủ tịch Hồ Chí Minh đã chủ động triển khai hoạt động đối ngoại rộng rãi, gửi thông điệp tới LHQ và chính phủ các nước, lên án hành động xâm lược của Pháp và đòi thừa nhận quyền tự quyết của dân tộc Việt Nam."
+          },
+          "imageSource": "Ảnh tư liệu, Bộ Ngoại giao Việt Nam",
+          "imageSourceUrl": "https://mofa.gov.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_1946.jpg"
+        },
+        {
+          "id": "p3-item-3-10",
+          "code": "3.10",
+          "title": "Thành lập Hội Liên hiệp Quốc dân Việt Nam (Mặt trận Liên Việt)",
+          "time": "05/1946",
+          "description": "Ngày 29-5-1946, Hội Liên hiệp Quốc dân Việt Nam được thành lập nhằm đoàn kết tất cả các đoàn thể, đảng phái và cá nhân yêu nước bảo vệ nền độc lập.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Mở rộng tối đa khối đại đoàn kết toàn dân tộc, kết hợp sức mạnh mọi tầng lớp nhân dân yêu nước.",
+          "image": "images/p3/T3A10 (1).jpg",
+          "images": [
+            "images/p3/T3A10 (1).jpg",
+            "images/p3/T3A10 (2).jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh và các nhân sĩ trí thức tại lễ ra mắt Hội Liên hiệp Quốc dân Việt Nam (Mặt trận Liên Việt), tháng 5-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "29/5/1946",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Để mở rộng khối đại đoàn kết toàn dân bên cạnh Mặt trận Việt Minh, Đảng và Chủ tịch Hồ Chí Minh đã chủ trương thành lập Hội Liên hiệp Quốc dân Việt Nam (Mặt trận Liên Việt) do Cụ Huỳnh Thúc Kháng làm Hội trưởng. Sự ra đời của Mặt trận Liên Việt đã tập hợp đông đảo các nhân sĩ, trí thức, tư sản dân tộc và các tầng lớp nhân dân cùng chung sức bảo vệ chính quyền cách mạng."
+          },
+          "imageSource": "Ảnh tư liệu, Mặt trận Tổ quốc Việt Nam",
+          "imageSourceUrl": "http://mattran.org.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_and_Vo_Nguyen_Giap_(1945).jpg"
+        }
+      ]
+    },
+    {
+      "id": "toan-quoc-khang-chien",
+      "order": 4,
+      "icon": "sprout",
+      "audio": null,
+      "name": "Toàn quốc kháng chiến bùng nổ và Đường lối kháng chiến (1946 - 1947)",
+      "chapter": "Phần 4",
+      "subtitle": "Đường lối kháng chiến toàn quốc và tổ chức thực hiện 1946 - 1950 (Trang 69 - 72)",
+      "intro": "Đêm 19-12-1946, Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh vang dội non sông. Quân dân ta giam chân địch 60 ngày đêm trong lòng Hà Nội, thực hiện tiêu thổ kháng chiến và di chuyển cơ quan đầu não lên Chiến khu Việt Bắc.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p4-item-4-1",
+          "code": "4.1",
+          "title": "Tội ác gây hấn của quân Pháp ở phố Yên Ninh - Hàng Bún",
+          "time": "17/12/1946",
+          "description": "Cuối năm 1946, thực dân Pháp liên tiếp bội ước, đánh chiếm Hải Phòng, Lạng Sơn và gây ra vụ thảm sát đẫm máu đồng bào Hà Nội tại phố Yên Ninh, Hàng Bún.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Vạch trần dã tâm xâm lược của thực dân và hun đúc ý chí chiến đấu ngoan cường bảo vệ từng tấc đất quê hương.",
+          "image": "images/p4/F4A1.jpg",
+          "images": [
+            "images/p4/F4A1.jpg"
+          ],
+          "imageCaption": "Hiện trường vụ quân Pháp bắn đại bác và tàn sát đồng bào ta tại phố Yên Ninh - Hàng Bún, Hà Nội, tháng 12-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "17/12/1946",
+            "place": "Phố Yên Ninh - Hàng Bún, Hà Nội, Việt Nam",
+            "description": "Cảnh đổ nát tại khu phố Yên Ninh - Hàng Bún sau cuộc tấn công tàn bạo của quân đội Pháp trong các ngày 16 và 17-12-1946, tiếp nối bằng ba tối hậu thư ngày 18-12-1946 đòi tước vũ khí lực lượng tự vệ và kiểm soát Thủ đô. Sự kiện này cho thấy thiện chí hòa bình của nhân dân Việt Nam đã bị thực dân Pháp thẳng thừng cự tuyệt."
+          },
+          "imageSource": "Ảnh tư liệu, Hoàng thành Thăng Long",
+          "imageSourceUrl": "https://trungbayonline.hoangthanhthanglong.vn/ToanQuocKhangChien2021",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Bataille_de_Hanoi_1946_La_reconqu%C3%AAte.jpg"
+        },
+        {
+          "id": "p4-item-4-2",
+          "code": "4.2",
+          "title": "Hội nghị Ban Thường vụ Trung ương Đảng mở rộng tại Vạn Phúc",
+          "time": "18 - 19/12/1946",
+          "description": "Tại làng Vạn Phúc (Hà Đông), Hội nghị Ban Thường vụ Trung ương Đảng mở rộng đã quyết định phát động toàn dân, toàn quốc tiến hành cuộc kháng chiến chống thực dân Pháp.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Quyết đoán nắm bắt thời cơ lịch sử, chuyển hướng kịp thời từ hòa hoãn sang kháng chiến toàn diện khi không thể lùi bước.",
+          "image": "images/p4/F4A2.jpg",
+          "images": [
+            "images/p4/F4A2.jpg"
+          ],
+          "imageCaption": "Ngôi nhà ông Nguyễn Văn Dương tại làng Vạn Phúc (Hà Đông) - nơi họp Ban Thường vụ Trung ương Đảng và nơi Chủ tịch Hồ Chí Minh viết Lời kêu gọi toàn quốc kháng chiến",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "18 - 19/12/1946",
+            "place": "Làng Vạn Phúc, Hà Đông, Hà Nội, Việt Nam",
+            "description": "Ngôi nhà hai tầng giản dị ở làng Vạn Phúc (Hà Đông), nơi trong hai ngày 18 và 19-12-1946, Ban Thường vụ Trung ương Đảng (mở rộng) đã họp khẩn cấp, đánh giá mức độ nghiêm trọng của tình hình và hạ quyết tâm lịch sử: chủ động phát động cuộc kháng chiến toàn quốc trước khi quân Pháp kịp thực hiện kế hoạch đảo chính quân sự."
+          },
+          "imageSource": "Ảnh tư liệu, Thông tấn xã Việt Nam",
+          "imageSourceUrl": "https://nvsk.vnanet.vn/loi-the-quyet-tu-1-112918.vna",
+          "directUrl": "https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Toanquockhangchien.jpg"
+        },
+        {
+          "id": "p4-item-4-3",
+          "code": "4.3",
+          "title": "Bản thảo \"Lời kêu gọi toàn quốc kháng chiến\" của Chủ tịch Hồ Chí Minh",
+          "time": "19/12/1946",
+          "description": "Ngày 19-12-1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến, khẳng định ý chí sắt đá \"thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ\".",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Lời kêu gọi toàn quốc kháng chiến là áng hùng văn thức tỉnh lòng yêu nước và ý chí tự cường của cả một dân tộc.",
+          "image": "images/p4/F4A3.jpg",
+          "images": [
+            "images/p4/F4A3.jpg"
+          ],
+          "imageCaption": "Bản viết tay \"Lời kêu gọi toàn quốc kháng chiến\" của Chủ tịch Hồ Chí Minh ngày 19-12-1946 (Bảo vật quốc gia)",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu gốc",
+            "date": "19/12/1946",
+            "place": "Vạn Phúc, Hà Đông, Hà Nội, Việt Nam",
+            "description": "Trang bản thảo viết tay của Chủ tịch Hồ Chí Minh với những dòng chữ đanh thép hiệu triệu đồng bào cả nước bất kể nam nữ, già trẻ, không phân biệt tôn giáo, đảng phái, dân tộc hễ là người Việt Nam thì phải đứng lên dùng súng, gươm, cuốc, thuổng, gậy gộc đánh thực dân Pháp cứu nước. Cùng với Chỉ thị Toàn dân kháng chiến (12-12-1946), đây là văn kiện nền tảng của đường lối kháng chiến chống Pháp."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3090/72749/thong-tin-bao-chi-trung-bay-chuyen-dje-viet-bac-thu-djo-gio-ngan.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_k%C3%AAu_g%E1%BB%8Di_to%C3%A0n_qu%E1%BB%91c_kh%C3%A1ng_chi%E1%BA%BFn",
+          "video": {
+            "youtube": "c43ztWvLbGc",
+            "title": "Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh (19/12/1946)",
+            "kind": "Băng ghi âm và phim tư liệu",
+            "date": "19/12/1946",
+            "place": "Vạn Phúc, Hà Đông / Hà Nội",
+            "duration": "2:30",
+            "description": "Bản ghi âm giọng đọc đanh thép của Chủ tịch Hồ Chí Minh: \"Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ!\", hiệu triệu muôn triệu trái tim Việt Nam đứng lên kháng chiến bảo vệ Tổ quốc.",
+            "source": "Tư liệu Lịch sử & Đài Truyền hình Việt Nam"
+          }
+        },
+        {
+          "id": "p4-item-4-4",
+          "code": "4.4",
+          "title": "Pháo đài Láng nổ súng mở đầu Toàn quốc kháng chiến",
+          "time": "19/12/1946",
+          "description": "Đúng 20 giờ 03 phút ngày 19-12-1946, khi đèn điện Nhà máy điện Yên Phụ vụt tắt, pháo đài Láng bắn loạt đại bác đầu tiên vào thành Hà Nội, báo hiệu cuộc kháng chiến toàn quốc bắt đầu.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tiếng súng mở đầu cuộc kháng chiến thể hiện tinh thần chủ động tiến công và quyết tâm sắt đá của quân dân ta.",
+          "image": "images/p4/F4A4 (2).jpg",
+          "images": [
+            "images/p4/F4A4 (2).jpg"
+          ],
+          "imageCaption": "Khẩu đội pháo tại Pháo đài Láng nổ súng mở màn Toàn quốc kháng chiến đêm 19-12-1946",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "19/12/1946",
+            "place": "Pháo đài Láng, Hà Nội, Việt Nam",
+            "description": "Các pháo thủ tại Pháo đài Láng bên khẩu pháo cao xạ 75mm hướng nòng về các vị trí đóng quân của Pháp trong thành Hà Nội. Tiếng pháo đêm 19-12-1946 từ Pháo đài Láng đã trở thành hiệu lệnh tiến công cho Vệ quốc đoàn, Tự vệ chiến đấu, Công an xung phong ở Hà Nội và các đô thị từ Bắc vĩ tuyến 16 trở ra (Đà Nẵng, Huế, Vinh, Nam Định, Bắc Ninh, Bắc Giang) đồng loạt nổ súng đánh giặc."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3098/72920/nguoi-phao-thu-cuoi-cung-trong-khau-djoi-phao-phao-djai-lang.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:First_Indochina_War_map_1946_to_1954_de.svg"
+        },
+        {
+          "id": "p4-item-4-5",
+          "code": "4.5",
+          "title": "60 ngày đêm \"Quyết tử để Tổ quốc quyết sinh\" của Trung đoàn Thủ đô",
+          "time": "12/1946 - 02/1947",
+          "description": "Quân và dân Hà Nội chiến đấu giằng co từng góc phố, căn nhà suốt 60 ngày đêm khói lửa, giam chân địch trong thành phố để bảo vệ cơ quan đầu não rút lên chiến khu an toàn.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tinh thần \"Quyết tử để Tổ quốc quyết sinh\" của các chiến sĩ Thủ đô mãi là biểu tượng bất tử của chủ nghĩa anh hùng cách mạng.",
+          "image": "images/p4/F4A5.png",
+          "images": [
+            "images/p4/F4A5.png"
+          ],
+          "imageCaption": "Chiến sĩ Quyết tử quân (Trung đoàn Thủ đô) ôm bom ba càng và chiến đấu trên chiến lũy đường phố Hà Nội, Đông - Xuân 1946 - 1947",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 12/1946 - Tháng 2/1947",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Các chiến sĩ Vệ quốc đoàn và Tự vệ Thủ đô chiến đấu kiên cường tại Bắc Bộ phủ, Bưu điện Bờ Hồ, chợ Đồng Xuân, ga Hàng Cỏ, Ô Cầu Dền... Sau khi hoàn thành xuất sắc nhiệm vụ tiêu hao sinh lực địch và bước đầu làm phá sản kế hoạch \"đánh nhanh thắng nhanh\" của Pháp, đêm 17-2-1947, Trung đoàn Thủ đô đã chủ động vượt sông Hồng rút lên chiến khu an toàn."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://nhandan.vn/special/Quyet-tu-de-To-quoc-quyet-sinh/index.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Hanoi_guards_in_1946.jpg"
+        },
+        {
+          "id": "p4-item-4-6",
+          "code": "4.6",
+          "title": "Tác phẩm \"Kháng chiến nhất định thắng lợi\" hoàn chỉnh đường lối kháng chiến",
+          "time": "08/1947",
+          "description": "Tháng 8-1947, Tổng Bí thư Trường Chinh xuất bản tác phẩm Kháng chiến nhất định thắng lợi, hệ thống hóa đầy đủ đường lối kháng chiến toàn dân, toàn diện, lâu dài và dựa vào sức mình là chính.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đường lối kháng chiến toàn dân, toàn diện, trường kỳ và tự lực cánh sinh là kim chỉ nam khoa học đưa cách mạng đến thắng lợi.",
+          "image": "images/p4/F4A6.jpg",
+          "images": [
+            "images/p4/F4A6.jpg"
+          ],
+          "imageCaption": "Đồng chí Tổng Bí thư Trường Chinh và ấn phẩm \"Kháng chiến nhất định thắng lợi\" (1947)",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu",
+            "date": "Tháng 8/1947",
+            "place": "Chiến khu Việt Bắc, Việt Nam",
+            "description": "Chân dung Tổng Bí thư Trường Chinh tại căn cứ địa Việt Bắc cùng trang bìa cuốn sách Kháng chiến nhất định thắng lợi (tập hợp các bài viết trên báo Sự thật từ tháng 3 đến tháng 8-1947). Tác phẩm đã luận giải sâu sắc mục tiêu, tính chất dân tộc giải phóng và phương châm chiến lược \"toàn dân, toàn diện, trường kỳ và tự lực cánh sinh\", trở thành cẩm nang lý luận dẫn đường cho toàn Đảng, toàn quân, toàn dân."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://dcs.nhandan.vn/huong-toi-ky-niem-90-nam-ngay-truyen-thong-nganh-tuyen-giao/thong-tin-tu-lieu/tong-bi-thu-truong-chinh-viet-tac-pham-khang-chien-nhat-dinh-thang-loi-553166.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_k%E1%BB%B3_kh%C3%A1ng_chi%E1%BA%BFn"
+        },
+        {
+          "id": "p4-item-4-7",
+          "code": "4.7",
+          "title": "Tiêu thổ kháng chiến: Nhân dân tản cư và đập phá nhà cửa ngăn bước giặc",
+          "time": "01/1947",
+          "description": "Thực hiện chủ trương \"Vườn không nhà trống\" và \"Tiêu thổ kháng chiến\", nhân dân các đô thị triệt hạ nhà cửa, dời lên chiến khu để không cho địch lợi dụng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tinh thần hy sinh lợi ích cá nhân vì sự sống còn của Tổ quốc: triệt để phá hủy đường sá, công trình để chặn bước tiến của địch.",
+          "image": "images/p4/F4A7.jpg",
+          "images": [
+            "images/p4/F4A7.jpg"
+          ],
+          "imageCaption": "Nhân dân Hà Nội và các tỉnh phía Bắc tự tay phá hủy nhà cửa, đường xá thực hiện tiêu thổ kháng chiến đầu năm 1947",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Đầu năm 1947",
+            "place": "Hà Nội và miền Bắc, Việt Nam",
+            "description": "Đáp lại lời kêu gọi của Đảng, hàng vạn gia đình đã chấp nhận hy sinh tài sản riêng, tự tay phá hủy công trình, nhà cửa để thực hiện khẩu hiệu \"Tiêu thổ để kháng chiến\". Đường phố bị đào rãnh, cầu cống bị đập phá khiến cơ giới Pháp gặp muôn vàn khó khăn khi tiến quân ra vùng ngoại thành."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Bataille_de_Hanoi_1946_La_reconqu%C3%AAte.jpg"
+        },
+        {
+          "id": "p4-item-4-8",
+          "code": "4.8",
+          "title": "Cuộc vượt sông Hồng thần kỳ của Trung đoàn Thủ đô",
+          "time": "02/1947",
+          "description": "Đêm 17-2-1947, Trung đoàn Thủ đô bí mật vượt sông Hồng tại bến Tàm Xá, rút khỏi Hà Nội an toàn sau khi hoàn thành nhiệm vụ giam chân địch 60 ngày đêm.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Sự mưu trí, dũng cảm và kỷ luật nghiêm minh của lực lượng vũ trang nhân dân trong bảo toàn lực lượng kháng chiến.",
+          "image": "images/p4/F4A8.jpg",
+          "images": [
+            "images/p4/F4A8.jpg"
+          ],
+          "imageCaption": "Chiến sĩ Trung đoàn Thủ đô vượt sông Hồng rút lên chiến khu đêm 17-2-1947",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "17/2/1947",
+            "place": "Bến Tàm Xá, Đông Anh, Hà Nội, Việt Nam",
+            "description": "Dưới sự bao vây gắt gao của quân Pháp, hơn 1.200 cán bộ, chiến sĩ Trung đoàn Thủ đô đã thực hiện cuộc lui quân thần kỳ vượt qua gò bãi sông Hồng dưới sương mù dày đặc. Cuộc rút lui bảo toàn lực lượng chủ lực để tiếp tục chiến đấu lâu dài trên chiến khu Việt Bắc."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Hà Nội Mới",
+          "imageSourceUrl": "https://hanoimoi.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Hanoi_guards_in_1946.jpg"
+        },
+        {
+          "id": "p4-item-4-9",
+          "code": "4.9",
+          "title": "Chủ tịch Hồ Chí Minh và Trung ương Đảng chuyển lên ATK Việt Bắc",
+          "time": "03/1947",
+          "description": "Bác Hồ cùng các cơ quan đầu não cách mạng di chuyển an toàn lên An toàn khu (ATK) Định Hóa (Thái Nguyên) lãnh đạo cuộc kháng chiến.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Căn cứ địa ATK Việt Bắc trở thành Thủ đô gió ngàn, đầu não lãnh đạo toàn diện cuộc kháng chiến trường kỳ.",
+          "image": "images/p4/F4A9.jpg",
+          "images": [
+            "images/p4/F4A9.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh trên đường di chuyển lên ATK Việt Bắc mùa xuân 1947",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 3/1947",
+            "place": "Định Hóa, Thái Nguyên, Việt Nam",
+            "description": "Căn cứ địa Việt Bắc gồm 6 tỉnh (Cao - Bắc - Lạng - Thái - Tuyên - Hà) trở thành \"Thủ đô kháng chiến\". Tại đây, Trung ương Đảng và Chủ tịch Hồ Chí Minh đã chỉ đạo toàn diện cuộc kháng chiến toàn dân, toàn diện, trường kỳ và tự lực cánh sinh."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Hồ Chí Minh",
+          "imageSourceUrl": "https://baotanghochiminh.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_1946.jpg"
+        },
+        {
+          "id": "p4-item-4-10",
+          "code": "4.10",
+          "title": "Xây dựng Binh công xưởng sản xuất vũ khí cho kháng chiến",
+          "time": "05/1947",
+          "description": "Nhà gián sĩ Trần Đại Nghĩa cùng công nhân quân giới nghiên cứu, chế tạo thành công súng và đạn Bazooka tại đại ngàn Việt Bắc.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Tinh thần tự lực tự cường, trí tuệ và sự sáng tạo không ngừng của giai cấp công nhân và thợ vũ khí cách mạng.",
+          "image": "images/p4/F4A10.jpg",
+          "images": [
+            "images/p4/F4A10.jpg"
+          ],
+          "imageCaption": "Kỹ sư Trần Đại Nghĩa cùng các đồng chí tại xưởng quân giới Việt Bắc năm 1947",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 5/1947",
+            "place": "Thái Nguyên, Việt Nam",
+            "description": "Trong điều kiện thiếu thốn vô cùng, ngành Quân giới Việt Nam dưới sự chỉ đạo của GS. Trần Đại Nghĩa đã chế tạo thành công đạn Bazooka xuyên thủng xe tăng Pháp trong trận Chùa Trầm (3-1947), tạo nên kỳ tích kỹ thuật quân sự đóng góp to lớn cho đường lối tự lực cánh sinh."
+          },
+          "imageSource": "Ảnh tư liệu, Tổng cục Công nghiệp Quốc phòng",
+          "imageSourceUrl": "https://qdnd.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Minh_during_August_Revolution.jpg"
+        }
+      ]
+    },
+    {
+      "id": "chi-dao-khang-chien-1947-1950",
+      "order": 5,
+      "icon": "hand",
+      "audio": null,
+      "name": "Tổ chức, chỉ đạo cuộc kháng chiến (1947 - 1950)",
+      "chapter": "Phần 5",
+      "subtitle": "Đường lối kháng chiến toàn quốc và tổ chức thực hiện 1946 - 1950 (Trang 72 - 76)",
+      "intro": "Chiến thắng Việt Bắc Thu - Đông 1947 bẻ gãy gọng kìm của địch; phong trào Thi đua ái quốc lan tỏa rộng khắp; và đỉnh cao là Chiến dịch Biên giới Thu - Đông 1950 giành thắng lợi to lớn, đưa kháng chiến bước sang giai đoạn phản công.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p5-item-5-1",
+          "code": "5.1",
+          "title": "Chiến thắng Việt Bắc Thu - Đông 1947 đập tan kế hoạch \"đánh nhanh thắng nhanh\"",
+          "time": "10 - 12/1947",
+          "description": "Sau 75 ngày đêm chiến đấu oanh liệt (từ tháng 10 đến 21-12-1947), quân và dân ta đã bẻ gãy hoàn toàn hai gọng kìm đường bộ và đường sông của 15.000 quân Pháp tấn công lên ATK Việt Bắc.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Chiến thắng Việt Bắc Thu - Đông 1947 chứng minh tính đúng đắn của đường lối kháng chiến trường kỳ, bẻ gãy kế hoạch đánh nhanh thắng nhanh.",
+          "image": "images/p5/S5A1.jpg",
+          "images": [
+            "images/p5/S5A1.jpg"
+          ],
+          "imageCaption": "Bộ đội pháo binh Sông Lô và xác tàu chiến L.C.T của Pháp bị bắn đắm trên sông Lô trong Chiến dịch Việt Bắc Thu - Đông 1947",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 10 - Tháng 11/1947",
+            "place": "Đoan Hùng (Phú Thọ) - Khe Lau (Tuyên Quang), Việt Nam",
+            "description": "Pháo binh ta đặt pháo sát bờ sông bắn thẳng vào đoàn tàu chiến Pháp trên sông Lô (tại Đoan Hùng, Bình Ca, Khe Lau) phối hợp với các trận phục kích trên đường số 4 (đèo Bông Lau). Thực hiện Chỉ thị ngày 15-10-1947 của Ban Thường vụ Trung ương Đảng \"Phải phá tan cuộc tấn công mùa đông của giặc Pháp\", thắng lợi Việt Bắc Thu - Đông 1947 đã bảo toàn cơ quan đầu não kháng chiến và căn cứ địa Việt Bắc."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Nhân Dân",
+          "imageSourceUrl": "https://special.nhandan.vn/chien-dich-viet-bac-thu-dong/index.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Map_tonkin_autumn_1947.jpg"
+        },
+        {
+          "id": "p5-item-5-2",
+          "code": "5.2",
+          "title": "Lễ phong quân hàm Đại tướng đầu tiên tại chiến khu Việt Bắc",
+          "time": "01 - 05/1948",
+          "description": "Đầu năm 1948, Chủ tịch Hồ Chí Minh ký Sắc lệnh phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp cùng 1 Trung tướng (Nguyễn Bình) và 9 Thiếu tướng, đánh dấu bước trưởng thành chính quy của quân đội ta.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Xây dựng quân đội chính quy, hiện đại, đặt dưới sự lãnh đạo trực tiếp của Đảng và chỉ huy tài tình của Đại tướng Võ Nguyên Giáp.",
+          "image": "images/p5/S5A2.jpg",
+          "images": [
+            "images/p5/S5A2.jpg",
+            "images/p5/S5A2 (2).jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh trao Sắc lệnh phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp tại ATK Định Hóa, Thái Nguyên, năm 1948",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Năm 1948",
+            "place": "Đồi Pụ Đồn (xã Phú Đình, huyện Định Hóa), Thái Nguyên, Việt Nam",
+            "description": "Chủ tịch Hồ Chí Minh trang trọng trao Sắc lệnh phong quân hàm Đại tướng Tổng chỉ huy Quân đội quốc gia và Dân quân Việt Nam cho đồng chí Võ Nguyên Giáp tại chiến khu Việt Bắc. Sự kiện lịch sử này khẳng định sự lớn mạnh vượt bậc của lực lượng vũ trang ba thứ quân và củng cố niềm tin tất thắng của quân dân cả nước."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://www.qdnd.vn/quoc-phong-an-ninh/tin-tuc/doan-cong-tac-quan-uy-trung-uong-bo-quoc-phong-dang-huong-chu-tich-ho-chi-minh-tai-khu-di-tich-lich-su-quoc-gia-dac-biet-atk-dinh-hoa-thai-nguyen-756244",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Vo_Nguyen_Giap,_Philippe_Leclerc,_Hanoi_street,_March_1946.jpg"
+        },
+        {
+          "id": "p5-item-5-3",
+          "code": "5.3",
+          "title": "Lời kêu gọi Thi đua ái quốc và xây dựng thực lực kháng chiến toàn diện",
+          "time": "11/6/1948",
+          "description": "Ngày 11-6-1948, Chủ tịch Hồ Chí Minh ra Lời kêu gọi Thi đua ái quốc, phát động phong trào thi đua sôi nổi trên khắp các mặt trận quân sự, kinh tế, văn hóa, giáo dục để tự cấp, tự túc kháng chiến.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Thi đua ái quốc là động lực to lớn biến tình yêu quê hương thành năng suất lao động và sức mạnh chiến đấu cụ thể.",
+          "image": "images/p5/S5A3.jpg",
+          "images": [
+            "images/p5/S5A3.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh làm việc tại chiến khu Việt Bắc và công xưởng sản xuất vũ khí, hàng hóa hưởng ứng phong trào Thi đua ái quốc (1948 - 1949)",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Năm 1948",
+            "place": "Chiến khu Việt Bắc, Việt Nam",
+            "description": "Công nhân quân giới và nhân dân vùng tự do hăng hái rèn đúc vũ khí, sản xuất vải vóc, giấy, thuốc chữa bệnh, nông cụ theo tinh thần Lời kêu gọi Thi đua ái quốc (11-6-1948) và phương châm văn hóa \"dân tộc, khoa học, đại chúng\" của Hội nghị Văn hóa toàn quốc lần thứ hai (7-1948), làm thất bại âm mưu \"lấy chiến tranh nuôi chiến tranh, dùng người Việt đánh người Việt\" của thực dân Pháp."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3090/72749/thong-tin-bao-chi-trung-bay-chuyen-dje-viet-bac-thu-djo-gio-ngan.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:4%C3%A8_Conf%C3%A9rence_centrale_des_cadres,_%C3%A0_Viet_Bac,_le_20_mai_1948.jpg"
+        },
+        {
+          "id": "p5-item-5-4",
+          "code": "5.4",
+          "title": "Chiến tranh du kích vùng sau lưng địch và phong trào đấu tranh đô thị",
+          "time": "1948 - 1950",
+          "description": "Quân dân Nam Bộ và các vùng tạm chiếm đẩy mạnh chiến tranh du kích (La Ngà, Tầm Vu, Cầu Kè, cầu Bà Kiên) kết hợp với phong trào đấu tranh chính trị của học sinh, sinh viên và nhân dân Sài Gòn (1950).",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Nghệ thuật chiến tranh du kích rộng khắp trong lòng địch, kết hợp chặt chẽ đấu tranh vũ trang và phong trào đấu tranh đô thị.",
+          "image": "images/p5/S5A4.jpg",
+          "images": [
+            "images/p5/S5A4.jpg"
+          ],
+          "imageCaption": "Học sinh, sinh viên và hơn 500.000 nhân dân Sài Gòn - Chợ Lớn biểu tình ngày 9-1-1950 (Trần Văn Ơn hy sinh) và ngày 19-3-1950 chống Mỹ can thiệp",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 1 - Tháng 3/1950",
+            "place": "Sài Gòn - Chợ Lớn, Việt Nam",
+            "description": "Đoàn biểu tình khổng lồ của học sinh, sinh viên và nhân dân Sài Gòn - Chợ Lớn dưới sự chỉ đạo của Xứ ủy Nam Bộ (có Luật sư Nguyễn Hữu Thọ tham gia dẫn đầu) xuống đường phản đối thực dân Pháp và sự can thiệp của tàu chiến Mỹ tại cảng Sài Gòn. Cùng với chiến công của Tổ điệp báo A13 đánh đắm thông báo hạm Amyot d'Inville ở Sầm Sơn (9-1950) và cách đánh đặc công đánh tháp canh ở Nam Bộ, hậu phương của địch đã biến thành tiền phương của ta."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3098/71689/nguoi-truc-tiep-bao-ve-le-djai-djoc-lap-tai-quang-truong-ba-djinh-trong-ngay-2-9-1945.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%C3%A1ch_T%C3%B9ng_Di%E1%BB%87p,%20th12n2021%20(t%C6%B0%E1%BB%A3ng%20Tr%E1%BA%A7n%20V%C4%83n%20%C6%A0n)%20(3).jpg"
+        },
+        {
+          "id": "p5-item-5-5",
+          "code": "5.5",
+          "title": "Mở rộng quan hệ ngoại giao với Trung Quốc, Liên Xô và các nước xã hội chủ nghĩa",
+          "time": "01 - 02/1950",
+          "description": "Đầu năm 1950, sau chuyến thăm của Chủ tịch Hồ Chí Minh, Trung Quốc (18-1-1950), Liên Xô (30-1-1950) cùng các nước Đông Âu, Triều Tiên lần lượt công nhận và đặt quan hệ ngoại giao với Việt Nam.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đột phá ngoại giao lịch sử: thiết lập quan hệ với Liên Xô, Trung Quốc, mở rộng mặt trận ủng hộ quốc tế cho cuộc kháng chiến.",
+          "image": "images/p5/S5A5.jpg",
+          "images": [
+            "images/p5/S5A5.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh cùng các đồng chí lãnh đạo Trung ương Đảng tại chiến khu Việt Bắc năm 1950 trong đợt hoạt động đối ngoại mở thông biên giới quốc tế",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Đầu năm 1950",
+            "place": "Chiến khu Việt Bắc, Việt Nam",
+            "description": "Chủ tịch Hồ Chí Minh cùng các đồng chí trong Ban Thường vụ Trung ương Đảng trao đổi công tác đối ngoại và quân sự năm 1950. Thắng lợi ngoại giao đầu năm 1950 cùng việc mở rộng mặt trận đoàn kết chiến đấu Việt - Miên - Lào và sự ra đời của hai Đại đoàn chủ lực đầu tiên (308 và 304) đã đưa cách mạng Việt Nam thoát khỏi thế bị bao vây, cô lập."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3090/72749/thong-tin-bao-chi-trung-bay-chuyen-dje-viet-bac-thu-djo-gio-ngan.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:First_Indochina_War_map_1950_de.svg"
+        },
+        {
+          "id": "p5-item-5-6",
+          "code": "5.6",
+          "title": "Chủ tịch Hồ Chí Minh trực tiếp chỉ đạo Chiến dịch Biên giới Thu - Đông 1950",
+          "time": "16/9 - 17/10/1950",
+          "description": "Trong suốt 30 ngày đêm (16-9 đến 17-10-1950), quân và dân ta chủ động mở Chiến dịch Biên giới tại Cao Bằng - Lạng Sơn, đập tan Kế hoạch Rơve và khai thông tuyến biên giới Việt - Trung.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Sự chỉ đạo sát sao, trực tiếp tại chiến trường của Chủ tịch Hồ Chí Minh tiếp thêm niềm tin sắt đá cho cán bộ, chiến sĩ.",
+          "image": "images/p5/S5A6.jpg",
+          "images": [
+            "images/p5/S5A6.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh trên đài quan sát mặt trận Đông Khê (Cao Bằng) trong Chiến dịch Biên giới Thu - Đông, ngày 16-9-1950 (Ảnh của nghệ sĩ Vũ Năng An)",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "16/9/1950",
+            "place": "Núi Báo Đông, Đông Khê (Thạch An), Cao Bằng, Việt Nam",
+            "description": "Chủ tịch Hồ Chí Minh ngồi trên mỏm núi đá tại đài quan sát mặt trận Đông Khê, chăm chú theo dõi bộ đội ta nổ súng tấn công cứ điểm Đông Khê mở màn Chiến dịch Biên giới Thu - Đông 1950. Chiến thắng Biên giới đã tiêu diệt một bộ phận quan trọng sinh lực địch, mở rộng căn cứ địa Việt Bắc, kết thúc thời kỳ chiến đấu trong vòng vây và đưa cuộc kháng chiến bước sang giai đoạn giành quyền chủ động chiến lược trên chiến trường chính."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3097/18574/chien-dich-bien-gioi-thu-djong-16-9-17-10-1950-su-thanh-cong-trong-su-dung-ke-hoach-tac-chien.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RC4_vietnam.jpg",
+          "video": {
+            "youtube": "5LJztIv-EAM",
+            "title": "Chiến Dịch Biên Giới Thu – Đông 1950: Bước Ngoặt Làm Thay Đổi Cục Diện",
+            "kind": "Phim tư liệu",
+            "date": "Thu - Đông 1950",
+            "place": "Cao Bằng - Lạng Sơn",
+            "duration": "Phim tài liệu",
+            "description": "Thước phim tư liệu phân tích bước ngoặt chiến lược của Chiến dịch Biên giới năm 1950, hình ảnh Chủ tịch Hồ Chí Minh trực tiếp quan sát mặt trận Đông Khê và quân ta bắt sống các binh đoàn địch trên Đường số 4.",
+            "source": "Truyền hình Quốc phòng Việt Nam (QPVN)"
+          }
+        },
+        {
+          "id": "p5-item-5-7",
+          "code": "5.7",
+          "title": "Tù binh Pháp bị bắt sống tại Chiến dịch Biên giới Thu - Đông 1950",
+          "time": "10/1950",
+          "description": "Đoàn tù binh quân đội Pháp gồm các binh đoàn Charton và Le Page bị bộ đội Việt Nam bắt sống và giải đi sau khi thất thủ tại Đường số 4.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Chính sách khoan hồng nhân đạo đối với tù hàng binh của Nhà nước ta, thể hiện rõ tính chính nghĩa sáng ngời của cách mạng.",
+          "image": "images/p5/S5A7.jpg",
+          "images": [
+            "images/p5/S5A7.jpg"
+          ],
+          "imageCaption": "Binh lính và sĩ quan Pháp bị bắt làm tù binh trong Chiến dịch Biên giới, tháng 10-1950",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 10/1950",
+            "place": "Cao Bằng - Lạng Sơn, Việt Nam",
+            "description": "Chiến dịch Biên giới Thu - Đông 1950 là chiến dịch tiến công quy mô lớn đầu tiên của Quân đội nhân dân Việt Nam. Việc bắt sống hai trung tá chỉ huy Charton và Le Page cùng hàng ngàn binh lính tinh nhuệ Pháp đã chứng minh sự trưởng thành vượt bậc về trình độ tác chiến tập trung của quân đội ta."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://qdnd.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RC4_vietnam.jpg"
+        },
+        {
+          "id": "p5-item-5-8",
+          "code": "5.8",
+          "title": "Nhân dân vùng tự do Việt Bắc nô nức đi dân công phục vụ chiến dịch",
+          "time": "11/1950",
+          "description": "Hàng vạn dân công gánh gạo, tải đạn, xẻ núi mở đường bảo đảm hậu cần cho lực lượng chủ lực chiến đấu thắng lợi.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Sức mạnh vô tận của nhân dân hậu phương tiếp tế lương thực, đạn dược - cội nguồn sức mạnh của các chiến dịch quyết định.",
+          "image": "images/p5/S5A8.jpg",
+          "images": [
+            "images/p5/S5A8.jpg"
+          ],
+          "imageCaption": "Đoàn dân công hỏa tuyến vận chuyển lương thực, đạn dược phục vụ Chiến dịch Biên giới 1950",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Thu - Đông 1950",
+            "place": "Chiến khu Việt Bắc, Việt Nam",
+            "description": "Sức mạnh hậu phương nhân dân đã đóng góp vai trò quyết định vào thắng lợi của các chiến dịch. Hàng chục ngàn nam nữ thanh niên, dân công đã đóng góp hàng triệu ngày công, vận chuyển hàng ngàn tấn gạo và đạn dược vượt qua hàng trăm kilomet đường rừng phục vụ mặt trận."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Minh_during_August_Revolution.jpg"
+        },
+        {
+          "id": "p5-item-5-9",
+          "code": "5.9",
+          "title": "Mỹ đẩy mạnh viện trợ quân sự cho Pháp qua Kế hoạch De Lattre de Tassigny",
+          "time": "12/1950",
+          "description": "Tướng De Lattre de Tassigny sang Đông Dương làm Tổng chỉ huy quân Pháp, lập tuyến phòng thủ công sự xi măng nhằm bao vây Đồng bằng Bắc Bộ.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Cảnh giác và chủ động chuẩn bị đối phó với sự can thiệp quốc tế ngày càng sâu của các cường quốc đế quốc.",
+          "image": "images/p5/S5A9.jpg",
+          "images": [
+            "images/p5/S5A9.jpg"
+          ],
+          "imageCaption": "Tướng De Lattre de Tassigny duyệt đội ngũ quân đội viễn chinh Pháp tại Hà Nội cuối năm 1950",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 12/1950",
+            "place": "Hà Nội, Việt Nam",
+            "description": "Thất bại cay đắng tại Biên giới buộc Pháp phải dựa sâu vào viện trợ Mỹ. Tướng De Lattre de Tassigny đề ra kế hoạch toàn diện nhằm tập trung quân chủ lực, xây dựng vành đai trắng bao quanh Bắc Bộ và đẩy mạnh càn quét nhằm giành lại quyền chủ động đã mất."
+          },
+          "imageSource": "Ảnh tư liệu lịch sử",
+          "imageSourceUrl": "https://commons.wikimedia.org",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:De_Lattre_de_Tassigny_1951.jpg"
+        },
+        {
+          "id": "p5-item-5-10",
+          "code": "5.10",
+          "title": "Chiến dịch Trần Hưng Đạo (Trung Thượng) mở đầu đợt tiến công Đồng bằng Bắc Bộ",
+          "time": "01/1951",
+          "description": "Đại đoàn 308 và Đại đoàn 312 mở chiến dịch tiến công tuyến phòng thủ của Pháp ở trung du, tiêu hao nhiều sinh lực địch.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Thế chủ động chiến lược trên chiến trường chính Bắc Bộ mở ra giai đoạn mới tiến công giải phóng đất nước.",
+          "image": "images/p5/S5A10.jpg",
+          "images": [
+            "images/p5/S5A10.jpg"
+          ],
+          "imageCaption": "Bộ bộ binh Việt Nam tiến công trong Chiến dịch Trần Hưng Đạo đầu năm 1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 1/1951",
+            "place": "Vĩnh Yên - Phúc Yên, Việt Nam",
+            "description": "Sau thắng lợi Biên giới, Trung ương Đảng quyết định mở các chiến dịch tiến công xuống vùng trung du và đồng bằng nhằm tiêu diệt sinh lực địch, hỗ trợ phong trào du kích phát triển. Chiến dịch Trần Hưng Đạo mở đầu cho chuỗi các chiến dịch tiến công chiến lược hướng tới Đại hội II của Đảng."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://qdnd.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:RC4_vietnam.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dai-hoi-ii-dang",
+      "order": 6,
+      "icon": "book",
+      "audio": null,
+      "name": "Đại hội đại biểu toàn quốc lần thứ II của Đảng (1951)",
+      "chapter": "Phần 6",
+      "subtitle": "Đẩy mạnh cuộc kháng chiến đến thắng lợi 1951 - 1954 (Trang 76)",
+      "intro": "Tháng 2-1951 tại Chiêm Hóa (Tuyên Quang), Đại hội II quyết định đưa Đảng ra hoạt động công khai lấy tên là Đảng Lao động Việt Nam, thông qua Chính cương mới, củng cố Mặt trận Liên Việt và liên minh Việt - Miên - Lào, mở đường đến thắng lợi Điện Biên Phủ.",
+      "isTimeline": true,
+      "items": [
+        {
+          "id": "p6-item-6-1",
+          "code": "6.1",
+          "title": "Quang cảnh Đại hội đại biểu toàn quốc lần thứ II của Đảng",
+          "time": "11 - 19/02/1951",
+          "description": "Từ ngày 11 đến ngày 19-2-1951, Đại hội đại biểu toàn quốc lần thứ II của Đảng họp tại xã Vinh Quang (nay là Kim Bình), huyện Chiêm Hóa, tỉnh Tuyên Quang.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Đại hội II là mốc son chói lọi đánh dấu sự trưởng thành vượt bậc về tư tưởng, đường lối và tổ chức của Đảng ta.",
+          "image": "images/p6/E6A1.jpg",
+          "images": [
+            "images/p6/E6A1.jpg"
+          ],
+          "imageCaption": "Toàn cảnh hội trường Đại hội đại biểu toàn quốc lần thứ II của Đảng tại xã Vinh Quang, huyện Chiêm Hóa, tỉnh Tuyên Quang, tháng 2-1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "11 - 19/02/1951",
+            "place": "Xã Vinh Quang (nay là xã Kim Bình), huyện Chiêm Hóa, tỉnh Tuyên Quang, Việt Nam",
+            "description": "Quang cảnh trang nghiêm bên trong hội trường Đại hội đại biểu toàn quốc lần thứ II của Đảng được xây dựng giữa núi rừng chiến khu Tuyên Quang. Đây là kỳ Đại hội đầu tiên của Đảng được tổ chức ở trong nước (\"Đại hội Kháng chiến\"), quy tụ 158 đại biểu chính thức và 53 đại biểu dự khuyết, thay mặt cho hơn 766.000 đảng viên toàn Đảng."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3097/13698/djai-hoi-djai-bieu-toan-quoc-lan-thu-ii-11-19-2-1951.html",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:ICP_1951a,_second_Party_Congress.gif"
+        },
+        {
+          "id": "p6-item-6-2",
+          "code": "6.2",
+          "title": "Chủ tịch Hồ Chí Minh đọc Báo cáo chính trị tại Đại hội II",
+          "time": "02/1951",
+          "description": "Tại Đại hội đại biểu toàn quốc lần thứ II, Chủ tịch Hồ Chí Minh trình bày bản Báo cáo chính trị tổng kết phong trào cách mạng thế giới và Việt Nam, vạch rõ nhiệm vụ đưa kháng chiến đến thắng lợi hoàn toàn.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Báo cáo chính trị của Chủ tịch Hồ Chí Minh tổng kết sâu sắc thực tiễn cách mạng, vạch rõ con đường đi lên của dân tộc.",
+          "image": "images/p6/E6A2.jpg",
+          "images": [
+            "images/p6/E6A2.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh đọc Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng, tháng 2-1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 2/1951",
+            "place": "Chiêm Hóa, Tuyên Quang, Việt Nam",
+            "description": "Chủ tịch Hồ Chí Minh đứng trên diễn đàn Đại hội trình bày bản Báo cáo chính trị trước các đại biểu trong bối cảnh Liên Xô và phe xã hội chủ nghĩa lớn mạnh, nước Cộng hòa Nhân dân Trung Hoa ra đời làm thay đổi so sánh lực lượng có lợi cho cách mạng, còn đế quốc Mỹ ngày càng can thiệp sâu vào chiến tranh Đông Dương."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/2002/67964/djai-hoi-djai-bieu-toan-quoc-lan-thu-ii-11-19-2-1951.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam_l%E1%BA%A7n_th%E1%BB%A9_II"
+        },
+        {
+          "id": "p6-item-6-3",
+          "code": "6.3",
+          "title": "Đồng chí Trường Chinh trình bày Luận cương về cách mạng Việt Nam (Chính cương của Đảng)",
+          "time": "02/1951",
+          "description": "Tổng Bí thư Trường Chinh đọc báo cáo Bàn về cách mạng Việt Nam, trình bày toàn bộ đường lối cách mạng dân tộc dân chủ nhân dân tiến lên chủ nghĩa xã hội được kết tinh trong Chính cương của Đảng (2-1951).",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Chính cương của Đảng hoàn chỉnh lý luận về cuộc cách mạng dân tộc dân chủ nhân dân tiến dần lên chủ nghĩa xã hội.",
+          "image": "images/p6/E6A3.jpg",
+          "images": [
+            "images/p6/E6A3.jpg"
+          ],
+          "imageCaption": "Đồng chí Trường Chinh đọc báo cáo \"Bàn về cách mạng Việt Nam\" tại Đại hội đại biểu toàn quốc lần thứ II, tháng 2-1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 2/1951",
+            "place": "Chiêm Hóa, Tuyên Quang, Việt Nam",
+            "description": "Đồng chí Tổng Bí thư Trường Chinh trình bày báo cáo lý luận quan trọng tại diễn đàn Đại hội II. На cơ sở đó, Đại hội đã thông qua Chính cương của Đảng Lao động Việt Nam (2-1951), bổ sung và hoàn chỉnh đường lối cách mạng giải phóng dân tộc, dân chủ nhân dân phù hợp với thực tiễn Việt Nam trong giai đoạn đẩy mạnh kháng chiến đến thắng lợi."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3097/13698/djai-hoi-djai-bieu-toan-quoc-lan-thu-ii-11-19-2-1951.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam_l%E1%BA%A7n_th%E1%BB%A9_II"
+        },
+        {
+          "id": "p6-item-6-4",
+          "code": "6.4",
+          "title": "Các đại biểu dự Đại hội II bên ngoài hội trường Kim Bình",
+          "time": "02/1951",
+          "description": "Các đại biểu từ khắp các chiến trường Bắc - Trung - Nam và đại biểu Lào, Campuchia vượt qua bom đạn địch về dự Đại hội tại chiến khu Tuyên Quang.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Ý chí đoàn kết, gắn bó máu thịt giữa cán bộ, đảng viên với đồng bào các dân tộc thiểu số tại chiến khu kháng chiến.",
+          "image": "images/p6/E6A4.jpg",
+          "images": [
+            "images/p6/E6A4.jpg"
+          ],
+          "imageCaption": "Các đại biểu dự Đại hội đại biểu toàn quốc lần thứ II của Đảng trao đổi bên ngoài hội trường trong giờ giải lao, tháng 2-1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 2/1951",
+            "place": "Xã Vinh Quang (Kim Bình), Chiêm Hóa, Tuyên Quang, Việt Nam",
+            "description": "Các đại biểu tham dự Đại hội II trò chuyện sôi nổi bên ngoài hội trường lợp nứa lá tại xã Vinh Quang trong giờ giải lao. Sự hiện diện của các đại biểu đại diện cho hơn 76,6 vạn đảng viên phản ánh sự trưởng thành vượt bậc về tổ chức và bản lĩnh chính trị của Đảng sau hơn 5 năm lãnh đạo toàn dân kháng chiến, kiến quốc."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn/vi/Articles/3097/15782/ky-niem-63-nam-2-1951-2-2014-djai-hoi-djai-bieu-toan-quoc-lan-thu-ii-djang-cong-san-djong-duong.html",
+          "directUrl": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam_l%E1%BA%A7n_th%E1%BB%A9_II"
+        },
+        {
+          "id": "p6-item-6-5-video-dai-hoi-2",
+          "code": "6.5",
+          "title": "Phim tư liệu: Dấu ấn Đại hội đại biểu toàn quốc lần thứ II của Đảng",
+          "time": "02/1951",
+          "description": "Thước phim tư liệu của Truyền hình Nhân Dân ghi lại dấu ấn lịch sử của Đại hội II tại Chiêm Hóa (Tuyên Quang), đánh dấu bước ngoặt Đảng ra hoạt động công khai lấy tên là Đảng Lao động Việt Nam.",
+          "quote": "Đại hội này là Đại hội kháng chiến kiến quốc... Toàn Đảng, toàn dân ta phải đoàn kết chặt chẽ hơn nữa để đưa kháng chiến đến hoàn toàn thắng lợi.",
+          "quoteSource": "Hồ Chí Minh, Diễn văn bế mạc Đại hội đại biểu toàn quốc lần thứ II của Đảng, 2/1951",
+          "today": "Đại hội II là mốc son chói lọi trong lịch sử Đảng, khẳng định vai trò lãnh đạo toàn diện đưa cuộc kháng chiến chống thực dân Pháp đi đến thắng lợi Điện Biên Phủ lịch sử.",
+          "image": null,
+          "images": [],
+          "imageCaption": null,
+          "video": {
+            "youtube": "lx_GyyzfNZk",
+            "title": "Dấu ấn Đại hội đại biểu toàn quốc lần thứ II của Đảng",
+            "kind": "Phim tư liệu",
+            "date": "Tháng 2/1951",
+            "place": "Chiêm Hóa, Tuyên Quang, Việt Nam",
+            "duration": "Phim tư liệu",
+            "description": "Tư liệu lịch sử phản ánh về Đại hội lần thứ II của Đảng họp từ ngày 11 đến 19/2/1951 tại xã Vinh Quang (nay là xã Kim Bình), huyện Chiêm Hóa, tỉnh Tuyên Quang. Đây là Đại hội đầu tiên được tổ chức trong nước, quyết định đưa Đảng ra hoạt động công khai với tên gọi Đảng Lao động Việt Nam.",
+            "source": "Truyền hình Nhân Dân (Báo Nhân Dân)"
+          },
+          "artifact": {
+            "type": "Phim tư liệu",
+            "date": "Tháng 2/1951",
+            "place": "Chiêm Hóa, Tuyên Quang",
+            "description": "Thước phim tư liệu lịch sử Đại hội đại biểu toàn quốc lần thứ II của Đảng tại căn cứ Kim Bình, Chiêm Hóa, Tuyên Quang."
+          },
+          "imageSource": "Truyền hình Nhân Dân",
+          "imageSourceUrl": "https://www.youtube.com/watch?v=lx_GyyzfNZk",
+          "directUrl": "https://www.youtube.com/watch?v=lx_GyyzfNZk"
+        },
+        {
+          "id": "p6-item-6-7",
+          "code": "6.7",
+          "title": "Đại hội II thông qua Điều lệ mới của Đảng Lao động Việt Nam",
+          "time": "02/1951",
+          "description": "Đại hội đại biểu toàn quốc lần thứ II thông qua bản Điều lệ mới, xác định rõ bản chất giai cấp công nhân và nguyên tắc tổ chức của Đảng.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Điều lệ mới giữ vững nguyên tắc tập trung dân chủ, xây dựng Đảng trong sạch vững mạnh là nhân tố quyết định mọi thắng lợi.",
+          "image": "images/p6/E6A7.gif",
+          "images": [
+            "images/p6/E6A7.gif"
+          ],
+          "imageCaption": "Bản in Điều lệ Đảng Lao động Việt Nam được thông qua tại Đại hội II (2-1951)",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu gốc",
+            "date": "Tháng 2/1951",
+            "place": "Chiêm Hóa, Tuyên Quang, Việt Nam",
+            "description": "Điều lệ mới của Đảng Lao động Việt Nam do Đại hội II thông qua đã quy định chặt chẽ các nguyên tắc xây dựng Đảng theo chủ nghĩa Mác - Lênin, đặc biệt là nguyên tắc tập trung dân chủ. Điều lệ khẳng định Đảng là đội tiên phong của giai cấp công nhân và nhân dân lao động Việt Nam, bảo đảm tính lãnh đạo toàn diện đối với cuộc kháng chiến."
+          },
+          "imageSource": "Ảnh tư liệu, Bảo tàng Lịch sử Quốc gia",
+          "imageSourceUrl": "https://baotanglichsu.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:ICP_1951a,_second_Party_Congress.gif"
+        },
+        {
+          "id": "p6-item-6-8",
+          "code": "6.8",
+          "title": "Đại hội Thống nhất Mặt trận Việt Minh và Mặt trận Liên Việt",
+          "time": "03/1951",
+          "description": "Tháng 3-1951, Đại hội thống nhất Mặt trận Việt Minh và Mặt trận Liên Việt thành Mặt trận Liên Việt, củng cố khối đại đoàn kết toàn dân tộc.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Hợp nhất Mặt trận Việt Minh và Liên Việt tạo nên khối đại đoàn kết toàn dân tộc vững chắc như bàn thạch.",
+          "image": "images/p6/E6A8.jpg",
+          "images": [
+            "images/p6/E6A8.jpg"
+          ],
+          "imageCaption": "Chủ tịch Hồ Chí Minh cùng các đại biểu tại Đại hội Thống nhất Việt Minh - Liên Việt, tháng 3-1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "Tháng 3/1951",
+            "place": "Việt Bắc, Việt Nam",
+            "description": "Ngay sau Đại hội II của Đảng, Đại hội thống nhất Việt Minh - Liên Việt họp từ ngày 3 đến 7-3-1951 đã quyết định hợp nhất hai tổ chức thành Mặt trận Liên hiệp Quốc dân Việt Nam (Mặt trận Liên Việt). Sự kiện này tạo nên sức mạnh đoàn kết toàn dân rộng lớn, trở thành một trong những trụ cột đưa cuộc kháng chiến chống Pháp đến thắng lợi."
+          },
+          "imageSource": "Ảnh tư liệu, Mặt trận Tổ quốc Việt Nam",
+          "imageSourceUrl": "http://mattran.org.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_and_Vo_Nguyen_Giap_(1945).jpg"
+        },
+        {
+          "id": "p6-item-6-9",
+          "code": "6.9",
+          "title": "Thành lập Liên minh Nhân dân Việt - Miên - Lào",
+          "time": "03/1951",
+          "description": "Ngày 11-3-1951, Hội nghị đại biểu nhân dân ba nước thành lập Liên minh Nhân dân Việt - Miên - Lào để phối hợp chiến đấu chống kẻ thù chung.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Liên minh ba dân tộc Việt - Miên - Lào tạo thành thế trận chiến đấu liên hoàn chống kẻ thù chung trên bán đảo Đông Dương.",
+          "image": "images/p6/E6A9.jpg",
+          "images": [
+            "images/p6/E6A9.jpg"
+          ],
+          "imageCaption": "Đại biểu ba nước Việt Nam, Lào, Campuchia tại Hội nghị thành lập Liên minh Nhân dân Việt - Miên - Lào, tháng 3-1951",
+          "artifact": {
+            "type": "Ảnh chụp",
+            "date": "11/3/1951",
+            "place": "Việt Bắc, Việt Nam",
+            "description": "Thực hiện chủ trương của Đại hội II về liên minh chiến đấu Đông Dương, Hội nghị thành lập Liên minh Nhân dân Việt - Miên - Lào đã họp và thông qua Tuyên ngôn chung. Liên minh khẳng định nguyên tắc tự nguyện, bình đẳng và tương trợ lẫn nhau giữa ba dân tộc nhằm đánh đuổi thực dân Pháp xâm lược và can thiệp Mỹ."
+          },
+          "imageSource": "Ảnh tư liệu, Báo Quân đội nhân dân",
+          "imageSourceUrl": "https://qdnd.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:ICP_1951a,_second_Party_Congress.gif"
+        },
+        {
+          "id": "p6-item-6-10",
+          "code": "6.10",
+          "title": "Thành lập Ngân hàng Quốc gia Việt Nam và phát hành đồng tiền tài chính mới",
+          "time": "05/1951",
+          "description": "Chính phủ quyết định thành lập Ngân hàng Quốc gia Việt Nam (6-5-1951) nhằm củng cố hệ thống tài chính - tiền tệ phục vụ kháng chiến.",
+          "quote": null,
+          "quoteSource": null,
+          "today": "Thiết lập nền tiền tệ - tài chính độc lập tự chủ, tạo nguồn lực vật chất vững chắc đưa cuộc kháng chiến tiến tới thắng lợi hoàn toàn.",
+          "image": "images/p6/E6A10.jpg",
+          "images": [
+            "images/p6/E6A10.jpg",
+            "images/p6/E6A10 (2).jpg"
+          ],
+          "imageCaption": "Giấy bạc Ngân hàng Quốc gia Việt Nam phát hành năm 1951",
+          "artifact": {
+            "type": "Ảnh chụp tư liệu gốc",
+            "date": "Năm 1951",
+            "place": "Chiến khu Việt Bắc, Việt Nam",
+            "description": "Nhằm thực hiện Nghị quyết Đại hội II về phát triển kinh tế - tài chính, Chủ tịch Hồ Chí Minh đã ký Sắc lệnh số 15/SL thành lập Ngân hàng Quốc gia Việt Nam. Việc phát hành đồng tiền Ngân hàng thay thế giấy bạc Tài chính cũ đã giúp ổn định giá cả, củng cố sức mua đồng tiền cách mạng và đấu tranh kinh tế hiệu quả với địch."
+          },
+          "imageSource": "Ảnh tư liệu, Ngân hàng Nhà nước Việt Nam",
+          "imageSourceUrl": "https://sbv.gov.vn",
+          "directUrl": "https://commons.wikimedia.org/wiki/File:Viet_Nam_Banknote_1951.jpg"
+        }
+      ]
+    }
+  ]
+}

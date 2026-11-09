@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ngàn Cân Treo Sợi Tóc: Bản Lĩnh Lãnh Đạo (1945 - 1951) — Bảo tàng Lịch sử Đảng</title>
+    <meta
+      name="description"
+      content="Interactive Web Experience: Ngàn Cân Treo Sợi Tóc — Bản Lĩnh Lãnh Đạo Cách Mạng (1945 - 1951). Trực tiếp đưa ra các quyết sách lịch sử: Diệt giặc đói, giặc dốt, Tổng tuyển cử 1946, Hiệp định Sơ bộ, Toàn quốc kháng chiến, Chiến dịch Việt Bắc, Biên giới và Đại hội II."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 fill=%22%237A1712%22/%3E%3Cpath d=%22M16 5l3.1 9.5H29l-8 5.8 3 9.5-8-5.8-8 5.8 3-9.5-8-5.8h9.9z%22 fill=%22%23C9A23F%22/%3E%3C/svg%3E"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&subset=vietnamese&display=swap"
+    />
+    <link rel="stylesheet" href="/src/styles/game.css" />
+  </head>
+  <body class="game-body">
+    <div class="game-bg-pattern" aria-hidden="true"></div>
+    <div class="alarm-flash-overlay" id="alarm-flash-overlay" aria-hidden="true"></div>
+
+    <!-- Navigation Bar -->
+    <header class="game-nav">
+      <a href="./index.html" class="game-nav__brand">
+        <span class="game-nav__logo" aria-hidden="true">🏛️</span>
+        <span>Bảo tàng Lịch sử Đảng (1945 - 1951)</span>
+      </a>
+      <div class="game-nav__actions" data-settings-slot>
+        <button type="button" class="nav-btn" id="sound-toggle-btn" aria-label="Bật/Tắt âm thanh">
+          <span id="sound-icon">🔊</span> Âm thanh
+        </button>
+        <a href="./index.html" class="nav-btn">
+          <span>🏛️</span> Về Sảnh 3D
+        </a>
+      </div>
+    </header>
+
+    <!-- Main Game Container -->
+    <main class="game-container">
+      <!-- Live 5 Stats HUD -->
+      <section class="game-hud" id="game-hud" aria-label="Bảng chỉ số tư tưởng" hidden>
+        <div class="hud-title-bar">
+          <span class="hud-level-badge" id="hud-level-badge">CHẶNG 1 — THÁNG 9/1945: TÌNH THẾ HIỂM NGHÈO</span>
+          <div class="hud-actions">
+            <button type="button" class="hud-btn" id="knowledge-tree-btn">
+              🌳 Cây Tri Thức
+            </button>
+          </div>
+        </div>
+
+        <div class="hud-stats-grid-5">
+          <!-- Stat 1: Độc lập - Chủ quyền -->
+          <div class="stat-card" id="stat-card-docLap">
+            <div class="stat-card__head">
+              <span class="stat-card__label">🎯 Độc lập</span>
+              <span class="stat-card__val" id="stat-val-docLap">50</span>
+            </div>
+            <div class="stat-progress-bg">
+              <div class="stat-progress-bar docLap" id="stat-bar-docLap" style="width: 50%"></div>
+            </div>
+          </div>
+
+          <!-- Stat 2: Đoàn kết toàn dân -->
+          <div class="stat-card" id="stat-card-doanKet">
+            <div class="stat-card__head">
+              <span class="stat-card__label">🤝 Đoàn kết</span>
+              <span class="stat-card__val" id="stat-val-doanKet">50</span>
+            </div>
+            <div class="stat-progress-bg">
+              <div class="stat-progress-bar doanKet" id="stat-bar-doanKet" style="width: 50%"></div>
+            </div>
+          </div>
+
+          <!-- Stat 3: Kỷ cương - Liêm chính -->
+          <div class="stat-card" id="stat-card-daoDuc">
+            <div class="stat-card__head">
+              <span class="stat-card__label">⚖️ Liêm chính</span>
+              <span class="stat-card__val" id="stat-val-daoDuc">50</span>
+            </div>
+            <div class="stat-progress-bg">
+              <div class="stat-progress-bar daoDuc" id="stat-bar-daoDuc" style="width: 50%"></div>
+            </div>
+          </div>
+
+          <!-- Stat 4: Dân sinh - Vì dân -->
+          <div class="stat-card" id="stat-card-viDan">
+            <div class="stat-card__head">
+              <span class="stat-card__label">👥 Vì dân</span>
+              <span class="stat-card__val" id="stat-val-viDan">50</span>
+            </div>
+            <div class="stat-progress-bg">
+              <div class="stat-progress-bar viDan" id="stat-bar-viDan" style="width: 50%"></div>
+            </div>
+          </div>
+
+          <!-- Stat 5: Sách lược - Trí tuệ -->
+          <div class="stat-card" id="stat-card-hocLam">
+            <div class="stat-card__head">
+              <span class="stat-card__label">💡 Sách lược</span>
+              <span class="stat-card__val" id="stat-val-hocLam">50</span>
+            </div>
+            <div class="stat-progress-bg">
+              <div class="stat-progress-bar hocLam" id="stat-bar-hocLam" style="width: 50%"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SCREEN 1: INTRO SCREEN -->
+      <section class="screen-view is-active" id="screen-intro" aria-labelledby="intro-title">
+        <div class="intro-hero">
+          <div class="intro-badge">🏛️ THỬ THÁCH BẢN LĨNH LÃNH ĐẠO (1945 - 1951)</div>
+          <h1 class="intro-title" id="intro-title">
+            NGÀN CÂN TREO SỢI TÓC: <span>QUYẾT SÁCH LỊCH SỬ</span>
+          </h1>
+          <p class="intro-tagline">
+            “Dĩ bất biến, ứng vạn biến — Giữ vững độc lập tự do trong bão táp hiểm nghèo!”
+          </p>
+
+          <div class="stats-explainer-5">
+            <div class="stat-info-card">
+              <div class="stat-info-card__title"><span>🎯</span> Độc lập - Chủ quyền</div>
+              <p class="stat-info-card__desc">Giữ vững chủ quyền tối cao, kiên định mục tiêu tự do dân tộc.</p>
+            </div>
+            <div class="stat-info-card">
+              <div class="stat-info-card__title"><span>🤝</span> Đại đoàn kết</div>
+              <p class="stat-info-card__desc">Quy tụ mọi tầng lớp nhân dân, củng cố Mặt trận Việt Minh.</p>
+            </div>
+            <div class="stat-info-card">
+              <div class="stat-info-card__title"><span>⚖️</span> Kỷ cương - Liêm chính</div>
+              <p class="stat-info-card__desc">Cần kiệm liêm chính, chí công vô tư, giữ nghiêm kỷ luật.</p>
+            </div>
+            <div class="stat-info-card">
+              <div class="stat-info-card__title"><span>👥</span> Dân sinh - Vì dân</div>
+              <p class="stat-info-card__desc">Lấy dân làm gốc, diệt giặc đói, giặc dốt, chăm lo đời sống nhân dân.</p>
+            </div>
+            <div class="stat-info-card">
+              <div class="stat-info-card__title"><span>💡</span> Sách lược - Trí tuệ</div>
+              <p class="stat-info-card__desc">Phân hóa kẻ thù, chớp thời cơ và nghệ thuật quân sự tài tình.</p>
+            </div>
+          </div>
+
+          <button type="button" class="start-btn" id="start-btn">
+            ▶ BẮT ĐẦU THỬ THÁCH
+          </button>
+
+          <p class="intro-warning">
+            ⚠️ 8 chặng lịch sử. 32 quyết định. Mỗi lựa chọn ảnh hưởng trực tiếp đến vận mệnh dân tộc!
+          </p>
+        </div>
+      </section>
+
+      <!-- SCREEN 2: LEVEL / SCENARIO SCREEN -->
+      <section class="screen-view" id="screen-level" aria-labelledby="situation-headline">
+        <div class="level-card">
+          <div class="level-header">
+            <span class="level-tag" id="level-tag">LEVEL 1</span>
+            <span class="level-time-badge" id="level-time-badge">⏰ 07:30 SÁNG</span>
+          </div>
+
+          <div class="level-situation">
+            <h2 class="situation-headline" id="situation-headline">Tình huống</h2>
+            <p class="situation-desc" id="situation-desc">Nội dung tình huống...</p>
+          </div>
+
+          <!-- NPC Dialogue Box -->
+          <div class="npc-dialogue-box" id="npc-dialogue-box" hidden>
+            <div class="npc-avatar" id="npc-avatar">👨‍💻</div>
+            <div class="npc-bubble">
+              <div class="npc-name" id="npc-name">Tuấn Đi Tắt</div>
+              <div class="npc-quote" id="npc-quote">“Copy đi cho nhanh!”</div>
+            </div>
+          </div>
+
+          <!-- Memory System Callout Box -->
+          <div class="memory-callout-box" id="memory-callout-box" hidden>
+            <div class="memory-callout-text" id="memory-callout-text"></div>
+          </div>
+
+          <!-- Options List -->
+          <div class="level-options" id="level-options-list">
+            <!-- Dynamically injected choices -->
+          </div>
+        </div>
+      </section>
+
+      <!-- SCREEN 2.5: PHILOSOPHICAL REFLECTION SCREEN -->
+      <section class="screen-reflection" id="screen-reflection" aria-label="Khoảnh khắc phản chiếu">
+        <div class="reflection-card">
+          <h2 class="reflection-title">
+            “Dĩ bất biến, ứng vạn biến...<br />Giữ vững độc lập tự do là cái bất biến, muôn vàn sách lược chỉ để phụng sự mục tiêu ấy!”
+          </h2>
+          <p class="reflection-sub">
+            — Bài học lãnh đạo trường tồn của Đảng Cộng sản Việt Nam (1945 - 1951) —
+          </p>
+        </div>
+      </section>
+
+      <!-- SCREEN 3: RESULT SUMMARY SCREEN -->
+      <section class="screen-view" id="screen-result" aria-labelledby="result-title">
+        <div class="result-card">
+          <div class="result-header-tag">HỒ SƠ BẢN LĨNH LÃNH ĐẠO CÁCH MẠNG (1945 - 1951)</div>
+          <h2 class="result-title" id="result-title">🥇 NHÀ CHIẾN LƯỢC QUÂN SỰ & NGOẠI GIAO TÀI BA</h2>
+          <div class="result-badge" id="result-badge">SÁCH LƯỢC TÀI TÌNH — THỜI CƠ CHÍN MUỒI</div>
+
+          <blockquote class="result-quote" id="result-quote">
+            “Biết mình, biết người, trăm trận không nguy. Bạn luôn đưa ra quyết sách đúng vào thời khắc bước ngoặt lịch sử.”
+          </blockquote>
+
+          <p class="result-desc" id="result-desc">
+            Bạn đã xuất sắc vượt qua các thử thách lịch sử trong giai đoạn 1945 - 1951...
+          </p>
+
+          <div class="result-analysis" id="result-analysis">
+            <!-- Profile analysis text -->
+          </div>
+
+          <!-- 5-Axis Radar Chart & Score Details -->
+          <div class="result-stats-section">
+            <div class="radar-canvas-wrap">
+              <canvas id="radar-canvas" class="radar-canvas" width="320" height="320"></canvas>
+            </div>
+            <div class="result-stats-list" id="result-stats-list">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+
+          <!-- Unlocked Achievements -->
+          <div class="achievements-box">
+            <div class="achievements-box__title">
+              <span>🏅</span> Danh mục Thành tựu Bản lĩnh Cách mạng đã Đạt được
+            </div>
+            <div class="achievements-grid" id="achievements-list">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+
+          <!-- Educational History Box -->
+          <div class="hcm-takeaway-box">
+            <div class="hcm-takeaway-box__title">
+              <span>📜</span> Bài Học Lịch Sử: Bản Lĩnh Lãnh Đạo của Đảng Giai Đoạn 1945 – 1951
+            </div>
+            <div class="hcm-takeaway-box__content">
+              <p>
+                Giai đoạn 1945 - 1951 là một trong những trang sử hào hùng và thử thách cam go nhất: Từ tình thế <strong>"Ngàn cân treo sợi tóc"</strong>, Đảng ta đứng đầu là Chủ tịch Hồ Chí Minh đã tài tình chèo lái con thuyền cách mạng — giải quyết nạn đói, nạn mù chữ, xây dựng chính quyền kiểu mới bằng Tổng tuyển cử và Hiến pháp 1946.
+              </p>
+              <p>
+                Sách lược ngoại giao <em>"Hòa để tiến"</em>, quyết định lịch sử <em>Toàn quốc kháng chiến</em>, chiến thắng vang dội tại <em>Việt Bắc Thu - Đông 1947</em> và <em>Biên giới 1950</em>, cùng dấu mốc <em>Đại hội II (1951)</em> đã khẳng định đường lối kháng chiến toàn dân, toàn diện, trường kỳ, tự lực cánh sinh — bài học muôn đời cho sự nghiệp xây dựng và bảo vệ Tổ quốc hôm nay.
+              </p>
+            </div>
+          </div>
+
+          <div class="result-actions">
+            <button type="button" class="btn-primary" id="restart-btn">
+              🔄 Chơi lại để thử nghiệm góc nhìn chiến lược mới
+            </button>
+            <button type="button" class="btn-secondary" id="share-btn">
+              📋 Sao chép Hồ sơ Kết quả
+            </button>
+            <a href="./index.html" class="btn-secondary">
+              🏛️ Trở về Sảnh Bảo Tàng
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Feedback Modal Dialog with Academic Decode -->
+    <div class="game-modal-overlay" id="feedback-modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="game-modal">
+        <div class="modal-emoji" id="modal-emoji">💡</div>
+        <h3 class="modal-title" id="modal-title">Kết quả lựa chọn</h3>
+        <div class="modal-quote" id="modal-quote">“Trích dẫn...”</div>
+        <p class="modal-detail" id="modal-detail">Phân tích hậu quả thực tế...</p>
+        
+        <div class="modal-deltas" id="modal-deltas">
+          <!-- Dynamic Delta chips -->
+        </div>
+
+        <div class="modal-decode-box" id="modal-decode-box">
+          <div class="modal-decode-head">
+            <span class="modal-decode-badge">GIÁO TRÌNH LỊCH SỬ ĐẢNG</span>
+            <span class="modal-decode-chapter" id="modal-decode-chapter">Phần 1: Xây dựng & bảo vệ chính quyền non trẻ</span>
+          </div>
+          <div class="modal-decode-content" id="modal-decode-content">
+            Nội dung lý luận giáo trình...
+          </div>
+        </div>
+
+        <button type="button" class="modal-btn" id="modal-next-btn">
+          Tiếp Tục Chặng Tiếp Theo ➔
+        </button>
+      </div>
+    </div>
+
+    <!-- Mid-Game Behavioral Observation Modal -->
+    <div class="game-modal-overlay" id="midgame-analysis-modal" role="dialog" aria-modal="true">
+      <div class="game-modal">
+        <div class="modal-emoji">⚡</div>
+        <h3 class="modal-title">ĐÁNH GIÁ SÁCH LƯỢC GIỮA CHẶNG (1945 - 1946)</h3>
+        <div class="modal-quote">“Vượt qua thời khắc ngàn cân treo sợi tóc...” ⚡</div>
+        <p class="modal-detail" id="midgame-tendency-desc">
+          Hệ thống nhận thấy xu hướng giải quyết vấn đề của bạn...
+        </p>
+        <p class="modal-detail" style="font-style: italic; color: var(--gold-soft); font-size: 0.85rem;">
+          Nghệ thuật lãnh đạo cách mạng đòi hỏi sự kiên định trong nguyên tắc và linh hoạt mềm dẻo trong phương pháp. Hãy sẵn sàng bước vào giai đoạn Toàn quốc kháng chiến trường kỳ!
+        </p>
+        <button type="button" class="modal-btn" id="midgame-close-btn">
+          Tiếp Tục Đối Diện Thử Thách ➔
+        </button>
+      </div>
+    </div>
+
+    <!-- Knowledge Tree Modal -->
+    <div class="game-modal-overlay" id="knowledge-tree-modal" role="dialog" aria-modal="true">
+      <div class="game-modal">
+        <div class="modal-emoji">🌳</div>
+        <h3 class="modal-title">CÂY TRI THỨC LỊCH SỬ ĐẢNG (1945 - 1951)</h3>
+        <p class="modal-detail">
+          Các mốc son đường lối và chủ trương chiến lược được mở khóa tương ứng với các quyết sách bạn đưa ra trong từng chặng thử thách.
+        </p>
+        <div class="knowledge-tree-list" id="knowledge-tree-list">
+          <!-- Rendered via JS -->
+        </div>
+        <button type="button" class="modal-btn" id="knowledge-tree-close-btn">
+          Đóng Sơ Đồ Tri Thức
+        </button>
+      </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast-msg" id="toast-msg" role="status" aria-live="polite"></div>
+
+    <script type="module" src="/src/game/game.js"></script>
+  </body>
+</html>

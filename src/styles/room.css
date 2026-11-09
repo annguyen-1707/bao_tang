@@ -1,0 +1,1111 @@
+/* ---------- Trang phòng tranh ---------- */
+
+body.room {
+  height: 100dvh;
+  max-height: 100dvh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: var(--granite-deep);
+  color: var(--cream);
+  animation: room-in 0.5s ease both;
+}
+
+@keyframes room-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.room-header {
+  position: relative;
+  flex: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 24px;
+  padding: clamp(10px, 1.8vh, 16px) clamp(16px, 3.5vw, 48px);
+  background:
+    linear-gradient(to bottom, rgb(122 23 18 / 0.18), transparent),
+    var(--granite-deep);
+  border-bottom: 2px solid rgb(201 162 63 / 0.6);
+  z-index: 5;
+}
+
+.back-link {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  text-decoration: none;
+  border: 1px solid rgb(201 162 63 / 0.6);
+  border-radius: 2px;
+  color: var(--cream);
+}
+
+.back-link:hover {
+  background: var(--lacquer);
+  border-color: var(--gold);
+}
+
+.room-heading {
+  flex: 1 1 360px;
+  min-width: 0;
+}
+
+.room-name {
+  margin: 0;
+  font-size: clamp(1.2rem, 2.2vw, 1.85rem);
+  color: var(--gold-soft);
+  text-wrap: balance;
+  line-height: 1.25;
+}
+
+.room-intro {
+  margin: 4px 0 0;
+  max-width: 85ch;
+  font-size: clamp(0.82rem, 1.1vw, 0.92rem);
+  line-height: 1.45;
+  color: rgb(243 237 224 / 0.8);
+}
+
+#room-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* ---------- Bức tường ---------- */
+
+.wall {
+  --tick-h: 50px;
+  --gap: clamp(56px, 8vw, 128px);
+
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  container-type: size; /* kích thước tranh tính theo chiều cao thật của bức tường */
+  cursor: grab;
+  background:
+    linear-gradient(to bottom, rgb(0 0 0 / 0.38), transparent 14%, transparent 82%, rgb(0 0 0 / 0.32)),
+    radial-gradient(ellipse 120% 80% at 50% 40%, var(--moss), var(--moss-deep));
+  scrollbar-color: var(--gold) rgb(0 0 0 / 0.25);
+  scrollbar-width: thin;
+}
+
+.wall.is-dragging {
+  cursor: grabbing;
+  user-select: none;
+}
+
+.wall.is-dragging .frame {
+  cursor: grabbing;
+}
+
+.wall__track {
+  /* Chừa chỗ cho khoảng so le, khung, bảng tên và mốc thời gian */
+  --art-h: clamp(160px, calc(100cqh - 220px), 420px);
+
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  gap: var(--gap);
+  width: max-content;
+  min-height: 100%;
+  margin: 0;
+  padding: 0 clamp(32px, 7vw, 120px);
+  list-style: none;
+}
+
+/* Đường thời gian chạy dọc chân tường */
+.wall.is-timeline .wall__track::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: calc(var(--tick-h) - 6px);
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--gold) 4%, var(--gold) 96%, transparent);
+  opacity: 0.85;
+}
+
+.exhibit {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: clamp(28px, 5cqh, 56px);
+  padding-bottom: 28px;
+}
+
+/* So le cao thấp */
+.exhibit:nth-child(even) {
+  padding-top: clamp(52px, 11cqh, 104px);
+}
+
+.exhibit:nth-child(3n) {
+  padding-top: clamp(40px, 8cqh, 80px);
+}
+
+.wall.is-timeline .exhibit {
+  padding-bottom: 0;
+}
+
+/* Đèn rọi từ trên xuống mỗi tranh */
+.exhibit::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: calc(100% + var(--gap));
+  height: 100%;
+  transform: translateX(-50%);
+  background: radial-gradient(ellipse 48% 62% at 50% 22%, rgb(255 233 190 / 0.26), rgb(255 233 190 / 0.08) 55%, transparent 75%);
+  pointer-events: none;
+}
+
+.exhibit::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 56px;
+  height: 10px;
+  transform: translateX(-50%);
+  background: linear-gradient(to bottom, #2a2924, #4a473f);
+  border-bottom: 2px solid var(--gold);
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 6px 18px rgb(255 228 170 / 0.35);
+}
+
+/* ---------- Khung tranh ---------- */
+
+.frame {
+  position: relative;
+  display: block;
+  padding: 11px;
+  border: 0;
+  border-radius: 1px;
+  cursor: zoom-in;
+  font: inherit;
+  background:
+    linear-gradient(135deg, #7d5f1c 0%, #e2c77a 22%, #a8842f 46%, #f0dc96 64%, #9a7726 84%, #6e5318 100%);
+  box-shadow:
+    inset 0 0 0 1px rgb(255 240 200 / 0.55),
+    inset 0 0 0 3px rgb(90 66 20 / 0.6),
+    0 0 0 2px #4a3810,
+    0 0 0 4px var(--gold),
+    0 0 0 5px #4a3810,
+    0 22px 36px rgb(0 0 0 / 0.5),
+    0 6px 10px rgb(0 0 0 / 0.35);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.frame:hover {
+  transform: translateY(-2px);
+}
+
+.frame:focus-visible {
+  outline: 3px solid var(--gold-soft);
+  outline-offset: 10px;
+  box-shadow:
+    inset 0 0 0 1px rgb(255 240 200 / 0.55),
+    inset 0 0 0 3px rgb(90 66 20 / 0.6),
+    0 0 0 2px #4a3810,
+    0 0 0 4px var(--gold),
+    0 0 0 5px #4a3810,
+    0 22px 36px rgb(0 0 0 / 0.5);
+}
+
+.frame__mat {
+  display: block;
+  padding: clamp(8px, 1.4cqh, 16px);
+  background: #f3ede0;
+  box-shadow:
+    inset 0 2px 6px rgb(0 0 0 / 0.22),
+    inset 0 0 0 1px rgb(0 0 0 / 0.08);
+}
+
+.frame__art {
+  display: block;
+  height: var(--art-h);
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #e3dccb;
+  box-shadow: 0 0 0 1px rgb(60 45 20 / 0.35);
+}
+
+.frame__art svg,
+.frame__art img,
+.lightbox__canvas svg,
+.lightbox__canvas img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ---------- Bảng tên dưới tranh ---------- */
+
+.plaque {
+  display: grid;
+  gap: 2px;
+  margin-top: clamp(8px, 1.4cqh, 14px);
+  max-width: 290px;
+  padding: 6px 14px 7px;
+  text-align: center;
+  color: var(--ink);
+  background: linear-gradient(#efe7d4, #ddd3bc);
+  border: 1px solid #a8842f;
+  box-shadow: 0 4px 10px rgb(0 0 0 / 0.3);
+}
+
+.plaque__title {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: clamp(0.78rem, 1cqw, 0.86rem);
+  line-height: 1.25;
+}
+
+.plaque__time {
+  font-size: 0.74rem;
+  font-weight: 500;
+  color: #5a4630;
+}
+
+/* ---------- Mốc thời gian ---------- */
+
+.tick {
+  display: grid;
+  justify-items: center;
+  gap: 8px;
+  height: var(--tick-h);
+  margin-top: auto;
+  padding-top: 0;
+}
+
+.tick__dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--gold);
+  box-shadow: 0 0 0 3px var(--moss-deep), 0 0 0 4px rgb(201 162 63 / 0.6);
+}
+
+.tick__year {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--gold-soft);
+}
+
+/* ---------- Phòng không tồn tại ---------- */
+
+.not-found {
+  margin: clamp(32px, 8vh, 80px) auto;
+  padding: 0 16px;
+  width: min(560px, 100%);
+  text-align: center;
+}
+
+.not-found__link {
+  display: inline-block;
+  padding: 12px 22px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--cream);
+  background: var(--lacquer);
+  border: 1px solid var(--gold);
+}
+
+.not-found__label {
+  margin: 32px 0 8px;
+  color: rgb(243 237 224 / 0.7);
+}
+
+.not-found__rooms {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 2;
+}
+
+.not-found__rooms a {
+  color: var(--gold-soft);
+}
+
+/* ---------- Lightbox ---------- */
+
+.lightbox {
+  width: 100vw;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: clamp(8px, 2vh, 24px) clamp(8px, 2vw, 28px);
+  border: 0;
+  color: var(--ink);
+  background: rgb(14 13 12 / 0.9);
+  overflow: hidden;
+}
+
+.lightbox::backdrop {
+  background: rgb(0 0 0 / 0.4);
+}
+
+.lightbox[open] {
+  display: grid;
+  place-items: center;
+  animation: lb-in 0.28s ease both;
+}
+
+@keyframes lb-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.lightbox__inner {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(320px, 1fr);
+  grid-template-rows: minmax(0, 1fr) auto;
+  grid-template-areas:
+    'art text'
+    'art nav';
+  width: min(1360px, 100%);
+  height: min(840px, 100%);
+  max-height: 96dvh;
+  background: #1f1e1b;
+  border: 1px solid rgb(201 162 63 / 0.6);
+  box-shadow: 0 30px 80px rgb(0 0 0 / 0.6);
+}
+
+.lightbox__art {
+  grid-area: art;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  justify-items: center;
+  gap: 14px;
+  padding: clamp(20px, 4vw, 40px) clamp(20px, 4vw, 48px) 16px;
+  min-height: 0;
+  background: radial-gradient(ellipse at 50% 30%, #3a3833, #1f1e1b 75%);
+}
+
+.flip-stage {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  container-type: size;
+}
+
+/* Thẻ tranh vừa khít ô theo đúng tỉ lệ ảnh (--ar do JS gán) */
+.flip {
+  --ar: 0.8;
+  width: min(100cqw, 100cqh * var(--ar));
+  aspect-ratio: var(--ar);
+  perspective: 1800px;
+}
+
+.flip__inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.7s cubic-bezier(0.3, 0.7, 0.2, 1);
+}
+
+.flip.is-flipped .flip__inner {
+  transform: rotateY(180deg);
+}
+
+.flip__face {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* Mặt sau: tấm bìa giấy kraft sau khung tranh */
+.flip__back {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 18px;
+  padding: clamp(20px, 7%, 48px);
+  overflow: auto;
+  color: var(--ink);
+  background:
+    repeating-linear-gradient(90deg, rgb(110 83 24 / 0.05) 0 2px, transparent 2px 7px),
+    linear-gradient(160deg, #d9c49a, #c6ad7c);
+  border: 10px solid #5b4416;
+  box-shadow: 0 18px 40px rgb(0 0 0 / 0.55), inset 0 0 30px rgb(80 55 15 / 0.35);
+  transform: rotateY(180deg);
+}
+
+/* Mặt sau: đoạn ý nghĩa, rồi trích dẫn của Chủ tịch Hồ Chí Minh */
+.flip__today {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: clamp(1rem, 1.9vw, 1.2rem);
+  line-height: 1.65;
+}
+
+.flip__quote {
+  margin: 0;
+  padding: 12px 0 0 16px;
+  font-family: var(--font-serif);
+  font-size: clamp(0.95rem, 1.7vw, 1.08rem);
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--lacquer-deep);
+  border-left: 3px solid var(--lacquer);
+}
+
+.flip__quote[hidden] {
+  display: none;
+}
+
+.flip__quote p {
+  margin: 0;
+}
+
+.flip__quote footer {
+  margin-top: 8px;
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-style: normal;
+  color: #5a4630;
+}
+
+.flip__quote .quote-pending {
+  display: block;
+  margin-top: 4px;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: #6e5318;
+}
+
+.lb-flip-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 40px;
+  padding: 8px 18px;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--cream);
+  background: rgb(28 27 25 / 0.6);
+  border: 1px solid rgb(201 162 63 / 0.7);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.lb-flip-btn:hover,
+.lb-flip-btn[aria-pressed='true'] {
+  background: var(--lacquer);
+}
+
+.lb-flip-btn:focus-visible {
+  outline: 3px solid var(--gold-soft);
+  outline-offset: 2px;
+  box-shadow: none;
+}
+
+.lightbox__canvas {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  background: linear-gradient(135deg, #7d5f1c, #e2c77a 24%, #a8842f 50%, #f0dc96 70%, #7d5f1c);
+  box-shadow: 0 0 0 2px #4a3810, 0 18px 40px rgb(0 0 0 / 0.55);
+}
+
+.lightbox__canvas > * {
+  background: #f3ede0;
+}
+
+.lightbox__text {
+  grid-area: text;
+  min-height: 0;
+  overflow-y: auto;
+  padding: clamp(24px, 3.5vw, 44px) clamp(20px, 3vw, 40px) 20px;
+  background: var(--cream);
+}
+
+.lightbox__time {
+  margin: 0;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--lacquer);
+}
+
+.lightbox__title {
+  margin: 6px 48px 0 0;
+  font-size: clamp(1.4rem, 2.6vw, 2rem);
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.lightbox__desc {
+  margin: 16px 0 0;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+
+
+
+
+.lightbox__time[hidden],
+.lightbox__credit[hidden] {
+  display: none;
+}
+
+.lightbox__credit {
+  margin: 20px 0 0;
+  font-size: 0.8rem;
+  color: #5a4630;
+}
+
+.lightbox__nav {
+  grid-area: nav;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px clamp(20px, 3vw, 40px);
+  background: #ebe3d1;
+  border-top: 1px solid rgb(28 27 25 / 0.12);
+}
+
+.lightbox__count {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: #5a4630;
+}
+
+.lb-btn,
+.lb-close {
+  font: inherit;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.lb-btn {
+  min-width: 52px;
+  height: 40px;
+  font-size: 1.1rem;
+  color: var(--cream);
+  background: var(--lacquer);
+  border: 1px solid var(--lacquer-deep);
+}
+
+.lb-btn:hover:not(:disabled) {
+  background: var(--lacquer-deep);
+}
+
+.lb-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.lb-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 40px;
+  height: 40px;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--ink);
+  background: rgb(243 237 224 / 0.9);
+  border: 1px solid rgb(28 27 25 / 0.25);
+  z-index: 2;
+}
+
+.lb-close:hover {
+  background: #fff;
+}
+
+.lb-btn:focus-visible,
+.lb-close:focus-visible {
+  outline: 3px solid var(--lacquer);
+  outline-offset: 2px;
+  box-shadow: none;
+}
+
+/* ---------- Điện thoại ---------- */
+
+@media (max-width: 720px) {
+  .wall {
+    --gap: 10vw;
+    height: max(480px, calc(100dvh - var(--room-header-h, 200px)));
+  }
+
+  .wall__track {
+    padding: 0 10vw;
+  }
+
+  .exhibit {
+    width: 80vw;
+    padding-top: 48px;
+  }
+
+  .exhibit:nth-child(even) {
+    padding-top: 84px;
+  }
+
+  .exhibit:nth-child(3n) {
+    padding-top: 64px;
+  }
+
+  .frame {
+    width: 100%;
+    padding: 8px;
+  }
+
+  .frame__mat {
+    padding: 12px;
+  }
+
+  .frame__art {
+    width: 100%;
+    height: auto;
+    max-height: calc(100cqh - 330px);
+  }
+
+  .plaque {
+    margin-top: 18px;
+  }
+
+  .lightbox {
+    padding: 0;
+  }
+
+  .lightbox__inner,
+  .lightbox__inner.is-wide {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto minmax(0, 1fr) auto;
+    grid-template-areas: 'art' 'text' 'nav';
+    height: 100%;
+    border: 0;
+  }
+
+  .lightbox__art {
+    height: 44dvh;
+    padding: 52px 20px 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.room,
+  .lightbox[open] {
+    animation: none;
+  }
+
+  /* Lật tranh bằng hiệu ứng mờ dần thay vì xoay */
+  .flip__inner,
+  .flip.is-flipped .flip__inner {
+    transition: none;
+    transform: none;
+  }
+
+  .flip__back {
+    transform: none;
+  }
+
+  .flip__front,
+  .flip__back {
+    transition: opacity 0.2s ease;
+  }
+
+  .flip__back,
+  .flip.is-flipped .flip__front {
+    opacity: 0;
+  }
+
+  .flip.is-flipped .flip__back {
+    opacity: 1;
+  }
+
+  .frame {
+    transition: none;
+  }
+
+  .frame:hover {
+    transform: none;
+  }
+}
+
+
+.lightbox__credit a {
+  color: var(--lacquer);
+  text-underline-offset: 2px;
+}
+
+/* Biển ghi mô tả ảnh (chữ nghiêng, nhỏ hơn tên tranh) */
+.plaque__caption {
+  text-wrap: balance;
+  font-family: var(--font-serif);
+  font-size: clamp(0.74rem, 0.95cqw, 0.82rem);
+  font-style: italic;
+  line-height: 1.3;
+}
+
+/* Thông tin tư liệu: kiểu thẻ hiện vật trong bảo tàng */
+.artifact {
+  margin-top: 26px;
+  padding: 18px 20px 16px;
+  background: #fbf7ee;
+  border: 1px solid rgb(168 132 47 / 0.55);
+  border-top: 3px solid var(--gold);
+}
+
+.artifact[hidden] {
+  display: none;
+}
+
+.artifact__title {
+  margin: 0 0 12px;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #6e5318;
+}
+
+.artifact__meta {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 6px 16px;
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.artifact__meta dt {
+  color: #6a5a45;
+}
+
+.artifact__meta dd {
+  margin: 0;
+  font-weight: 500;
+}
+
+.artifact__meta dt:first-child + dd {
+  font-family: var(--font-serif);
+  font-weight: 600;
+}
+
+.artifact__desc {
+  margin: 14px 0 0;
+  padding-top: 12px;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  border-top: 1px dashed rgb(168 132 47 / 0.45);
+}
+
+.artifact__desc[hidden] {
+  display: none;
+}
+
+.artifact .lightbox__credit {
+  margin: 12px 0 0;
+}
+
+/* Âm thanh và Cài đặt ở bên phải thanh đầu trang */
+.room-header__actions {
+  order: 3;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: auto;
+}
+
+.room-header__actions > div {
+  display: flex;
+}
+
+@media (max-width: 640px) {
+  /* Màn hình hẹp: đặt cạnh nút "Về sảnh", dải âm thanh thu gọn còn hai nút */
+  .room-header__actions {
+    position: absolute;
+    top: clamp(16px, 3vw, 28px);
+    right: clamp(16px, 4vw, 56px);
+  }
+}
+
+/* ---------- Phim tư liệu trên khung tranh ---------- */
+
+/* Ảnh làm nền chờ, phim phủ lên trên khi tải xong */
+.frame__art.has-video,
+.lightbox__canvas.has-video {
+  position: relative;
+  background: #000;
+}
+
+.art-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Bản xem trước không nhận bấm: bấm vào khung là mở lightbox */
+.art-video--preview {
+  pointer-events: none;
+}
+
+/* Nhãn trên khung tranh ở tường */
+.frame__video {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  padding: 4px 10px;
+  font-family: var(--font-ui);
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--cream);
+  background: rgb(28 27 25 / 0.82);
+  border: 1px solid rgb(226 199 122 / 0.7);
+  border-radius: 999px;
+  pointer-events: none;
+}
+
+/* Khung ảnh đi cặp với khung phim của cùng một tranh: đứng sát khung phim hơn */
+.exhibit--paired {
+  margin-left: calc(var(--gap) * -0.45);
+}
+
+.artifact__meta[hidden],
+.artifact__desc[hidden] {
+  display: none;
+}
+
+/* ---------- Ảnh ngang trong lightbox: tỉ lệ hài hòa giữa ảnh và thông tin ---------- */
+.lightbox__inner.is-wide {
+  grid-template-columns: minmax(0, 1.35fr) minmax(340px, 1fr);
+}
+
+.lightbox__inner.is-wide .lightbox__art {
+  padding-inline: clamp(16px, 2.5vw, 32px);
+}
+
+/* ---------- Tối ưu cho màn hình laptop / máy tính phổ thông (768p, 800p, 900p) ---------- */
+@media (max-height: 840px) {
+  .room-header {
+    padding: 8px clamp(12px, 2.5vw, 32px);
+    gap: 8px 20px;
+  }
+
+  .room-name {
+    font-size: clamp(1.1rem, 2vw, 1.45rem);
+  }
+
+  .room-intro {
+    font-size: 0.82rem;
+    line-height: 1.38;
+    max-width: 90ch;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .back-link {
+    padding: 5px 12px;
+    font-size: 0.84rem;
+  }
+
+  .wall {
+    --gap: clamp(48px, 6.5vw, 96px);
+  }
+
+  .wall__track {
+    --art-h: clamp(140px, calc(100cqh - 160px), 330px);
+  }
+
+  .lightbox {
+    padding: 6px 12px;
+  }
+
+  .lightbox__inner {
+    height: calc(100dvh - 12px);
+    max-height: calc(100dvh - 12px);
+  }
+
+  .lightbox__art {
+    padding: 14px 20px 10px;
+    gap: 8px;
+  }
+
+  .lightbox__text {
+    padding: 16px 20px 12px;
+  }
+
+  .lightbox__title {
+    font-size: 1.25rem;
+  }
+
+  .lightbox__desc {
+    font-size: 0.88rem;
+    line-height: 1.45;
+  }
+
+  .artifact {
+    margin-top: 14px;
+    padding: 12px 14px;
+  }
+
+  .lb-flip-btn {
+    min-height: 34px;
+    padding: 5px 14px;
+    font-size: 0.82rem;
+  }
+
+  .lightbox__nav {
+    padding: 8px 16px;
+  }
+}
+
+@media (max-width: 1100px) and (min-width: 721px) {
+  .lightbox__inner,
+  .lightbox__inner.is-wide {
+    grid-template-columns: minmax(0, 1.15fr) minmax(280px, 1fr);
+  }
+
+  .lightbox__text {
+    padding: 18px 20px 14px;
+  }
+}
+
+/* Bấm vào ảnh trong lightbox để xem toàn màn hình */
+.lightbox__canvas.is-zoomable {
+  cursor: zoom-in;
+}
+
+.lightbox__canvas.is-zoomable:focus-visible {
+  outline: 3px solid var(--gold-soft);
+  outline-offset: 3px;
+}
+
+.zoom {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  place-items: center;
+  gap: 10px;
+  padding: 24px;
+  background: rgb(10 9 8 / 0.95);
+  cursor: zoom-out;
+}
+
+.zoom[hidden] {
+  display: none;
+}
+
+.zoom img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  box-shadow: 0 20px 60px rgb(0 0 0 / 0.6);
+}
+
+.zoom__caption {
+  margin: 0;
+  max-width: 900px;
+  font-family: var(--font-serif);
+  font-style: italic;
+  text-align: center;
+  color: var(--cream);
+}
+
+.zoom__caption:empty {
+  display: none;
+}
+
+.zoom__close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 44px;
+  height: 44px;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--cream);
+  background: rgb(28 27 25 / 0.8);
+  border: 1px solid rgb(201 162 63 / 0.6);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.zoom__close:focus-visible {
+  outline: 2px solid var(--gold-soft);
+  outline-offset: 2px;
+}
+
+/* ---------- Bộ chuyển đổi ảnh khi mục có nhiều ảnh ---------- */
+.art-switcher {
+  position: absolute;
+  bottom: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  background: rgb(24 23 21 / 0.88);
+  border: 1px solid rgb(201 162 63 / 0.6);
+  border-radius: 999px;
+  padding: 4px 8px;
+  z-index: 10;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 4px 16px rgb(0 0 0 / 0.45);
+}
+
+.art-switcher__btn {
+  background: transparent;
+  border: 1px solid transparent;
+  color: var(--cream);
+  font-family: var(--font-ui);
+  font-size: 0.76rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.art-switcher__btn:hover {
+  background: rgb(201 162 63 / 0.25);
+  color: #fff;
+}
+
+.art-switcher__btn.is-active {
+  background: var(--gold);
+  border-color: var(--gold-soft);
+  color: #1a1918;
+}
+
