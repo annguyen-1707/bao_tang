@@ -66,7 +66,12 @@
       "id": "tinh-hinh-sau-cmn8",
       "order": 1,
       "icon": "star",
-      "audio": null,
+      "audio": {
+        "src": "audio/phong/p1.mp3",
+        "title": "Thuyết minh Phần 1",
+        "loop": false,
+        "volume": 1
+      },
       "name": "Tình hình sau Cách mạng Tháng Tám (1945)",
       "chapter": "Phần 1",
       "subtitle": "Xây dựng và bảo vệ chính quyền cách mạng 1945 - 1946 (Trang 60 - 62)",
@@ -336,7 +341,12 @@
       "id": "xay-dung-che-do-moi",
       "order": 2,
       "icon": "ballot",
-      "audio": null,
+      "audio": {
+        "src": "audio/phong/p2.mp3",
+        "title": "Thuyết minh Phần 2",
+        "loop": false,
+        "volume": 1
+      },
       "name": "Xây dựng chế độ mới và chính quyền cách mạng (1945 - 1946)",
       "chapter": "Phần 2",
       "subtitle": "Xây dựng và bảo vệ chính quyền cách mạng 1945 - 1946 (Trang 62 - 64)",
@@ -606,7 +616,12 @@
       "id": "khang-chien-nam-bo",
       "order": 3,
       "icon": "ship",
-      "audio": null,
+      "audio": {
+        "src": "audio/phong/p3.mp3",
+        "title": "Thuyết minh Phần 3",
+        "loop": false,
+        "volume": 1
+      },
       "name": "Kháng chiến ở Nam Bộ và bảo vệ chính quyền (1945 - 1946)",
       "chapter": "Phần 3",
       "subtitle": "Xây dựng và bảo vệ chính quyền cách mạng 1945 - 1946 (Trang 64 - 69)",
